@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "371b4aef8fe57a11",
+        "id": "6db9fba4e4617f98",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d4db6aab751e0d",
+            "id": "77271d3cc6084a10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d4db6aab751e0d",
+  "active": "77271d3cc6084a10",
   "lastOpenFiles": [
-    "информационные системы и технологии.md"
+    "информационные системы и технологии.md",
+    "Untitled.md"
   ]
 }
