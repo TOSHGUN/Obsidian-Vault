@@ -13,5 +13,12 @@
 >## section header 2
 > section content 
 
+^8a48de
+
+
 [link to google](www.google.com)
 backlink to [[информационные системы и технологии]]
+
+reference to paragraph inserted in document ![[Markdown tags#^8a48de]]
+
+#hashtag helps to search information in future
