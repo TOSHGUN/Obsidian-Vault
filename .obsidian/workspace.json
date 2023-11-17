@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6db9fba4e4617f98",
-        "type": "tabs",
+        "id": "e102ff05ee7eb40f",
+        "type": "split",
         "children": [
           {
-            "id": "77271d3cc6084a10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "информационные системы и технологии.md",
-                "mode": "source",
-                "source": false
+            "id": "6db9fba4e4617f98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77271d3cc6084a10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Markdown tags.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "2509f12e953a278f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e1dbeac1be1dab6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Markdown tags.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "информационные системы и технологии.md",
+                "file": "Markdown tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "информационные системы и технологии.md",
+                "file": "Markdown tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "информационные системы и технологии.md"
+                "file": "Markdown tags.md"
               }
             }
           }
@@ -146,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77271d3cc6084a10",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "univercity",
     "информационные системы и технологии.md",
-    "Untitled.md"
+    "Markdown tags.md"
   ]
 }
