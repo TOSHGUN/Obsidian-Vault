@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e102ff05ee7eb40f",
+        "id": "2d1b97acdb221dfb",
         "type": "split",
         "children": [
           {
@@ -12,7 +12,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "77271d3cc6084a10",
+                "id": "e0b25b5d1597d552",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -22,34 +22,21 @@
                     "source": true
                   }
                 }
-              },
-              {
-                "id": "e0b25b5d1597d552",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Zettelkasten method.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "2509f12e953a278f",
+            "id": "42add16a80cd76c4",
             "type": "tabs",
             "children": [
               {
-                "id": "7f19242e24e78d50",
+                "id": "366410b430eed5c4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Markdown tags.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten method.md",
+                "file": "Markdown tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten method.md",
+                "file": "Markdown tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten method.md"
+                "file": "Markdown tags.md"
               }
             }
           }
@@ -186,8 +173,8 @@
   },
   "active": "e0b25b5d1597d552",
   "lastOpenFiles": [
-    "Markdown tags.md",
     "Zettelkasten method.md",
+    "Markdown tags.md",
     "univercity",
     "univercity/информационные системы и технологии.md"
   ]
