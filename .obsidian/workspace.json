@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/сайт.md",
+                "file": "Programming/Web/сайт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2986dc3c58e48b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/DevTools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/сайт.md",
+                "file": "Programming/Web/DevTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/сайт.md",
+                "file": "Programming/Web/DevTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/сайт.md"
+                "file": "Programming/Web/DevTools.md"
               }
             }
           }
@@ -157,8 +169,10 @@
   },
   "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "Design/Figma",
+    "Programming/Web/сайт.md",
+    "Programming/Web/DevTools.md",
     "Programming/Web",
-    "Programming/сайт.md",
     "Languages/Japanese",
     "Languages/Spanish",
     "Languages/German",
@@ -174,7 +188,6 @@
     "Science/economics.md",
     "Science/mathematics.md",
     "Markdown tags.md",
-    "Science",
     "Zettelkasten method.md",
     "Univercity-ISPU/информационные системы и технологии.md"
   ]
