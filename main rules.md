@@ -1,0 +1,1 @@
+mirror - if teammate swings swing with them
