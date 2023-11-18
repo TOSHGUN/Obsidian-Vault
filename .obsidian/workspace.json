@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/economics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,7 +140,10 @@
   },
   "active": "029f6cb3279d3959",
   "lastOpenFiles": [
-    "Untitled",
+    "Languages/Japanese",
+    "Languages/Spanish",
+    "Languages/German",
+    "Languages/German.md",
     "Untitled 1",
     "Languages/English",
     "languages.md",
@@ -158,8 +157,6 @@
     "Markdown tags.md",
     "Science",
     "Design",
-    "Sports",
-    "Programming",
     "Zettelkasten method.md",
     "Univercity-ISPU/информационные системы и технологии.md"
   ]
