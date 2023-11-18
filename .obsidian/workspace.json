@@ -4,43 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "0848054edadf504b",
+        "id": "ad6a0f46a29a6b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "73d2dfd52a9259f3",
+            "id": "d4ed6d6f66c9be7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Git/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c69d0bd98a08c98",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "512ba13d2a5672c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/сайт.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2986dc3c58e48b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/DevTools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/DevTools.md",
+                "file": "Programming/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/DevTools.md",
+                "file": "Programming/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/DevTools.md"
+                "file": "Programming/Git/Git.md"
               }
             }
           }
@@ -167,11 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "d4ed6d6f66c9be7c",
   "lastOpenFiles": [
-    "Design/Figma",
-    "Programming/Web/сайт.md",
+    "Programming/Web/HTML.md",
+    "www.google.com.md",
+    "Markdown tags.md",
+    "Programming/Git/Git.md",
+    "Programming/Web/Attachments/html-tag-structure.png",
+    "Pasted image 20231118172934.png",
     "Programming/Web/DevTools.md",
+    "Programming/Web/сайт.md",
+    "Programming/Web/Attachments",
+    "Programming/Git",
+    "Design/Figma",
     "Programming/Web",
     "Languages/Japanese",
     "Languages/Spanish",
@@ -181,13 +176,9 @@
     "Languages/English",
     "languages.md",
     "Languages",
-    "Drawing",
-    "3D-Modeling",
-    "Gaming",
     "gaming.md",
     "Science/economics.md",
     "Science/mathematics.md",
-    "Markdown tags.md",
     "Zettelkasten method.md",
     "Univercity-ISPU/информационные системы и технологии.md"
   ]
