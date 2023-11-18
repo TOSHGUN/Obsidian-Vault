@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ad6a0f46a29a6b6c",
+        "id": "c62f1e2536f01508",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ed6d6f66c9be7c",
+            "id": "99fe446a2f85c2e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Git/Git.md",
+                "file": "Programming/Web/Web.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9c69d0bd98a08c98",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Git/Git.md",
+                "file": "Programming/Web/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Git/Git.md",
+                "file": "Programming/Web/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Git/Git.md"
+                "file": "Programming/Web/Web.md"
               }
             }
           }
@@ -154,14 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4ed6d6f66c9be7c",
+  "active": "99fe446a2f85c2e2",
   "lastOpenFiles": [
     "Programming/Web/HTML.md",
-    "www.google.com.md",
-    "Markdown tags.md",
-    "Programming/Git/Git.md",
+    "my-knowledge.md",
+    "Programming/Programming.md",
+    "2023-11-18.md",
+    "Programming/Web/Web.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
+    "Science/Science.md",
+    "Science/Mathematics",
+    "3D-Modeling/3d-modeling.md",
+    "Design/Design.md",
+    "Drawing/Drawing.md",
+    "Gaming/Gaming.md",
+    "Languages/Languages.md",
+    "Programming/Git/Git.md",
+    "www.google.com.md",
+    "Markdown tags.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/сайт.md",
     "Programming/Web/Attachments",
@@ -175,10 +178,9 @@
     "Untitled 1",
     "Languages/English",
     "languages.md",
-    "Languages",
     "gaming.md",
     "Science/economics.md",
-    "Science/mathematics.md",
+    "Science/Mathematics/mathematics.md",
     "Zettelkasten method.md",
     "Univercity-ISPU/информационные системы и технологии.md"
   ]
