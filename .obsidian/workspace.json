@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "014b7fd0a71b75f7",
+        "id": "1674c02703041019",
         "type": "tabs",
         "children": [
           {
-            "id": "ffada42416ca0458",
+            "id": "d468aa14df589713",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0725d5586bf3e341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to learn 10x faster.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to learn 10x faster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to learn 10x faster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "How to learn 10x faster.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,12 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0725d5586bf3e341",
+  "active": "d468aa14df589713",
   "lastOpenFiles": [
+    "Что контролировать под капотом.md",
+    "Gaming/Main rules.md",
     "How to learn 10x faster.md",
     "Programming/Web/Web.md",
     "Science/Mathematics/mathematics.md",
-    "main rules.md",
     "Programming/Web/HTML.md",
     "my-knowledge.md",
     "Programming/Programming.md",
