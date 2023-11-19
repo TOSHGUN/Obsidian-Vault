@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0725d5586bf3e341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to learn 10x faster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to learn 10x faster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to learn 10x faster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to learn 10x faster.md"
+              }
             }
           }
         ]
@@ -138,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffada42416ca0458",
+  "active": "0725d5586bf3e341",
   "lastOpenFiles": [
+    "How to learn 10x faster.md",
     "Programming/Web/Web.md",
     "Science/Mathematics/mathematics.md",
     "main rules.md",
