@@ -5,18 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431406
+      }
+    },
+    {
+      "query": "path:Science  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Drawing  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Sports  ",
+      "color": {
+        "a": 1,
+        "rgb": 14972961
+      }
+    },
+    {
+      "query": "path:Gaming  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701254
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.0953125,
+  "lineSizeMultiplier": 0.840104166666667,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.5,
+  "repelStrength": 9.0625,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 218,
   "scale": 0.7132754626224422,
   "close": false
 }

@@ -16,27 +16,19 @@
             }
           },
           {
-            "id": "408e80352a31ccaf",
+            "id": "13ac97c7e30bd29b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efficiency/как читать больше.md",
+                "file": "Programming/Web/Базовые теги.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "57b25c50825c9788",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Web/Базовые теги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Web/Базовые теги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Web/Базовые теги.md"
+              }
             }
           }
         ]
@@ -159,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57b25c50825c9788",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "Programming/Web/Базовые теги.md",
+    "Efficiency/как читать больше.md",
     "Car/Что контролировать под капотом.md",
     "Untitled.md",
     "Car/Driving",
@@ -168,7 +166,6 @@
     "Drawing/как рисовать эффективнее.md",
     "Efficiency",
     "Efficiency/Закон Парето.md",
-    "Efficiency/как читать больше.md",
     "Efficiency/7 правил здорового сна.md",
     "Programming/Парсинг на python.md",
     "Gaming/Main rules.md",
