@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e4bbeaccf9c4eac7",
+        "id": "86f26ddae0595962",
         "type": "tabs",
         "children": [
           {
-            "id": "6df506cc0a796305",
+            "id": "c41eccbf10c93bd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Web/Служебные теги.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "f2de7bd7487836ef",
+            "id": "c16c3e2f01bc43ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Прочие теги.md",
+                "file": "плагины для работы vs code.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Прочие теги.md",
+                "file": "плагины для работы vs code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Прочие теги.md",
+                "file": "плагины для работы vs code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Прочие теги.md"
+                "file": "плагины для работы vs code.md"
               }
             }
           }
@@ -159,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2de7bd7487836ef",
+  "active": "c16c3e2f01bc43ed",
   "lastOpenFiles": [
+    "плагины для работы vs code.md",
     "Programming/Web/Служебные теги.md",
     "Programming/Web/Прочие теги.md",
     "Programming/Web/Базовые теги.md",
@@ -192,7 +189,6 @@
     "Languages/Languages.md",
     "Programming/Git/Git.md",
     "www.google.com.md",
-    "Markdown tags.md",
     "Programming/Web/Attachments",
     "Programming/Git",
     "Design/Figma",
