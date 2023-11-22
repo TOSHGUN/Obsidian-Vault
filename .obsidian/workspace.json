@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "c16c3e2f01bc43ed",
+            "id": "616e87d061d83bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "плагины для работы vs code.md",
+                "file": "code-style.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "плагины для работы vs code.md",
+                "file": "code-style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "плагины для работы vs code.md",
+                "file": "code-style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "плагины для работы vs code.md"
+                "file": "code-style.md"
               }
             }
           }
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c16c3e2f01bc43ed",
+  "active": "616e87d061d83bb6",
   "lastOpenFiles": [
+    "code-style.md",
     "плагины для работы vs code.md",
     "Programming/Web/Служебные теги.md",
     "Programming/Web/Прочие теги.md",
@@ -188,7 +189,6 @@
     "Gaming/Gaming.md",
     "Languages/Languages.md",
     "Programming/Git/Git.md",
-    "www.google.com.md",
     "Programming/Web/Attachments",
     "Programming/Git",
     "Design/Figma",
