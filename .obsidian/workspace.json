@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6220b7165fe496e6",
+        "id": "444000a3ac8562eb",
         "type": "tabs",
         "children": [
           {
-            "id": "19262616565cc31f",
+            "id": "81968502cfd7d21f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten method.md",
+                "file": "Gaming/Main rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc85111d8245eb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten method.md",
+                "file": "Programming/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten method.md",
+                "file": "Programming/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten method.md"
+                "file": "Programming/Programming.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19262616565cc31f",
+  "active": "bc85111d8245eb16",
   "lastOpenFiles": [
-    "3D-Modeling/3d-modeling.md",
+    "Untitled.md",
+    "Gaming/Main rules.md",
+    "Gaming/Tips to rank up.md",
     "Zettelkasten method.md",
+    "3D-Modeling/3d-modeling.md",
     "Drawing/Attachments/Pasted image 20231123014148.png",
     "replacing gaming with coding.md",
     "Drawing/техники набросков.md",
@@ -161,7 +177,6 @@
     "Drawing/Attachments/Pasted image 20231123014400.png",
     "Untitled.canvas",
     "Programming/Web/valorant tips.md",
-    "Gaming/Tips to rank up.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/code-style.md",
     "Programming/Web/плагины для работы vs code.md",
@@ -176,14 +191,12 @@
     "Efficiency/Закон Парето.md",
     "Efficiency/7 правил здорового сна.md",
     "Programming/Парсинг на python.md",
-    "Gaming/Main rules.md",
     "Efficiency/How to learn 10x faster.md",
     "Programming/Web/Web.md",
     "Science/Mathematics/mathematics.md",
     "Programming/Web/HTML.md",
     "my-knowledge.md",
     "Programming/Programming.md",
-    "2023-11-18.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
     "Science/Mathematics",
