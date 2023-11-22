@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "86f26ddae0595962",
+        "id": "6e02ee932952d71f",
         "type": "tabs",
         "children": [
           {
-            "id": "c41eccbf10c93bd6",
+            "id": "bb1e093a759ca650",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "61a8d31806af8273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "valorant tips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "valorant tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "valorant tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "valorant tips.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61a8d31806af8273",
+  "active": "bb1e093a759ca650",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "valorant tips.md",
     "Gaming/Tips to rank up.md",
     "Programming/Web/DevTools.md",
@@ -188,7 +172,6 @@
     "Science/Mathematics",
     "3D-Modeling/3d-modeling.md",
     "Design/Design.md",
-    "Drawing/Drawing.md",
     "Programming/Web/Attachments",
     "Programming/Git",
     "Design/Figma",
