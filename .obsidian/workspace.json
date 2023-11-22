@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6e02ee932952d71f",
+        "id": "6220b7165fe496e6",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1e093a759ca650",
+            "id": "19262616565cc31f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten method.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten method.md"
+              }
             }
           }
         ]
@@ -138,14 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb1e093a759ca650",
+  "active": "19262616565cc31f",
   "lastOpenFiles": [
+    "3D-Modeling/3d-modeling.md",
+    "Zettelkasten method.md",
+    "Drawing/Attachments/Pasted image 20231123014148.png",
+    "replacing gaming with coding.md",
+    "Drawing/техники набросков.md",
+    "Drawing/Attachments",
+    "Drawing/Attachments/Pasted image 20231123014900.png",
+    "Drawing/как рисовать эффективнее.md",
+    "Drawing/Attachments/Pasted image 20231123014251.png",
+    "Drawing/Attachments/Pasted image 20231123014628.png",
+    "Drawing/Attachments/Pasted image 20231123014400.png",
     "Untitled.canvas",
-    "valorant tips.md",
+    "Programming/Web/valorant tips.md",
     "Gaming/Tips to rank up.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/code-style.md",
-    "плагины для работы vs code.md",
+    "Programming/Web/плагины для работы vs code.md",
     "Programming/Web/Служебные теги.md",
     "Programming/Web/Прочие теги.md",
     "Programming/Web/Базовые теги.md",
@@ -153,7 +172,6 @@
     "Car/Что контролировать под капотом.md",
     "Car/Driving",
     "Car",
-    "Drawing/как рисовать эффективнее.md",
     "Efficiency",
     "Efficiency/Закон Парето.md",
     "Efficiency/7 правил здорового сна.md",
@@ -168,15 +186,11 @@
     "2023-11-18.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
-    "Science/Science.md",
     "Science/Mathematics",
-    "3D-Modeling/3d-modeling.md",
-    "Design/Design.md",
     "Programming/Web/Attachments",
     "Programming/Git",
     "Design/Figma",
     "Programming/Web",
-    "Languages/Japanese",
-    "Languages/Spanish"
+    "Languages/Japanese"
   ]
 }
