@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code-style.md",
+                "file": "Programming/Web/code-style.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code-style.md",
+                "file": "Programming/Web/code-style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code-style.md",
+                "file": "Programming/Web/code-style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code-style.md"
+                "file": "Programming/Web/code-style.md"
               }
             }
           }
@@ -155,9 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "616e87d061d83bb6",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
-    "code-style.md",
+    "Programming/Web/code-style.md",
     "плагины для работы vs code.md",
     "Programming/Web/Служебные теги.md",
     "Programming/Web/Прочие теги.md",
