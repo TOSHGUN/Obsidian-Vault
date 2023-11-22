@@ -11,17 +11,21 @@
             "id": "6df506cc0a796305",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Web/Служебные теги.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "13ac97c7e30bd29b",
+            "id": "f2de7bd7487836ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web/Базовые теги.md",
+                "file": "Programming/Web/Прочие теги.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Web/Базовые теги.md",
+                "file": "Programming/Web/Прочие теги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Web/Базовые теги.md",
+                "file": "Programming/Web/Прочие теги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Web/Базовые теги.md"
+                "file": "Programming/Web/Прочие теги.md"
               }
             }
           }
@@ -155,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "f2de7bd7487836ef",
   "lastOpenFiles": [
+    "Programming/Web/Служебные теги.md",
+    "Programming/Web/Прочие теги.md",
     "Programming/Web/Базовые теги.md",
     "Efficiency/как читать больше.md",
     "Car/Что контролировать под капотом.md",
-    "Untitled.md",
     "Car/Driving",
     "Car",
     "Drawing/как рисовать эффективнее.md",
@@ -188,7 +193,6 @@
     "Programming/Git/Git.md",
     "www.google.com.md",
     "Markdown tags.md",
-    "Programming/Web/DevTools.md",
     "Programming/Web/Attachments",
     "Programming/Git",
     "Design/Figma",
