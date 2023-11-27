@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "93382244366d89ca",
+        "id": "7f082965a82df2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c93226f1858f447d",
+            "id": "9ecc348877a7d708",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -138,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c93226f1858f447d",
+  "active": "9ecc348877a7d708",
   "lastOpenFiles": [
-    "aim routine.md",
+    "Untitled.canvas",
+    "Gaming/aim routine.md",
     "Programming/Programming.md",
     "Untitled.md",
     "Gaming/Main rules.md",
@@ -156,7 +165,6 @@
     "Drawing/Attachments/Pasted image 20231123014251.png",
     "Drawing/Attachments/Pasted image 20231123014628.png",
     "Drawing/Attachments/Pasted image 20231123014400.png",
-    "Untitled.canvas",
     "Programming/Web/valorant tips.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/code-style.md",
@@ -175,7 +183,6 @@
     "Efficiency/How to learn 10x faster.md",
     "Programming/Web/Web.md",
     "Science/Mathematics/mathematics.md",
-    "Programming/Web/HTML.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
     "Science/Mathematics",
