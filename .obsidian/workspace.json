@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "85b466e071a46c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efficiency/Continious learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/how to generate ego.md",
+                "file": "Efficiency/Continious learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/how to generate ego.md",
+                "file": "Efficiency/Continious learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficiency/how to generate ego.md"
+                "file": "Efficiency/Continious learning.md"
               }
             }
           }
@@ -143,6 +156,8 @@
   },
   "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "Efficiency/Pasted image 20231128234629.png",
+    "Efficiency/Continious learning.md",
     "Efficiency/how to generate ego.md",
     "Gaming/Gaming.md",
     "Gaming/Tips to rank up.md",
@@ -177,8 +192,6 @@
     "Efficiency/Закон Парето.md",
     "Efficiency/7 правил здорового сна.md",
     "Programming/Парсинг на python.md",
-    "Efficiency/How to learn 10x faster.md",
-    "Programming/Web/Web.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
     "Science/Mathematics",
