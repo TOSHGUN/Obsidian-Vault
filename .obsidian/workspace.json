@@ -11,24 +11,15 @@
             "id": "c7665f78d202fe94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "85b466e071a46c13",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Efficiency/Continious learning.md",
+                "file": "Gaming/Main rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/Continious learning.md",
+                "file": "Gaming/Main rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/Continious learning.md",
+                "file": "Gaming/Main rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficiency/Continious learning.md"
+                "file": "Gaming/Main rules.md"
               }
             }
           }
@@ -154,10 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "c7665f78d202fe94",
   "lastOpenFiles": [
-    "Efficiency/Pasted image 20231128234629.png",
+    "Efficiency/60 seconds rule.md",
+    "Efficiency/Pasted image 20231129000633.png",
     "Efficiency/Continious learning.md",
+    "Efficiency/Pasted image 20231128234629.png",
     "Efficiency/how to generate ego.md",
     "Gaming/Gaming.md",
     "Gaming/Tips to rank up.md",
@@ -166,10 +159,10 @@
     "Efficiency/как учиться больше.md",
     "Untitled.canvas",
     "Programming/Programming.md",
-    "Zettelkasten method.md",
+    "Efficiency/Zettelkasten method.md",
     "3D-Modeling/3d-modeling.md",
     "Drawing/Attachments/Pasted image 20231123014148.png",
-    "replacing gaming with coding.md",
+    "Efficiency/replacing gaming with coding.md",
     "Drawing/техники набросков.md",
     "Drawing/Attachments",
     "Drawing/Attachments/Pasted image 20231123014900.png",
@@ -191,7 +184,6 @@
     "Efficiency",
     "Efficiency/Закон Парето.md",
     "Efficiency/7 правил здорового сна.md",
-    "Programming/Парсинг на python.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
     "Science/Mathematics",
