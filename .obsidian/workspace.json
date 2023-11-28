@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7f082965a82df2ce",
+        "id": "e622336b83618d41",
         "type": "tabs",
         "children": [
           {
-            "id": "9ecc348877a7d708",
+            "id": "aee739996254ec11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b85f42e31eef6770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efficiency/как учиться больше.md",
+                "file": "Efficiency/how to generate ego.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/как учиться больше.md",
+                "file": "Efficiency/how to generate ego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/как учиться больше.md",
+                "file": "Efficiency/how to generate ego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficiency/как учиться больше.md"
+                "file": "Efficiency/how to generate ego.md"
               }
             }
           }
@@ -148,12 +157,14 @@
   },
   "active": "029f6cb3279d3959",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Gaming/aim routine.md",
-    "Programming/Programming.md",
-    "Efficiency/как учиться больше.md",
-    "Gaming/Main rules.md",
+    "Efficiency/how to generate ego.md",
+    "Gaming/Gaming.md",
     "Gaming/Tips to rank up.md",
+    "Gaming/Main rules.md",
+    "Gaming/aim routine.md",
+    "Efficiency/как учиться больше.md",
+    "Untitled.canvas",
+    "Programming/Programming.md",
     "Zettelkasten method.md",
     "3D-Modeling/3d-modeling.md",
     "Drawing/Attachments/Pasted image 20231123014148.png",
@@ -182,7 +193,6 @@
     "Programming/Парсинг на python.md",
     "Efficiency/How to learn 10x faster.md",
     "Programming/Web/Web.md",
-    "Science/Mathematics/mathematics.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
     "Science/Mathematics",
