@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e622336b83618d41",
+        "id": "c35a3d4b7cbc5175",
         "type": "tabs",
         "children": [
           {
-            "id": "aee739996254ec11",
+            "id": "c7665f78d202fe94",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "b85f42e31eef6770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efficiency/how to generate ego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
