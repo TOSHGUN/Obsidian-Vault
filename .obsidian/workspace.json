@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Efficiency/как учиться больше.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Efficiency/как учиться больше.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Efficiency/как учиться больше.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Efficiency/как учиться больше.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ecc348877a7d708",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Gaming/aim routine.md",
     "Programming/Programming.md",
-    "Untitled.md",
+    "Efficiency/как учиться больше.md",
     "Gaming/Main rules.md",
     "Gaming/Tips to rank up.md",
     "Zettelkasten method.md",
