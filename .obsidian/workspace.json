@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aim mechanics.md",
+                "file": "Gaming/aim mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5748f8c20d4e04f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/excersice for limitless stamina.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aim mechanics.md",
+                "file": "Sports/excersice for limitless stamina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aim mechanics.md",
+                "file": "Sports/excersice for limitless stamina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aim mechanics.md"
+                "file": "Sports/excersice for limitless stamina.md"
               }
             }
           }
@@ -170,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39289fd9cf6b71d5",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "Gaming/aim mechanics.md",
+    "Sports/excersice for limitless stamina.md",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
-    "aim mechanics.md",
     "Gaming/Main rules.md",
     "Efficiency/60 seconds rule.md",
     "Efficiency/Pasted image 20231129000633.png",
@@ -209,7 +222,6 @@
     "Car/Driving",
     "Car",
     "Efficiency",
-    "Efficiency/Закон Парето.md",
     "Programming/Web/Attachments/html-tag-structure.png",
     "Pasted image 20231118172934.png",
     "Science/Mathematics",
