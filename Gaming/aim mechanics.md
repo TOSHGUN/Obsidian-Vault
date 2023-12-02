@@ -1,4 +1,5 @@
 # components of aim
+focus on target
 ## 1. active aim
 mouse movements
  * tracking
