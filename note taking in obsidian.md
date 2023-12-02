@@ -5,3 +5,5 @@
 2. hider
 3. templater
 4. shortcut launcher
+5. obsidian icon folder
+6. 
