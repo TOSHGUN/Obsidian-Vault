@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "SiAtom",
+      "FasLanguage",
+      "FasCode",
+      "FasGamepad",
+      "FasPencil"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -19,5 +25,14 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "Car": "FasCar",
+  "3D-Modeling": "RiBox3Line",
+  "Car/Driving": "RaCogWheel",
+  "Design/Figma": "FabFigma",
+  "Drawing": "FasPencil",
+  "Gaming": "FasGamepad",
+  "Programming": "FasCode",
+  "Languages": "FasLanguage",
+  "Science": "SiAtom"
 }
