@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "145394754ba27b64",
+        "id": "054a663ba589aaab",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0c4d21c885967d",
+            "id": "a5604fd9c9a41ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,15 +145,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a0c4d21c885967d",
+  "active": "a5604fd9c9a41ea9",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20231203211141.png",
+    "Efficiency/attachments/Pasted image 20231203211127.png",
+    "Efficiency/attachments/Pasted image 20231203151449.png",
+    "Efficiency/attachments/Pasted image 20231129000633.png",
+    "Efficiency/attachments/Pasted image 20231128234629.png",
+    "Sports/упражнение кегеля.md",
+    "Efficiency/attachments/Pasted image 20231203211120.png",
     "Gaming/Tips to rank up.md",
     "Gaming/warm up valorant.md",
-    "Sports/упражнение кегеля.md",
     "Sports/excersice for limitless stamina.md",
     "Sports/basketball",
     "Efficiency/Zettelkasten method.md",
-    "Efficiency/attachments/Pasted image 20231203151449.png",
     "Efficiency/obsidian/note taking in obsidian.md",
     "Efficiency/obsidian",
     "Efficiency/how to become expert fast.md",
@@ -163,9 +168,7 @@
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Gaming/aim mechanics.md",
     "Efficiency/60 seconds rule.md",
-    "Efficiency/attachments/Pasted image 20231129000633.png",
     "Efficiency/Continious learning.md",
-    "Efficiency/attachments/Pasted image 20231128234629.png",
     "Efficiency/how to generate ego.md",
     "Gaming/Gaming.md",
     "Gaming/aim routine.md",
@@ -181,16 +184,12 @@
     "Drawing/как рисовать эффективнее.md",
     "Drawing/Attachments/Pasted image 20231123014251.png",
     "Drawing/Attachments/Pasted image 20231123014628.png",
-    "Drawing/Attachments/Pasted image 20231123014400.png",
     "Programming/Web/valorant tips.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/code-style.md",
-    "Programming/Web/плагины для работы vs code.md",
     "Car/Driving",
     "Car",
     "Efficiency",
-    "Programming/Web/Attachments/html-tag-structure.png",
-    "Pasted image 20231118172934.png",
     "Science/Mathematics",
     "Programming/Web/Attachments",
     "Programming/Git"
