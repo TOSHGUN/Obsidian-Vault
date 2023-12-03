@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "054a663ba589aaab",
+        "id": "692f43237ff3f58c",
         "type": "tabs",
         "children": [
           {
-            "id": "a5604fd9c9a41ea9",
+            "id": "5415af356b5420cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/упражнение кегеля.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,35 +76,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79f8ae100a67d5a2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sports/упражнение кегеля.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1fb04b4a1878de24",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sports/упражнение кегеля.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "5c8d0dec28304c4f",
             "type": "leaf",
             "state": {
@@ -125,7 +92,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/упражнение кегеля.md"
+                "file": "3D-Modeling/3d-modeling.md"
+              }
+            }
+          },
+          {
+            "id": "133e187653bfec97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e485f4aadb44fdec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -145,14 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5604fd9c9a41ea9",
+  "active": "5c8d0dec28304c4f",
   "lastOpenFiles": [
+    "3D-Modeling/3d-modeling.md",
+    "Efficiency/attachments/Pasted image 20231203213821.png",
+    "Sports/упражнение кегеля.md",
     "Efficiency/attachments/Pasted image 20231203211141.png",
     "Efficiency/attachments/Pasted image 20231203211127.png",
     "Efficiency/attachments/Pasted image 20231203151449.png",
     "Efficiency/attachments/Pasted image 20231129000633.png",
     "Efficiency/attachments/Pasted image 20231128234629.png",
-    "Sports/упражнение кегеля.md",
     "Efficiency/attachments/Pasted image 20231203211120.png",
     "Gaming/Tips to rank up.md",
     "Gaming/warm up valorant.md",
@@ -175,7 +171,6 @@
     "Efficiency/как учиться больше.md",
     "Untitled.canvas",
     "Programming/Programming.md",
-    "3D-Modeling/3d-modeling.md",
     "Drawing/Attachments/Pasted image 20231123014148.png",
     "Efficiency/replacing gaming with coding.md",
     "Drawing/техники набросков.md",
@@ -183,7 +178,6 @@
     "Drawing/Attachments/Pasted image 20231123014900.png",
     "Drawing/как рисовать эффективнее.md",
     "Drawing/Attachments/Pasted image 20231123014251.png",
-    "Drawing/Attachments/Pasted image 20231123014628.png",
     "Programming/Web/valorant tips.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/code-style.md",
