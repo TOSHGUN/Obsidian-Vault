@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5120339d4c9b5d5f",
+        "id": "d5df3b4d3700fc48",
         "type": "tabs",
         "children": [
           {
-            "id": "ecefddf347e03e39",
+            "id": "5198e766dffa7740",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/basketball/fundamentals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sports/basketball/fundamentals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/basketball/fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/basketball/fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +137,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecefddf347e03e39",
+  "active": "5198e766dffa7740",
   "lastOpenFiles": [
+    "Gaming/aim mechanics.md",
+    "Gaming/Gaming.md",
+    "Gaming/Main rules.md",
+    "Gaming/optimal settings.md",
+    "Gaming/Tips to rank up.md",
     "Sports/basketball/fundamentals.md",
     "my skills.md",
     "Efficiency/how to find your talant.md",
     "Efficiency/ikigai.md",
-    "Gaming/aim mechanics.md",
     "Gaming/find perfect sensetivity.md",
-    "Gaming/optimal settings.md",
     "Efficiency/attachments/Pasted image 20231203214927.png",
     "3D-Modeling/3d-modeling.md",
     "Efficiency/attachments/Pasted image 20231203213821.png",
@@ -165,7 +159,6 @@
     "Efficiency/attachments/Pasted image 20231129000633.png",
     "Efficiency/attachments/Pasted image 20231128234629.png",
     "Efficiency/attachments/Pasted image 20231203211120.png",
-    "Gaming/Tips to rank up.md",
     "Gaming/warm up valorant.md",
     "Sports/excersice for limitless stamina.md",
     "Sports/basketball",
@@ -175,12 +168,10 @@
     "Efficiency/how to become expert fast.md",
     "Efficiency/attachments",
     "Efficiency/cognitive strategies.md",
-    "Gaming/Main rules.md",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Efficiency/60 seconds rule.md",
     "Efficiency/Continious learning.md",
     "Efficiency/how to generate ego.md",
-    "Gaming/Gaming.md",
     "Gaming/aim routine.md",
     "Efficiency/как учиться больше.md",
     "Untitled.canvas",

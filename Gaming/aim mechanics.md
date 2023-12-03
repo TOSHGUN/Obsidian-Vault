@@ -1,6 +1,6 @@
 # components of aim
 focus on target
-## 1. active aim
+## active aim
 mouse movements
  * tracking
  * flicking
@@ -8,8 +8,15 @@ mouse movements
  * spray control
  * tap fire VS spray
  * using ADS
-## 2. passive aim
+## passive aim
 how you prepare for gunfights
 - crosshair placement
 - mouse positioning
 - movement
+
+## efficiency
+- staying calm
+	- minimaze the amount of wasteful movement
+- crosshair placement
+- moving & shooting
+	- countersrafing
