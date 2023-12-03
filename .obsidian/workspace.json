@@ -11,8 +11,13 @@
             "id": "5198e766dffa7740",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Efficiency/obsidian/note taking in obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Efficiency/obsidian/note taking in obsidian.md"
+              }
             }
           },
           {
@@ -100,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Efficiency/obsidian/note taking in obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Efficiency/obsidian/note taking in obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +148,12 @@
   },
   "active": "5198e766dffa7740",
   "lastOpenFiles": [
+    "Sports/basketball/fundamentals.md",
     "Gaming/aim mechanics.md",
     "Gaming/Gaming.md",
     "Gaming/Main rules.md",
     "Gaming/optimal settings.md",
     "Gaming/Tips to rank up.md",
-    "Sports/basketball/fundamentals.md",
     "my skills.md",
     "Efficiency/how to find your talant.md",
     "Efficiency/ikigai.md",
