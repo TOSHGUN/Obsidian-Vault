@@ -11,11 +11,43 @@
             "id": "5415af356b5420cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gaming/aim mechanics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "221f2e6b37e7756a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaming/find perfect sensetivity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb50ebc0e3b359a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaming/optimal settings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/3d-modeling.md"
+                "file": "Gaming/optimal settings.md"
               }
             }
           },
@@ -102,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gaming/optimal settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gaming/optimal settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c8d0dec28304c4f",
+  "active": "cb50ebc0e3b359a1",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20231203214927.png",
+    "Gaming/find perfect sensetivity.md",
+    "Gaming/optimal settings.md",
+    "Gaming/aim mechanics.md",
     "3D-Modeling/3d-modeling.md",
     "Efficiency/attachments/Pasted image 20231203213821.png",
     "Sports/упражнение кегеля.md",
@@ -162,7 +200,6 @@
     "Efficiency/cognitive strategies.md",
     "Gaming/Main rules.md",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
-    "Gaming/aim mechanics.md",
     "Efficiency/60 seconds rule.md",
     "Efficiency/Continious learning.md",
     "Efficiency/how to generate ego.md",
@@ -179,8 +216,6 @@
     "Drawing/как рисовать эффективнее.md",
     "Drawing/Attachments/Pasted image 20231123014251.png",
     "Programming/Web/valorant tips.md",
-    "Programming/Web/DevTools.md",
-    "Programming/Web/code-style.md",
     "Car/Driving",
     "Car",
     "Efficiency",
