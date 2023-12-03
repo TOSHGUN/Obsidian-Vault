@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note taking in obsidian.md",
+                "file": "Efficiency/Zettelkasten method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note taking in obsidian.md",
+                "file": "Efficiency/Zettelkasten method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note taking in obsidian.md",
+                "file": "Efficiency/Zettelkasten method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note taking in obsidian.md"
+                "file": "Efficiency/Zettelkasten method.md"
               }
             }
           }
@@ -147,9 +147,11 @@
   },
   "active": "b95f3cb94290dc07",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20231203151449.png",
+    "Efficiency/obsidian/note taking in obsidian.md",
+    "Efficiency/obsidian",
     "Efficiency/how to become expert fast.md",
     "Efficiency/attachments",
-    "note taking in obsidian.md",
     "Efficiency/cognitive strategies.md",
     "Gaming/Main rules.md",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
@@ -190,7 +192,6 @@
     "Science/Mathematics",
     "Programming/Web/Attachments",
     "Programming/Git",
-    "Design/Figma",
-    "Programming/Web"
+    "Design/Figma"
   ]
 }
