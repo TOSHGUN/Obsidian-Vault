@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiAtom",
-      "FasLanguage",
-      "FasCode",
-      "FasGamepad",
-      "FasPencil"
+      "FasPerson",
+      "SiUnilever",
+      "FasBasketball",
+      "RiAttachment2",
+      "SiObsidian"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,10 @@
   "Gaming": "FasGamepad",
   "Programming": "FasCode",
   "Languages": "FasLanguage",
-  "Science": "SiAtom"
+  "Science": "SiAtom",
+  "Efficiency/obsidian": "SiObsidian",
+  "Efficiency/attachments": "RiAttachment2",
+  "Sports/basketball": "FasBasketball",
+  "Univercity-ISPU": "SiUnilever",
+  "my-knowledge.md": "FasPerson"
 }

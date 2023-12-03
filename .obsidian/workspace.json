@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a46de47eb98364c2",
+        "id": "145394754ba27b64",
         "type": "tabs",
         "children": [
           {
-            "id": "b95f3cb94290dc07",
+            "id": "7a0c4d21c885967d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efficiency/Zettelkasten method.md",
+                "file": "Sports/упражнение кегеля.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/Zettelkasten method.md",
+                "file": "Sports/упражнение кегеля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/Zettelkasten method.md",
+                "file": "Sports/упражнение кегеля.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficiency/Zettelkasten method.md"
+                "file": "Sports/упражнение кегеля.md"
               }
             }
           }
@@ -145,8 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b95f3cb94290dc07",
+  "active": "7a0c4d21c885967d",
   "lastOpenFiles": [
+    "Gaming/Tips to rank up.md",
+    "Gaming/warm up valorant.md",
+    "Sports/упражнение кегеля.md",
+    "Sports/excersice for limitless stamina.md",
+    "Sports/basketball",
+    "Efficiency/Zettelkasten method.md",
     "Efficiency/attachments/Pasted image 20231203151449.png",
     "Efficiency/obsidian/note taking in obsidian.md",
     "Efficiency/obsidian",
@@ -156,19 +162,16 @@
     "Gaming/Main rules.md",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Gaming/aim mechanics.md",
-    "Sports/excersice for limitless stamina.md",
     "Efficiency/60 seconds rule.md",
     "Efficiency/attachments/Pasted image 20231129000633.png",
     "Efficiency/Continious learning.md",
     "Efficiency/attachments/Pasted image 20231128234629.png",
     "Efficiency/how to generate ego.md",
     "Gaming/Gaming.md",
-    "Gaming/Tips to rank up.md",
     "Gaming/aim routine.md",
     "Efficiency/как учиться больше.md",
     "Untitled.canvas",
     "Programming/Programming.md",
-    "Efficiency/Zettelkasten method.md",
     "3D-Modeling/3d-modeling.md",
     "Drawing/Attachments/Pasted image 20231123014148.png",
     "Efficiency/replacing gaming with coding.md",
@@ -183,7 +186,6 @@
     "Programming/Web/DevTools.md",
     "Programming/Web/code-style.md",
     "Programming/Web/плагины для работы vs code.md",
-    "Programming/Web/Служебные теги.md",
     "Car/Driving",
     "Car",
     "Efficiency",
@@ -191,7 +193,6 @@
     "Pasted image 20231118172934.png",
     "Science/Mathematics",
     "Programming/Web/Attachments",
-    "Programming/Git",
-    "Design/Figma"
+    "Programming/Git"
   ]
 }
