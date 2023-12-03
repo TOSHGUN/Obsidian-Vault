@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "692f43237ff3f58c",
+        "id": "5120339d4c9b5d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "5415af356b5420cc",
+            "id": "ecefddf347e03e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming/aim mechanics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "221f2e6b37e7756a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gaming/find perfect sensetivity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb50ebc0e3b359a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gaming/optimal settings.md",
+                "file": "Sports/basketball/fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaming/optimal settings.md"
+                "file": "Sports/basketball/fundamentals.md"
               }
             }
           },
@@ -134,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaming/optimal settings.md",
+                "file": "Sports/basketball/fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaming/optimal settings.md",
+                "file": "Sports/basketball/fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb50ebc0e3b359a1",
+  "active": "ecefddf347e03e39",
   "lastOpenFiles": [
-    "Efficiency/attachments/Pasted image 20231203214927.png",
+    "Sports/basketball/fundamentals.md",
+    "my skills.md",
+    "Efficiency/how to find your talant.md",
+    "Efficiency/ikigai.md",
+    "Gaming/aim mechanics.md",
     "Gaming/find perfect sensetivity.md",
     "Gaming/optimal settings.md",
-    "Gaming/aim mechanics.md",
+    "Efficiency/attachments/Pasted image 20231203214927.png",
     "3D-Modeling/3d-modeling.md",
     "Efficiency/attachments/Pasted image 20231203213821.png",
     "Sports/упражнение кегеля.md",
@@ -210,12 +187,8 @@
     "Programming/Programming.md",
     "Drawing/Attachments/Pasted image 20231123014148.png",
     "Efficiency/replacing gaming with coding.md",
-    "Drawing/техники набросков.md",
     "Drawing/Attachments",
     "Drawing/Attachments/Pasted image 20231123014900.png",
-    "Drawing/как рисовать эффективнее.md",
-    "Drawing/Attachments/Pasted image 20231123014251.png",
-    "Programming/Web/valorant tips.md",
     "Car/Driving",
     "Car",
     "Efficiency",

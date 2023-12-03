@@ -1,4 +1,4 @@
-- [[Git]]
+* [[Git]]
 - [[Web]]
 - [[3d-modeling]]
 - [[Design]]
