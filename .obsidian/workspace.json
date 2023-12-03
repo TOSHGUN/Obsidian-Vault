@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5df3b4d3700fc48",
+        "id": "4a5af4745221b7dc",
         "type": "tabs",
         "children": [
           {
-            "id": "5198e766dffa7740",
+            "id": "83d71a2e8924e8a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efficiency/obsidian/note taking in obsidian.md",
+                "file": "Sports/how to deadlift.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficiency/obsidian/note taking in obsidian.md"
+                "file": "Sports/how to deadlift.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/obsidian/note taking in obsidian.md",
+                "file": "Sports/how to deadlift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/obsidian/note taking in obsidian.md",
+                "file": "Sports/how to deadlift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,11 +143,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5198e766dffa7740",
+  "active": "83d71a2e8924e8a0",
   "lastOpenFiles": [
+    "Sports/how to bench press.md",
+    "Sports/how to squat.md",
+    "Sports/how to deadlift.md",
+    "Efficiency/attachments/Pasted image 20231204000011.png",
+    "Efficiency/attachments/Pasted image 20231203235840.png",
+    "Efficiency/attachments/Pasted image 20231203234035.png",
+    "Efficiency/attachments/Pasted image 20231203233951.png",
+    "Efficiency/attachments/Pasted image 20231203233925.png",
+    "Efficiency/obsidian/note taking in obsidian.md",
     "Sports/basketball/fundamentals.md",
     "Gaming/aim mechanics.md",
     "Gaming/Gaming.md",
@@ -165,14 +176,10 @@
     "Efficiency/attachments/Pasted image 20231203211141.png",
     "Efficiency/attachments/Pasted image 20231203211127.png",
     "Efficiency/attachments/Pasted image 20231203151449.png",
-    "Efficiency/attachments/Pasted image 20231129000633.png",
-    "Efficiency/attachments/Pasted image 20231128234629.png",
-    "Efficiency/attachments/Pasted image 20231203211120.png",
     "Gaming/warm up valorant.md",
     "Sports/excersice for limitless stamina.md",
     "Sports/basketball",
     "Efficiency/Zettelkasten method.md",
-    "Efficiency/obsidian/note taking in obsidian.md",
     "Efficiency/obsidian",
     "Efficiency/how to become expert fast.md",
     "Efficiency/attachments",
@@ -182,13 +189,8 @@
     "Efficiency/Continious learning.md",
     "Efficiency/how to generate ego.md",
     "Gaming/aim routine.md",
-    "Efficiency/как учиться больше.md",
     "Untitled.canvas",
-    "Programming/Programming.md",
-    "Drawing/Attachments/Pasted image 20231123014148.png",
-    "Efficiency/replacing gaming with coding.md",
     "Drawing/Attachments",
-    "Drawing/Attachments/Pasted image 20231123014900.png",
     "Car/Driving",
     "Car",
     "Efficiency",

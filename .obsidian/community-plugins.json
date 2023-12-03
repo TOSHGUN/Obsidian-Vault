@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-icons-plugin",
   "obsidian-icon-folder",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "url-into-selection"
 ]
