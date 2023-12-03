@@ -10,3 +10,5 @@
 7. quickAdd
 8. advanced tables
 9. DataView
+10. project
+11. excaliDraw
