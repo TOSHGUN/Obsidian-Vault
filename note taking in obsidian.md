@@ -6,4 +6,7 @@
 3. templater
 4. shortcut launcher
 5. obsidian icon folder
-6. 
+6. commander (can create macros)
+7. quickAdd
+8. advanced tables
+9. DataView

@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b9073092d500d6a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "b95f3cb94290dc07",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,8 +147,8 @@
   },
   "active": "b95f3cb94290dc07",
   "lastOpenFiles": [
-    "cognitive strategies.md",
     "note taking in obsidian.md",
+    "cognitive strategies.md",
     "Gaming/Main rules.md",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Gaming/aim mechanics.md",
