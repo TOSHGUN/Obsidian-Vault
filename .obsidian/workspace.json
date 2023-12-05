@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5af4745221b7dc",
+        "id": "b4a718b1e419736c",
         "type": "tabs",
         "children": [
           {
-            "id": "83d71a2e8924e8a0",
+            "id": "996bb580f01d16a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/how to deadlift.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sports/how to deadlift.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/how to deadlift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/how to deadlift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +139,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83d71a2e8924e8a0",
+  "active": "996bb580f01d16a6",
   "lastOpenFiles": [
+    "Efficiency/replacing gaming with coding.md",
+    "Efficiency/how to save 2 hours a day.md",
+    "Sports/how to deadlift.md",
     "Sports/how to bench press.md",
     "Sports/how to squat.md",
-    "Sports/how to deadlift.md",
     "Efficiency/attachments/Pasted image 20231204000011.png",
     "Efficiency/attachments/Pasted image 20231203235840.png",
     "Efficiency/attachments/Pasted image 20231203234035.png",
@@ -187,8 +180,6 @@
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Efficiency/60 seconds rule.md",
     "Efficiency/Continious learning.md",
-    "Efficiency/how to generate ego.md",
-    "Gaming/aim routine.md",
     "Untitled.canvas",
     "Drawing/Attachments",
     "Car/Driving",
