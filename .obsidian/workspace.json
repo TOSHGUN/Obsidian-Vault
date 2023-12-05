@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f470947393f5ed0d",
+        "id": "556203499ffca174",
         "type": "tabs",
         "children": [
           {
-            "id": "608c6b5dfa9772df",
+            "id": "63ca2a8d5691301f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "608c6b5dfa9772df",
+  "active": "63ca2a8d5691301f",
   "lastOpenFiles": [
+    "Sports/упражнение кегеля.md",
+    "Sports/Appearence.md",
+    "Sports/Protein.md",
     "Efficiency/how to generate ego.md",
     "Efficiency/productivity.md",
     "Efficiency/learn with GPT.md",
@@ -171,13 +174,11 @@
     "Efficiency/ikigai.md",
     "Gaming/find perfect sensetivity.md",
     "3D-Modeling/3d-modeling.md",
-    "Sports/упражнение кегеля.md",
     "Gaming/warm up valorant.md",
     "Sports/excersice for limitless stamina.md",
     "Sports/basketball",
     "Efficiency/Zettelkasten method.md",
     "Efficiency/obsidian",
-    "Efficiency/how to become expert fast.md",
     "Efficiency/attachments",
     "Untitled.canvas",
     "Drawing/Attachments",
