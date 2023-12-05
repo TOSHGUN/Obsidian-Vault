@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a718b1e419736c",
+        "id": "f470947393f5ed0d",
         "type": "tabs",
         "children": [
           {
-            "id": "996bb580f01d16a6",
+            "id": "608c6b5dfa9772df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efficiency/how to generate ego.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "328ccc21bdfc2fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efficiency/productivity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Efficiency/productivity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,10 +139,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "328ccc21bdfc2fed",
+  "active": "608c6b5dfa9772df",
   "lastOpenFiles": [
     "Efficiency/how to generate ego.md",
     "Efficiency/productivity.md",
+    "Efficiency/learn with GPT.md",
+    "Efficiency/attachments/Pasted image 20231206011625.png",
+    "Efficiency/attachments/Pasted image 20231206011435.png",
+    "Efficiency/attachments/Pasted image 20231206011414.png",
+    "Efficiency/attachments/Pasted image 20231206011147.png",
+    "Efficiency/attachments/Pasted image 20231206010904.png",
     "Efficiency/replacing gaming with coding.md",
     "Efficiency/how to save 2 hours a day.md",
     "Sports/how to deadlift.md",
@@ -187,13 +170,8 @@
     "Efficiency/how to find your talant.md",
     "Efficiency/ikigai.md",
     "Gaming/find perfect sensetivity.md",
-    "Efficiency/attachments/Pasted image 20231203214927.png",
     "3D-Modeling/3d-modeling.md",
-    "Efficiency/attachments/Pasted image 20231203213821.png",
     "Sports/упражнение кегеля.md",
-    "Efficiency/attachments/Pasted image 20231203211141.png",
-    "Efficiency/attachments/Pasted image 20231203211127.png",
-    "Efficiency/attachments/Pasted image 20231203151449.png",
     "Gaming/warm up valorant.md",
     "Sports/excersice for limitless stamina.md",
     "Sports/basketball",
@@ -201,8 +179,6 @@
     "Efficiency/obsidian",
     "Efficiency/how to become expert fast.md",
     "Efficiency/attachments",
-    "Efficiency/cognitive strategies.md",
-    "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Untitled.canvas",
     "Drawing/Attachments",
     "Car/Driving",
