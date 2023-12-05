@@ -11,17 +11,22 @@
             "id": "53845c18dd19d514",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sports/basketball/fundamentals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "5baea6288f1ccf73",
+            "id": "d19644825c67907c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "как разговаривать с кем угодно.md",
+                "file": "Sports/basketball/tactics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "как разговаривать с кем угодно.md"
+                "file": "Sports/basketball/tactics.md"
               }
             }
           },
@@ -116,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "как разговаривать с кем угодно.md",
+                "file": "Sports/basketball/tactics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "как разговаривать с кем угодно.md",
+                "file": "Sports/basketball/tactics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +163,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5baea6288f1ccf73",
+  "active": "5c8d0dec28304c4f",
   "lastOpenFiles": [
+    "Sports/basketball/fundamentals.md",
+    "Sports/basketball/tactics.md",
     "как разговаривать с кем угодно.md",
     "как позировать.md",
     "Efficiency/attachments/Pasted image 20231206020258.png",
@@ -183,7 +191,6 @@
     "Efficiency/attachments/Pasted image 20231204000011.png",
     "Efficiency/attachments/Pasted image 20231203235840.png",
     "Efficiency/obsidian/note taking in obsidian.md",
-    "Sports/basketball/fundamentals.md",
     "Gaming/aim mechanics.md",
     "Gaming/Gaming.md",
     "Gaming/Main rules.md",
@@ -194,7 +201,6 @@
     "Efficiency/ikigai.md",
     "Gaming/find perfect sensetivity.md",
     "3D-Modeling/3d-modeling.md",
-    "Gaming/warm up valorant.md",
     "Sports/basketball",
     "Efficiency/obsidian",
     "Efficiency/attachments",
