@@ -11,11 +11,30 @@
             "id": "996bb580f01d16a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Efficiency/how to generate ego.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "328ccc21bdfc2fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efficiency/productivity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Efficiency/productivity.md"
+              }
             }
           },
           {
@@ -100,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Efficiency/productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Efficiency/productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +162,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "996bb580f01d16a6",
+  "active": "328ccc21bdfc2fed",
   "lastOpenFiles": [
+    "Efficiency/how to generate ego.md",
+    "Efficiency/productivity.md",
     "Efficiency/replacing gaming with coding.md",
     "Efficiency/how to save 2 hours a day.md",
     "Sports/how to deadlift.md",
@@ -178,8 +203,6 @@
     "Efficiency/attachments",
     "Efficiency/cognitive strategies.md",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
-    "Efficiency/60 seconds rule.md",
-    "Efficiency/Continious learning.md",
     "Untitled.canvas",
     "Drawing/Attachments",
     "Car/Driving",
