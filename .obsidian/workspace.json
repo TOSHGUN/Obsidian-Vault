@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "556203499ffca174",
+        "id": "8ee614f684987c35",
         "type": "tabs",
         "children": [
           {
-            "id": "63ca2a8d5691301f",
+            "id": "53845c18dd19d514",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5baea6288f1ccf73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "как разговаривать с кем угодно.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "как разговаривать с кем угодно.md"
+              }
             }
           },
           {
@@ -100,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "как разговаривать с кем угодно.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "как разговаривать с кем угодно.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +157,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63ca2a8d5691301f",
+  "active": "5baea6288f1ccf73",
   "lastOpenFiles": [
+    "как разговаривать с кем угодно.md",
+    "как позировать.md",
+    "Efficiency/attachments/Pasted image 20231206020258.png",
+    "Efficiency/attachments/Pasted image 20231206020241.png",
+    "Efficiency/attachments/Pasted image 20231206020224.png",
     "Sports/упражнение кегеля.md",
     "Sports/Appearence.md",
     "Sports/Protein.md",
@@ -159,9 +182,6 @@
     "Sports/how to squat.md",
     "Efficiency/attachments/Pasted image 20231204000011.png",
     "Efficiency/attachments/Pasted image 20231203235840.png",
-    "Efficiency/attachments/Pasted image 20231203234035.png",
-    "Efficiency/attachments/Pasted image 20231203233951.png",
-    "Efficiency/attachments/Pasted image 20231203233925.png",
     "Efficiency/obsidian/note taking in obsidian.md",
     "Sports/basketball/fundamentals.md",
     "Gaming/aim mechanics.md",
@@ -175,9 +195,7 @@
     "Gaming/find perfect sensetivity.md",
     "3D-Modeling/3d-modeling.md",
     "Gaming/warm up valorant.md",
-    "Sports/excersice for limitless stamina.md",
     "Sports/basketball",
-    "Efficiency/Zettelkasten method.md",
     "Efficiency/obsidian",
     "Efficiency/attachments",
     "Untitled.canvas",
