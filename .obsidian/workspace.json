@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Test.md",
+                "file": "Sports/Protein.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "416f2936727d8891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/new.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Test.md"
+                "file": "Sports/new.md"
               }
             }
           },
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Test.md",
+                "file": "Sports/new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Test.md",
+                "file": "Sports/new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +162,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50df3302f3b00c0d",
+  "active": "416f2936727d8891",
   "lastOpenFiles": [
+    "Sports/Protein.md",
+    "Sports/new.md",
     "templates/Test.md",
     "templates/new.md",
     "templates/Untitled.md",
@@ -177,8 +193,6 @@
     "Drawing/схема обучения рисованию.md",
     "Efficiency/obsidian/Markdown tags.md",
     "Sports/basketball/fundamentals.md",
-    "Sports/basketball/tactics.md",
-    "Appearence/как разговаривать с кем угодно.md",
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
     "Efficiency/attachments/Pasted image 20231206020224.png",
