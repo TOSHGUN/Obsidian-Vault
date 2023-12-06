@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0301526bb280102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/упражнение кегеля.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bf7c24e958bc0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Mathematics/mathematics.md"
+                "file": "templates/Test.md"
               }
             }
           },
@@ -107,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Mathematics/mathematics.md",
+                "file": "templates/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Mathematics/mathematics.md",
+                "file": "templates/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +175,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a6664a5fc27832d",
+  "active": "0bf7c24e958bc0e3",
   "lastOpenFiles": [
+    "Sports/new.md",
+    "Sports/упражнение кегеля.md",
+    "templates/Test.md",
+    "Science/Mathematics/mathematics.md",
+    "templates",
     "3D-Modeling/3d-modeling.md",
     "Drawing/Drawing.md",
     "my skills.md",
@@ -176,16 +208,12 @@
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
     "Efficiency/attachments/Pasted image 20231206020224.png",
-    "Sports/упражнение кегеля.md",
     "Sports/Protein.md",
-    "Efficiency/productivity.md",
     "Efficiency/attachments/Pasted image 20231206011625.png",
     "Efficiency/attachments/Pasted image 20231206011435.png",
     "Efficiency/attachments/Pasted image 20231206011414.png",
     "Efficiency/attachments/Pasted image 20231206011147.png",
     "Efficiency/attachments/Pasted image 20231206010904.png",
-    "Efficiency/replacing gaming with coding.md",
-    "Efficiency/how to save 2 hours a day.md",
     "Efficiency/attachments/Pasted image 20231204000011.png",
     "Efficiency/attachments/Pasted image 20231203235840.png",
     "Sports/basketball",
@@ -195,7 +223,6 @@
     "Car/Driving",
     "Car",
     "Efficiency",
-    "Science/Mathematics",
-    "Programming/Web/Attachments"
+    "Science/Mathematics"
   ]
 }
