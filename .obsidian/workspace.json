@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc879d76a275eb7",
+        "id": "02ba9274cb60ef68",
         "type": "tabs",
         "children": [
           {
-            "id": "8a6664a5fc27832d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bf7c24e958bc0e3",
+            "id": "50df3302f3b00c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,12 +148,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a6664a5fc27832d",
+  "active": "50df3302f3b00c0d",
   "lastOpenFiles": [
+    "templates/Test.md",
     "templates/new.md",
     "templates/Untitled.md",
     "Sports/упражнение кегеля.md",
-    "templates/Test.md",
     "Science/Mathematics/mathematics.md",
     "templates",
     "3D-Modeling/3d-modeling.md",
