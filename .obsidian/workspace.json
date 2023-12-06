@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "605696cdad5e6298",
+        "id": "1fc879d76a275eb7",
         "type": "tabs",
         "children": [
           {
-            "id": "1a93f5bd784d4aa7",
+            "id": "8a6664a5fc27832d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Science/Mathematics/mathematics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hashtag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Science/Mathematics/mathematics.md"
+              }
             }
           },
           {
@@ -100,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Mathematics/mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Science/Mathematics/mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,9 +148,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a93f5bd784d4aa7",
+  "active": "8a6664a5fc27832d",
   "lastOpenFiles": [
+    "3D-Modeling/3d-modeling.md",
+    "Drawing/Drawing.md",
+    "my skills.md",
+    "Untitled.canvas",
     "Efficiency/7 правил здорового сна.md",
+    "Efficiency/Efficiency.md",
+    "Appearence/как позировать.md",
+    "Appearence/Appearence.md",
+    "Appearence",
+    "Efficiency/learn with GPT.md",
+    "Efficiency/ikigai.md",
+    "Efficiency/How to learn 10x faster.md",
+    "Efficiency/how to generate ego.md",
+    "Efficiency/how to find your talant.md",
+    "Efficiency/how to become expert fast.md",
     "Efficiency/how to be great at anything.md",
     "Efficiency/Закон Парето.md",
     "Efficiency/methods of effective learning.md",
@@ -150,17 +172,13 @@
     "Efficiency/obsidian/Markdown tags.md",
     "Sports/basketball/fundamentals.md",
     "Sports/basketball/tactics.md",
-    "как разговаривать с кем угодно.md",
-    "как позировать.md",
+    "Appearence/как разговаривать с кем угодно.md",
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
     "Efficiency/attachments/Pasted image 20231206020224.png",
     "Sports/упражнение кегеля.md",
-    "Sports/Appearence.md",
     "Sports/Protein.md",
-    "Efficiency/how to generate ego.md",
     "Efficiency/productivity.md",
-    "Efficiency/learn with GPT.md",
     "Efficiency/attachments/Pasted image 20231206011625.png",
     "Efficiency/attachments/Pasted image 20231206011435.png",
     "Efficiency/attachments/Pasted image 20231206011414.png",
@@ -168,26 +186,16 @@
     "Efficiency/attachments/Pasted image 20231206010904.png",
     "Efficiency/replacing gaming with coding.md",
     "Efficiency/how to save 2 hours a day.md",
-    "Sports/how to deadlift.md",
-    "Sports/how to bench press.md",
-    "Sports/how to squat.md",
     "Efficiency/attachments/Pasted image 20231204000011.png",
     "Efficiency/attachments/Pasted image 20231203235840.png",
-    "Efficiency/obsidian/note taking in obsidian.md",
-    "Gaming/aim mechanics.md",
-    "Gaming/Gaming.md",
-    "Gaming/Main rules.md",
-    "Gaming/optimal settings.md",
     "Sports/basketball",
     "Efficiency/obsidian",
     "Efficiency/attachments",
-    "Untitled.canvas",
     "Drawing/Attachments",
     "Car/Driving",
     "Car",
     "Efficiency",
     "Science/Mathematics",
-    "Programming/Web/Attachments",
-    "Programming/Git"
+    "Programming/Web/Attachments"
   ]
 }
