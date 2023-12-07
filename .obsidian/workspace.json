@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50df3302f3b00c0d",
+            "id": "d0aa66e8b3a83463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sports/Protein.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "416f2936727d8891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/new.md",
+                "file": "Реферат.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/new.md"
+                "file": "Реферат.md"
               }
             }
           },
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/new.md",
+                "file": "Реферат.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/new.md",
+                "file": "Реферат.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,10 +148,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "416f2936727d8891",
+  "active": "d0aa66e8b3a83463",
   "lastOpenFiles": [
-    "Sports/Protein.md",
+    "my skills.md",
+    "Реферат.md",
     "Sports/new.md",
+    "Sports/Protein.md",
     "templates/Test.md",
     "templates/new.md",
     "templates/Untitled.md",
@@ -174,7 +162,6 @@
     "templates",
     "3D-Modeling/3d-modeling.md",
     "Drawing/Drawing.md",
-    "my skills.md",
     "Untitled.canvas",
     "Efficiency/7 правил здорового сна.md",
     "Efficiency/Efficiency.md",
@@ -192,7 +179,6 @@
     "Efficiency/methods of effective learning.md",
     "Drawing/схема обучения рисованию.md",
     "Efficiency/obsidian/Markdown tags.md",
-    "Sports/basketball/fundamentals.md",
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
     "Efficiency/attachments/Pasted image 20231206020224.png",
