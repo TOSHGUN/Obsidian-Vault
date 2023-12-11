@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -149,13 +149,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c8d0dec28304c4f",
+  "active": "fb3fc7d59abd3677",
   "lastOpenFiles": [
+    "Gaming/optimal settings.md",
+    "Gaming/Gaming.md",
+    "Gaming/find perfect sensetivity.md",
+    "templates/zettelkasten template.md",
     "Реферат.md",
     "my skills.md",
     "Sports/new.md",
     "Sports/Protein.md",
-    "templates/zettelkasten template.md",
     "templates/new.md",
     "templates/Untitled.md",
     "Sports/упражнение кегеля.md",
@@ -177,9 +180,6 @@
     "Efficiency/how to become expert fast.md",
     "Efficiency/how to be great at anything.md",
     "Efficiency/Закон Парето.md",
-    "Efficiency/methods of effective learning.md",
-    "Drawing/схема обучения рисованию.md",
-    "Efficiency/obsidian/Markdown tags.md",
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
     "Efficiency/attachments/Pasted image 20231206020224.png",
