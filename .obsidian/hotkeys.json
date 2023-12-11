@@ -7,5 +7,14 @@
       ],
       "key": "E"
     }
+  ],
+  "templater-obsidian:templates/zettelkasten template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
   ]
 }

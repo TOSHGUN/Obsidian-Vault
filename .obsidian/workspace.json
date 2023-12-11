@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "prompt engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "prompt engineering.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "prompt engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "prompt engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,15 +165,15 @@
   },
   "active": "20a91d3c63781cee",
   "lastOpenFiles": [
+    "templates/zettelkasten template.md",
+    "prompt engineering.md",
     "Реферат.md",
-    "Untitled.md",
     "Drawing/схема обучения рисованию.md",
     "Drawing/техники набросков.md",
     "Drawing/как рисовать эффективнее.md",
     "Drawing/Drawing.md",
     "3D-Modeling/mix shader.md",
     "3D-Modeling/3d-modeling.md",
-    "templates/zettelkasten template.md",
     "Gaming/optimal settings.md",
     "Gaming/Gaming.md",
     "Gaming/find perfect sensetivity.md",
