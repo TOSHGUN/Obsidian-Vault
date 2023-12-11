@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/zettelkasten template.md",
+                "file": "Реферат.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20a91d3c63781cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/zettelkasten template.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/zettelkasten template.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/zettelkasten template.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,13 +163,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb3fc7d59abd3677",
+  "active": "20a91d3c63781cee",
   "lastOpenFiles": [
+    "Реферат.md",
+    "Untitled.md",
+    "Drawing/схема обучения рисованию.md",
+    "Drawing/техники набросков.md",
+    "Drawing/как рисовать эффективнее.md",
+    "Drawing/Drawing.md",
+    "3D-Modeling/mix shader.md",
+    "3D-Modeling/3d-modeling.md",
+    "templates/zettelkasten template.md",
     "Gaming/optimal settings.md",
     "Gaming/Gaming.md",
     "Gaming/find perfect sensetivity.md",
-    "templates/zettelkasten template.md",
-    "Реферат.md",
     "my skills.md",
     "Sports/new.md",
     "Sports/Protein.md",
@@ -164,8 +185,6 @@
     "Sports/упражнение кегеля.md",
     "Science/Mathematics/mathematics.md",
     "templates",
-    "3D-Modeling/3d-modeling.md",
-    "Drawing/Drawing.md",
     "Untitled.canvas",
     "Efficiency/7 правил здорового сна.md",
     "Efficiency/Efficiency.md",
@@ -175,11 +194,6 @@
     "Efficiency/learn with GPT.md",
     "Efficiency/ikigai.md",
     "Efficiency/How to learn 10x faster.md",
-    "Efficiency/how to generate ego.md",
-    "Efficiency/how to find your talant.md",
-    "Efficiency/how to become expert fast.md",
-    "Efficiency/how to be great at anything.md",
-    "Efficiency/Закон Парето.md",
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
     "Efficiency/attachments/Pasted image 20231206020224.png",

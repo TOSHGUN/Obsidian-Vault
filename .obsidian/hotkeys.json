@@ -1,1 +1,11 @@
-{}
+{
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ]
+}
