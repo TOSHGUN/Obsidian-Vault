@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt engineering.md",
+                "file": "Реферат.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1c29ce92b4da45e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt engineering.md"
+                "file": "Prompt engineering.md"
               }
             }
           },
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompt engineering.md",
+                "file": "Prompt engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prompt engineering.md",
+                "file": "Prompt engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,11 +163,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20a91d3c63781cee",
+  "active": "c1c29ce92b4da45e",
   "lastOpenFiles": [
     "Реферат.md",
-    "prompt engineering.md",
+    "Prompt engineering.md",
+    "promp.md",
+    "zell.md",
     "templates/zettelkasten template.md",
+    "prompt engineering.md",
     "Drawing/схема обучения рисованию.md",
     "Drawing/техники набросков.md",
     "Drawing/как рисовать эффективнее.md",
@@ -177,9 +194,6 @@
     "Appearence/как позировать.md",
     "Appearence/Appearence.md",
     "Appearence",
-    "Efficiency/learn with GPT.md",
-    "Efficiency/ikigai.md",
-    "Efficiency/How to learn 10x faster.md",
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
     "Efficiency/attachments/Pasted image 20231206020224.png",

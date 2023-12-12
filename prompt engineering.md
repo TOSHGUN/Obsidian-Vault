@@ -1,12 +1,11 @@
-{{date}}
+Tu-12-12-2023
 ## Tags: 
-# {{title}}
-- 
+# Prompt engineering
+## what is it
+
 
 ## Related Ideas [[]]
-## Source [[]]
+## Source [[https://youtu.be/_ZvnD73m40o?si=lH-dfkum7jvgzofG]]
 -
-
-
 
 
