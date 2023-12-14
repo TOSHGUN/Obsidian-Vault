@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawing/shading.md",
+                "file": "my skills.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing/shading.md"
+                "file": "my skills.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing/shading.md",
+                "file": "my skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing/shading.md",
+                "file": "my skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +165,10 @@
   },
   "active": "c1c29ce92b4da45e",
   "lastOpenFiles": [
+    "Drawing/shading.md",
     "Efficiency/attachments/Pasted image 20231212200013.png",
     "Efficiency/attachments/Pasted image 20231212195925.png",
     "Drawing/Drawing.md",
-    "Drawing/shading.md",
     "Prompt engineering.md",
     "ChatGPT prompt.md",
     "Efficiency/attachments/Pasted image 20231212194844.png",
@@ -203,7 +203,6 @@
     "Appearence",
     "Efficiency/attachments/Pasted image 20231206020258.png",
     "Efficiency/attachments/Pasted image 20231206020241.png",
-    "Efficiency/attachments/Pasted image 20231206020224.png",
     "Sports/basketball",
     "Efficiency/obsidian",
     "Efficiency/attachments",
