@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawing/lineart.md",
+                "file": "Drawing/shading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing/lineart.md"
+                "file": "Drawing/shading.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing/lineart.md",
+                "file": "Drawing/shading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing/lineart.md",
+                "file": "Drawing/shading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +178,15 @@
   },
   "active": "5d9c4eef1c80111b",
   "lastOpenFiles": [
-    "Drawing/shading.md",
+    "Efficiency/attachments/Pasted image 20231214190406.png",
+    "Efficiency/attachments/Pasted image 20231214190138.png",
+    "Efficiency/attachments/Pasted image 20231214185304.png",
+    "Efficiency/attachments/Pasted image 20231214185205.png",
+    "Efficiency/attachments/Pasted image 20231214185148.png",
+    "Efficiency/attachments/Pasted image 20231214185137.png",
     "Drawing/lineart.md",
+    "Efficiency/attachments/Pasted image 20231214184716.png",
+    "Drawing/shading.md",
     "Efficiency/attachments/Pasted image 20231214182140.png",
     "Efficiency/attachments/Pasted image 20231214182054.png",
     "Efficiency/how to find your talant.md",
@@ -192,12 +199,6 @@
     "Drawing/Drawing.md",
     "Prompt engineering.md",
     "ChatGPT prompt.md",
-    "Efficiency/attachments/Pasted image 20231212194844.png",
-    "Efficiency/attachments/Pasted image 20231212194409.png",
-    "Efficiency/attachments/Pasted image 20231212194051.png",
-    "Efficiency/attachments/Pasted image 20231212194017.png",
-    "Efficiency/attachments/Pasted image 20231212193139.png",
-    "Efficiency/attachments/Pasted image 20231212192830.png",
     "Реферат.md",
     "promp.md",
     "zell.md",
@@ -213,7 +214,6 @@
     "Gaming/find perfect sensetivity.md",
     "Sports/new.md",
     "Sports/Protein.md",
-    "templates/new.md",
     "templates",
     "Untitled.canvas",
     "Appearence",

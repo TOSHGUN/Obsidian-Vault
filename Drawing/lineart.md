@@ -5,7 +5,10 @@ Th-14-12-2023
 - line variations
 	- thick and thin lines
 - dynamics
+	- faster strokes
 - details
+	- strokes should be between scribbly and tidy
+	- ![[Pasted image 20231214184716.png]]
 
 ## Related Ideas [[]]
 ## Source [[]]
