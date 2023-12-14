@@ -9,10 +9,15 @@ Tu-12-12-2023
 	4. shade in one direction
 	5. pressure is key
 	6. no values repeat
-2. understanding lighting
-	1. 
+2. understanding lighting (it's all about the light)
+	1. ![[Pasted image 20231214182054.png]]
+	2. ![[Pasted image 20231214182140.png]]
+3. shading techniques (drawing and shading basic forms)
+	1. include background to pop up the object
+	2. shading direction the object is going
+	3. crosshatch
 ## Related Ideas [[]]
 ## Source [[]]
--
+-[video](https://youtu.be/FmsSbpsB5Vs?si=eGn9lKIFMv64JqQQ)
 
 
