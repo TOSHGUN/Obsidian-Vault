@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9aa636cb52924be",
+        "id": "29565324879500dc",
         "type": "tabs",
         "children": [
           {
-            "id": "20a91d3c63781cee",
+            "id": "e940578aeb69e62f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Реферат.md",
+                "file": "Programming/Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "c1c29ce92b4da45e",
+            "id": "b677ad2f252cee89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawing/shading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d9c4eef1c80111b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drawing/shading.md",
+                "file": "Programming/django.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing/shading.md"
+                "file": "Programming/django.md"
               }
             }
           },
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing/shading.md",
+                "file": "Programming/django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing/shading.md",
+                "file": "Programming/django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +163,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d9c4eef1c80111b",
+  "active": "b677ad2f252cee89",
   "lastOpenFiles": [
+    "Programming/фреймворк.md",
+    "Programming/Programming.md",
+    "Programming/django.md",
+    "Programming/Untitled.md",
+    "Programming/Python.md",
+    "Реферат.md",
+    "Drawing/shading.md",
     "Efficiency/attachments/Pasted image 20231214190406.png",
     "Efficiency/attachments/Pasted image 20231214190138.png",
     "Efficiency/attachments/Pasted image 20231214185304.png",
@@ -186,7 +180,6 @@
     "Efficiency/attachments/Pasted image 20231214185137.png",
     "Drawing/lineart.md",
     "Efficiency/attachments/Pasted image 20231214184716.png",
-    "Drawing/shading.md",
     "Efficiency/attachments/Pasted image 20231214182140.png",
     "Efficiency/attachments/Pasted image 20231214182054.png",
     "Efficiency/how to find your talant.md",
@@ -195,11 +188,9 @@
     "Efficiency/how to generate ego.md",
     "my skills.md",
     "Efficiency/attachments/Pasted image 20231212200013.png",
-    "Efficiency/attachments/Pasted image 20231212195925.png",
     "Drawing/Drawing.md",
     "Prompt engineering.md",
     "ChatGPT prompt.md",
-    "Реферат.md",
     "promp.md",
     "zell.md",
     "templates/zettelkasten template.md",
@@ -210,10 +201,6 @@
     "3D-Modeling/mix shader.md",
     "3D-Modeling/3d-modeling.md",
     "Gaming/optimal settings.md",
-    "Gaming/Gaming.md",
-    "Gaming/find perfect sensetivity.md",
-    "Sports/new.md",
-    "Sports/Protein.md",
     "templates",
     "Untitled.canvas",
     "Appearence",
