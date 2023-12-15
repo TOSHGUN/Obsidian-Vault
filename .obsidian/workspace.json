@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/django.md",
+                "file": "Languages/English/English.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5e5613948bf3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/English/50 useful phrases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/django.md"
+                "file": "Languages/English/50 useful phrases.md"
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/django.md",
+                "file": "Languages/English/50 useful phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/django.md",
+                "file": "Languages/English/50 useful phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +176,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b677ad2f252cee89",
+  "active": "3d5e5613948bf3c9",
   "lastOpenFiles": [
+    "Languages/English/English.md",
+    "Languages/English/50 useful phrases.md",
+    "Programming/django.md",
     "Efficiency/attachments/Pasted image 20231215133156.png",
     "Efficiency/attachments/Pasted image 20231214232010.png",
     "Efficiency/attachments/Pasted image 20231214224006.png",
@@ -175,14 +191,12 @@
     "Efficiency/attachments/Pasted image 20231214221805.png",
     "Programming/фреймворк.md",
     "Programming/Programming.md",
-    "Programming/django.md",
     "Programming/Untitled.md",
     "Programming/Python.md",
     "Реферат.md",
     "Drawing/shading.md",
     "Efficiency/attachments/Pasted image 20231214190406.png",
     "Efficiency/attachments/Pasted image 20231214190138.png",
-    "Efficiency/attachments/Pasted image 20231214185304.png",
     "Drawing/lineart.md",
     "Efficiency/how to find your talant.md",
     "Efficiency/how to become expert fast.md",
@@ -200,7 +214,6 @@
     "Drawing/техники набросков.md",
     "Drawing/как рисовать эффективнее.md",
     "3D-Modeling/mix shader.md",
-    "3D-Modeling/3d-modeling.md",
     "templates",
     "Untitled.canvas",
     "Appearence",
