@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b677ad2f252cee89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drawing/Drawing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9932cda736dac511",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drawing/схема обучения рисованию.md",
+                "file": "Gaming/Gaming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing/схема обучения рисованию.md"
+                "file": "Gaming/Gaming.md"
               }
             }
           },
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing/схема обучения рисованию.md",
+                "file": "Gaming/Gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing/схема обучения рисованию.md",
+                "file": "Gaming/Gaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +164,23 @@
   },
   "active": "9932cda736dac511",
   "lastOpenFiles": [
-    "Drawing/как рисовать эффективнее.md",
+    "Gaming/Game sense.md",
+    "Gaming/Main rules.md",
+    "Gaming/Gaming.md",
+    "Gaming/Movement.md",
+    "Gaming/Aim.md",
+    "Gaming/aim mechanics.md",
+    "Gaming/aim routine.md",
+    "Gaming/optimal settings.md",
+    "Gaming/find perfect sensetivity.md",
+    "Gaming/warm up valorant.md",
+    "Gaming/Tips to rank up.md",
+    "Drawing/Drawing.md",
     "Drawing/схема обучения рисованию.md",
+    "Drawing/как рисовать эффективнее.md",
     "Drawing/техники набросков.md",
     "Efficiency/Efficiency.md",
     "Efficiency/Саморазвитие.md",
-    "Drawing/Drawing.md",
     "Languages/Russian",
     "Drawing/Exercises.md",
     "Efficiency/attachments/Pasted image 20231218011254.png",
@@ -204,17 +201,6 @@
     "Programming/Untitled.md",
     "Programming/Python.md",
     "Реферат.md",
-    "Drawing/shading.md",
-    "Drawing/lineart.md",
-    "Efficiency/how to find your talant.md",
-    "Efficiency/how to become expert fast.md",
-    "Efficiency/Continious learning.md",
-    "Efficiency/how to generate ego.md",
-    "my skills.md",
-    "Prompt engineering.md",
-    "ChatGPT prompt.md",
-    "promp.md",
-    "zell.md",
     "templates",
     "Untitled.canvas",
     "Appearence",
