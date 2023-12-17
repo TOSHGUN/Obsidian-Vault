@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e940578aeb69e62f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Programming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b677ad2f252cee89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/English/English.md",
+                "file": "Efficiency/Efficiency.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/English/50 useful phrases.md"
+                "file": "Efficiency/Efficiency.md"
               }
             }
           },
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/English/50 useful phrases.md",
+                "file": "Efficiency/Efficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/English/50 useful phrases.md",
+                "file": "Efficiency/Efficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +162,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d5e5613948bf3c9",
+  "active": "b677ad2f252cee89",
   "lastOpenFiles": [
+    "Programming/Programming.md",
     "Languages/English/English.md",
     "Languages/English/50 useful phrases.md",
     "Programming/django.md",
@@ -190,7 +177,6 @@
     "Efficiency/attachments/Pasted image 20231214222236.png",
     "Efficiency/attachments/Pasted image 20231214221805.png",
     "Programming/фреймворк.md",
-    "Programming/Programming.md",
     "Programming/Untitled.md",
     "Programming/Python.md",
     "Реферат.md",
