@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming/Gaming.md",
+                "file": "Programming/Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaming/Gaming.md"
+                "file": "Programming/Programming.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaming/Gaming.md",
+                "file": "Programming/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaming/Gaming.md",
+                "file": "Programming/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +164,12 @@
   },
   "active": "9932cda736dac511",
   "lastOpenFiles": [
+    "Programming/Парсинг на python.md",
+    "Programming/фреймворк.md",
+    "Languages/English/English.md",
+    "Gaming/Gaming.md",
     "Gaming/Game sense.md",
     "Gaming/Main rules.md",
-    "Gaming/Gaming.md",
     "Gaming/Movement.md",
     "Gaming/Aim.md",
     "Gaming/aim mechanics.md",
@@ -187,7 +190,6 @@
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",
     "Programming/Programming.md",
-    "Languages/English/English.md",
     "Languages/English/50 useful phrases.md",
     "Programming/django.md",
     "Efficiency/attachments/Pasted image 20231215133156.png",
@@ -197,10 +199,8 @@
     "Efficiency/attachments/Pasted image 20231214223600.png",
     "Efficiency/attachments/Pasted image 20231214223525.png",
     "Efficiency/attachments/Pasted image 20231214222236.png",
-    "Programming/фреймворк.md",
     "Programming/Untitled.md",
     "Programming/Python.md",
-    "Реферат.md",
     "templates",
     "Untitled.canvas",
     "Appearence",
