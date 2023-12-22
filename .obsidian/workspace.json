@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Programming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d5e5613948bf3c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/English/50 useful phrases.md",
+                "file": "Univercity-ISPU/Lektsia_7_13_10_2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -110,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Programming.md"
+                "file": "Univercity-ISPU/Lektsia_7_13_10_2023.md"
               }
             }
           },
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Programming.md",
+                "file": "Univercity-ISPU/Lektsia_7_13_10_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Programming.md",
+                "file": "Univercity-ISPU/Lektsia_7_13_10_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +151,16 @@
   },
   "active": "9932cda736dac511",
   "lastOpenFiles": [
+    "Univercity-ISPU/Lektsia_6_29_09_2023.md",
+    "Univercity-ISPU/Lektsia_5_15_09_2023.md",
+    "Univercity-ISPU/Lektsia_9_10_11_2023_-_Poslednyaya.md",
+    "Univercity-ISPU/Lektsia_8_27_10_2023.md",
+    "Univercity-ISPU/Lektsia_7_13_10_2023.md",
+    "Univercity-ISPU/Lektsia_4_12_09_2023.md",
+    "Univercity-ISPU/Lektsia_1_04_09_2023.md",
+    "Univercity-ISPU/Lektsia_3_11_09_2023.md",
+    "Univercity-ISPU/Lektsia_2_08_09_2023.md",
+    "Programming/Programming.md",
     "Programming/Парсинг на python.md",
     "Programming/фреймворк.md",
     "Languages/English/English.md",
@@ -180,18 +177,10 @@
     "Gaming/Tips to rank up.md",
     "Drawing/Drawing.md",
     "Drawing/схема обучения рисованию.md",
-    "Drawing/как рисовать эффективнее.md",
-    "Drawing/техники набросков.md",
-    "Efficiency/Efficiency.md",
-    "Efficiency/Саморазвитие.md",
     "Languages/Russian",
-    "Drawing/Exercises.md",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",
-    "Programming/Programming.md",
-    "Languages/English/50 useful phrases.md",
-    "Programming/django.md",
     "Efficiency/attachments/Pasted image 20231215133156.png",
     "Efficiency/attachments/Pasted image 20231214232010.png",
     "Efficiency/attachments/Pasted image 20231214224006.png",
@@ -199,8 +188,6 @@
     "Efficiency/attachments/Pasted image 20231214223600.png",
     "Efficiency/attachments/Pasted image 20231214223525.png",
     "Efficiency/attachments/Pasted image 20231214222236.png",
-    "Programming/Untitled.md",
-    "Programming/Python.md",
     "templates",
     "Untitled.canvas",
     "Appearence",
