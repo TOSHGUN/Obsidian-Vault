@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME.md",
+                "file": "ChatGPT prompt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb0d539ed3af0b55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME.md"
+                "file": "ChatGPT prompt.md"
               }
             }
           },
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME.md",
+                "file": "ChatGPT prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME.md",
+                "file": "ChatGPT prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9932cda736dac511",
+  "active": "cb0d539ed3af0b55",
   "lastOpenFiles": [
+    "ME.md",
+    "ChatGPT prompt.md",
     "Univercity-ISPU/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/Lektsia_8_27_10_2023.md",
     "Univercity-ISPU/Lektsia_7_13_10_2023.md",
@@ -175,8 +188,6 @@
     "Gaming/find perfect sensetivity.md",
     "Gaming/warm up valorant.md",
     "Gaming/Tips to rank up.md",
-    "Drawing/Drawing.md",
-    "Drawing/схема обучения рисованию.md",
     "Languages/Russian",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
