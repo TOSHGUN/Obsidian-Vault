@@ -24,3 +24,13 @@
 - battlenet
 - lestagames
 - origin
+
+
+# Studying
+## university
+### долги
+1. 
+
+## текущее
+1. 
+## courses

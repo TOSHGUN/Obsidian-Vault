@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "88e027654c5c2ac3",
+        "id": "cb40103c4e53f43b",
         "type": "tabs",
         "children": [
           {
-            "id": "14ecceb97be513f0",
+            "id": "c485fbd2a0566679",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ME.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -144,19 +149,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "c485fbd2a0566679",
   "lastOpenFiles": [
-    "ChatGPT prompt.md",
+    "Univercity-ISPU/вычислительные системы и сети/Вычислительные системы и сети.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_1_04_09_2023.md",
+    "Univercity-ISPU/противодействие терроризму",
+    "Univercity-ISPU/информационные системы и технологии/информационные системы и технологии.md",
+    "Univercity-ISPU/информационные системы и технологии",
+    "Univercity-ISPU/методы анализа предметных областей",
+    "Univercity-ISPU/математические методы принятия решений",
+    "Univercity-ISPU/организационное обеспечение информационных систем",
+    "Univercity-ISPU/экономика",
+    "Univercity-ISPU/теория распознавания образов",
+    "Univercity-ISPU/базы данных",
+    "Univercity-ISPU/прикладная теория вероятности и математическая статистика",
+    "Univercity-ISPU/теоретические основы информационных систем",
+    "Univercity-ISPU/Untitled/Untitled.md",
     "ME.md",
-    "Univercity-ISPU/Lektsia_9_10_11_2023_-_Poslednyaya.md",
-    "Univercity-ISPU/Lektsia_8_27_10_2023.md",
-    "Univercity-ISPU/Lektsia_7_13_10_2023.md",
-    "Univercity-ISPU/Lektsia_6_29_09_2023.md",
-    "Univercity-ISPU/Lektsia_5_15_09_2023.md",
-    "Univercity-ISPU/Lektsia_4_12_09_2023.md",
-    "Univercity-ISPU/Lektsia_1_04_09_2023.md",
-    "Univercity-ISPU/Lektsia_3_11_09_2023.md",
-    "Univercity-ISPU/Lektsia_2_08_09_2023.md",
+    "ChatGPT prompt.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_8_27_10_2023.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_7_13_10_2023.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_6_29_09_2023.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_5_15_09_2023.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_4_12_09_2023.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_3_11_09_2023.md",
+    "Univercity-ISPU/противодействие терроризму/Lektsia_2_08_09_2023.md",
     "Programming/Programming.md",
     "Programming/Парсинг на python.md",
     "Programming/фреймворк.md",
@@ -169,10 +187,6 @@
     "Gaming/aim mechanics.md",
     "Gaming/aim routine.md",
     "Gaming/optimal settings.md",
-    "Gaming/find perfect sensetivity.md",
-    "Gaming/warm up valorant.md",
-    "Gaming/Tips to rank up.md",
-    "Languages/Russian",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",
@@ -183,15 +197,6 @@
     "Efficiency/attachments/Pasted image 20231214223600.png",
     "Efficiency/attachments/Pasted image 20231214223525.png",
     "Efficiency/attachments/Pasted image 20231214222236.png",
-    "templates",
-    "Untitled.canvas",
-    "Appearence",
-    "Sports/basketball",
-    "Efficiency/obsidian",
-    "Efficiency/attachments",
-    "Drawing/Attachments",
-    "Car/Driving",
-    "Car",
-    "Efficiency"
+    "Untitled.canvas"
   ]
 }
