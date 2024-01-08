@@ -9,3 +9,18 @@
 	- кубики и рельеф
 	- данк (июнь)
 - купить кресло
+
+# Accounts
+- yandex + kinopoisk
+- ivi
+## social
+- discord
+- facebook
+- instagram
+- vk
+## games
+- steam
+- epic
+- battlenet
+- lestagames
+- origin
