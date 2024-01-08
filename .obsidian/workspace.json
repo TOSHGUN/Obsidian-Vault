@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME.md",
+                "file": "Programming/web roadmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ME.md"
+                "file": "Programming/web roadmap.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME.md",
+                "file": "Programming/web roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME.md",
+                "file": "Programming/web roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +151,9 @@
   },
   "active": "c485fbd2a0566679",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20240109015540.png",
+    "ME.md",
+    "Programming/web roadmap.md",
     "Univercity-ISPU/вычислительные системы и сети/Вычислительные системы и сети.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_1_04_09_2023.md",
     "Univercity-ISPU/противодействие терроризму",
@@ -165,7 +168,6 @@
     "Univercity-ISPU/прикладная теория вероятности и математическая статистика",
     "Univercity-ISPU/теоретические основы информационных систем",
     "Univercity-ISPU/Untitled/Untitled.md",
-    "ME.md",
     "ChatGPT prompt.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_8_27_10_2023.md",
@@ -185,8 +187,6 @@
     "Gaming/Movement.md",
     "Gaming/Aim.md",
     "Gaming/aim mechanics.md",
-    "Gaming/aim routine.md",
-    "Gaming/optimal settings.md",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",
