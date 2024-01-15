@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/web roadmap.md",
+                "file": "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/web roadmap.md"
+                "file": "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/web roadmap.md",
+                "file": "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/web roadmap.md",
+                "file": "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +151,10 @@
   },
   "active": "c485fbd2a0566679",
   "lastOpenFiles": [
+    "Programming/web roadmap.md",
+    "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
     "Efficiency/attachments/Pasted image 20240109015540.png",
     "ME.md",
-    "Programming/web roadmap.md",
     "Univercity-ISPU/вычислительные системы и сети/Вычислительные системы и сети.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_1_04_09_2023.md",
     "Univercity-ISPU/противодействие терроризму",
@@ -196,7 +197,6 @@
     "Efficiency/attachments/Pasted image 20231214223632.png",
     "Efficiency/attachments/Pasted image 20231214223600.png",
     "Efficiency/attachments/Pasted image 20231214223525.png",
-    "Efficiency/attachments/Pasted image 20231214222236.png",
     "Untitled.canvas"
   ]
 }
