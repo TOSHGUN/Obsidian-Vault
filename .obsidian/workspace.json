@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "c5ea95b427a43f79",
+            "id": "fe284fbd69402f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efficiency/studying.md",
+                "file": "Prompt engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1481d044b7a2f256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/habits to get lean.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficiency/studying.md"
+                "file": "Sports/habits to get lean.md"
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/studying.md",
+                "file": "Sports/habits to get lean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/studying.md",
+                "file": "Sports/habits to get lean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +186,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c5ea95b427a43f79",
+  "active": "1481d044b7a2f256",
   "lastOpenFiles": [
-    "Efficiency/7 правил здорового сна.md",
+    "Prompt engineering.md",
+    "ChatGPT prompt.md",
+    "Sports/habits to get lean.md",
+    "Sports/упражнение кегеля.md",
     "Efficiency/studying.md",
+    "Efficiency/7 правил здорового сна.md",
     "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
     "Programming/web roadmap.md",
     "Efficiency/attachments/Pasted image 20240109015540.png",
@@ -195,7 +212,6 @@
     "Univercity-ISPU/прикладная теория вероятности и математическая статистика",
     "Univercity-ISPU/теоретические основы информационных систем",
     "Univercity-ISPU/Untitled/Untitled.md",
-    "ChatGPT prompt.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_8_27_10_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_7_13_10_2023.md",
@@ -209,9 +225,6 @@
     "Programming/фреймворк.md",
     "Languages/English/English.md",
     "Gaming/Gaming.md",
-    "Gaming/Game sense.md",
-    "Gaming/Main rules.md",
-    "Gaming/Movement.md",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",
