@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Efficiency/attachments"
+  "attachmentFolderPath": "Efficiency/attachments",
+  "vimMode": false
 }

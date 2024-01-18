@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efficiency/note taking framework.md",
+                "file": "ME.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficiency/note taking framework.md"
+                "file": "ME.md"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficiency/note taking framework.md",
+                "file": "ME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficiency/note taking framework.md",
+                "file": "ME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +189,8 @@
   },
   "active": "56c8ad2f3aaad9df",
   "lastOpenFiles": [
-    "Efficiency/60 seconds rule.md",
     "Efficiency/note taking framework.md",
+    "Efficiency/60 seconds rule.md",
     "Prompt engineering.md",
     "Sports/habits to get lean.md",
     "ChatGPT prompt.md",

@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "translucency": false
+  "accentColor": "#c933ff",
+  "translucency": false,
+  "cssTheme": "Tokyo Night"
 }

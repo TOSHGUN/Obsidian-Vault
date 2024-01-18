@@ -11,7 +11,8 @@
 - купить кресло
 
 # Accounts
-- yandex + kinopoisk
+## entertainment
+- kinopoisk
 - ivi
 ## social
 - discord
