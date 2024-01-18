@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt engineering.md",
+                "file": "Efficiency/60 seconds rule.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c8ad2f3aaad9df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efficiency/note taking framework.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt engineering.md"
+                "file": "Efficiency/note taking framework.md"
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompt engineering.md",
+                "file": "Efficiency/note taking framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompt engineering.md",
+                "file": "Efficiency/note taking framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +186,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "fe284fbd69402f7b",
+  "active": "56c8ad2f3aaad9df",
   "lastOpenFiles": [
-    "Sports/habits to get lean.md",
+    "Efficiency/60 seconds rule.md",
+    "Efficiency/note taking framework.md",
     "Prompt engineering.md",
+    "Sports/habits to get lean.md",
     "ChatGPT prompt.md",
     "Sports/упражнение кегеля.md",
     "Efficiency/studying.md",
@@ -210,8 +225,6 @@
     "Programming/Programming.md",
     "Programming/Парсинг на python.md",
     "Programming/фреймворк.md",
-    "Languages/English/English.md",
-    "Gaming/Gaming.md",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",
