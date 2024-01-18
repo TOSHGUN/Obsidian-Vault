@@ -12,19 +12,47 @@
 
 # Accounts
 ## entertainment
-- kinopoisk
-- ivi
+- [kinopoisk](https://hd.kinopoisk.ru/)
+- [ivi](https://www.ivi.ru/)
+- [litres](https://www.litres.ru/)
 ## social
 - discord
 - facebook
 - instagram
 - vk
+- twitch
+- zoom
+- telegram
+- pinterest
+- linkedIn
 ## games
 - steam
 - epic
 - battlenet
 - lestagames
 - origin
+- rockstar
+- riot
+## bank
+- [tinkoff](https://www.tinkoff.ru/)
+- [sber](https://online.sberbank.ru/CSAFront/index.do)
+- [vtb](https://www.vtb.ru/)
+- [otkriytie](https://ib.open.ru/webbank/#/login)
+- qiwi
+- webmoney
+- paypal
+## learning
+- skillbox
+- stepik
+- pluralsight
+- coursera
+## programming
+- codeforces
+- codepen
+- codewars
+- github
+- unity
+- 
 
 
 # Studying
