@@ -52,7 +52,7 @@
 - codewars
 - github
 - unity
-- 
+- [glo academy](https://study.up-skills.ru/)
 
 
 # Studying
