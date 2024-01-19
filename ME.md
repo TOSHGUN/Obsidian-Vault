@@ -46,14 +46,13 @@
 - stepik
 - pluralsight
 - coursera
+- [glo academy](https://study.up-skills.ru/)
 ## programming
 - codeforces
 - codepen
 - codewars
 - github
 - unity
-- [glo academy](https://study.up-skills.ru/)
-- 
 
 
 # Studying
