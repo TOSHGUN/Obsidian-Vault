@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME.md",
+                "file": "Sports/Protein.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sports/Protein.md"
+              }
             }
           },
           {
@@ -119,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sports/Protein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sports/Protein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,15 +173,19 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4e6d169cb394ca23",
+  "active": "969d34cbf4681dbf",
   "lastOpenFiles": [
+    "Sports/how to squat.md",
+    "Sports/how to deadlift.md",
+    "Sports/how to bench press.md",
+    "Sports/habits to get lean.md",
+    "Sports/excersice for limitless stamina.md",
+    "Sports/упражнение кегеля.md",
     "ME.md",
     "Prompt engineering.md",
     "Efficiency/note taking framework.md",
     "Efficiency/60 seconds rule.md",
-    "Sports/habits to get lean.md",
     "ChatGPT prompt.md",
-    "Sports/упражнение кегеля.md",
     "Efficiency/studying.md",
     "Efficiency/7 правил здорового сна.md",
     "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
@@ -204,10 +212,6 @@
     "Univercity-ISPU/противодействие терроризму/Lektsia_5_15_09_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_4_12_09_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_3_11_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_2_08_09_2023.md",
-    "Programming/Programming.md",
-    "Programming/Парсинг на python.md",
-    "Programming/фреймворк.md",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",

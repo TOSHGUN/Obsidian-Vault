@@ -103,7 +103,7 @@ endurance
 
 ---
 ## Saturday
-
+power
 
 ---
 ## Sunday

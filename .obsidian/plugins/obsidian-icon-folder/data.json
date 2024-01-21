@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasTrophy",
       "FasPerson",
       "SiUnilever",
       "FasBasketball",
-      "RiAttachment2",
-      "SiObsidian"
+      "RiAttachment2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Efficiency/attachments": "RiAttachment2",
   "Sports/basketball": "FasBasketball",
   "Univercity-ISPU": "SiUnilever",
-  "ME.md": "FasPerson"
+  "ME.md": "FasPerson",
+  "Sports": "FasTrophy"
 }
