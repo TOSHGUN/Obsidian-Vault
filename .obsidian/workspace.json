@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1da9132eec0afbc",
+        "id": "122c684ce2635da7",
         "type": "tabs",
         "children": [
           {
-            "id": "127647ef353c6abd",
+            "id": "969d34cbf4681dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,20 +23,15 @@
         ]
       },
       {
-        "id": "70e580568d39b4c1",
+        "id": "529c1c4a924f22a8",
         "type": "tabs",
         "children": [
           {
-            "id": "af321c4b0c135ae3",
+            "id": "4e6d169cb394ca23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ME.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ME.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +169,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "af321c4b0c135ae3",
+  "active": "4e6d169cb394ca23",
   "lastOpenFiles": [
     "ME.md",
     "Prompt engineering.md",
