@@ -76,3 +76,24 @@
 
 22:30 - reading
 23:00 - sleep
+
+# Training
+## Monday
+
+---
+## Thursday
+
+---
+## Wednesday
+
+---
+## Thursday
+
+---
+## Friday
+
+---
+## Saturday
+
+---
+## Sunday
