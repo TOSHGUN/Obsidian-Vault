@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab288970d3447357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/Plyometric Exercises For Athletes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bca4a91538c92611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/P eriodization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "529c1c4a924f22a8",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/Protein.md"
+                "file": "Sports/P eriodization.md"
               }
             }
           },
@@ -121,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/Protein.md",
+                "file": "Sports/P eriodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/Protein.md",
+                "file": "Sports/P eriodization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +200,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "969d34cbf4681dbf",
+  "active": "bca4a91538c92611",
   "lastOpenFiles": [
+    "Sports/Plyometric Exercises For Athletes.md",
+    "Sports/P eriodization.md",
+    "Sports/Protein.md",
     "Sports/how to squat.md",
     "Sports/how to deadlift.md",
     "Sports/how to bench press.md",
@@ -209,9 +239,6 @@
     "Univercity-ISPU/противодействие терроризму/Lektsia_8_27_10_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_7_13_10_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_6_29_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_5_15_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_4_12_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_3_11_09_2023.md",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
     "Efficiency/attachments/Pasted image 20231218010826.png",
