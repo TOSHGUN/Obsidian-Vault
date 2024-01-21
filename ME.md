@@ -63,3 +63,16 @@
 ## текущее
 1. 
 ## courses
+
+# Daily
+7:00 - wake up + warmup
+7:30 - breakfast
+
+---
+
+
+
+---
+
+22:30 - reading
+23:00 - sleep
