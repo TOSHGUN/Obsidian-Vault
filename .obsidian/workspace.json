@@ -4,52 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "122c684ce2635da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "969d34cbf4681dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/Protein.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab288970d3447357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/Plyometric Exercises For Athletes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bca4a91538c92611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/P eriodization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "529c1c4a924f22a8",
         "type": "tabs",
         "children": [
@@ -137,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sports/P eriodization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/P eriodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/P eriodization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +150,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bca4a91538c92611",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
     "Sports/Plyometric Exercises For Athletes.md",
-    "Sports/P eriodization.md",
+    "Sports/Periodization.md",
     "Sports/Protein.md",
     "Sports/how to squat.md",
     "Sports/how to deadlift.md",
