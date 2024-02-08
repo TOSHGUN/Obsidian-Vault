@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6eafc0fc0e1a53",
+        "id": "9f9d6dd9d1846cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "37a5afbbccd95ea1",
+            "id": "17f4afe8408e079a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
+                "file": "Univercity-ISPU/предметно ориентированные ИС.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
+                "file": "Univercity-ISPU/предметно ориентированные ИС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
+                "file": "Univercity-ISPU/предметно ориентированные ИС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md"
+                "file": "Univercity-ISPU/предметно ориентированные ИС.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37a5afbbccd95ea1",
+  "active": "17f4afe8408e079a",
   "lastOpenFiles": [
     "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
+    "Univercity-ISPU/предметно ориентированные ИС.md",
     "Univercity-ISPU/проектирование информационных систем",
     "templates/zettelkasten template.md",
     "templates",
@@ -181,7 +182,6 @@
     "Sports/basketball",
     "Sports",
     "Programming/фреймворк.md",
-    "Programming/web roadmap.md",
     "Languages/English",
     "Efficiency/obsidian",
     "Efficiency/attachments/Pasted image 20240109015540.png",
