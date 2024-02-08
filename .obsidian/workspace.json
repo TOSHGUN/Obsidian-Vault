@@ -11,8 +11,12 @@
             "id": "37a5afbbccd95ea1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md"
+              }
             }
           }
         ]
@@ -138,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "37a5afbbccd95ea1",
   "lastOpenFiles": [
-    "Univercity-ISPU/Untitled",
+    "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
+    "Univercity-ISPU/проектирование информационных систем",
     "templates/zettelkasten template.md",
     "templates",
     "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
@@ -185,7 +194,6 @@
     "Efficiency/attachments/Pasted image 20231214223632.png",
     "Efficiency/attachments/Pasted image 20231214223600.png",
     "Efficiency/attachments/Pasted image 20231214223525.png",
-    "Efficiency/attachments",
     "Untitled.canvas"
   ]
 }
