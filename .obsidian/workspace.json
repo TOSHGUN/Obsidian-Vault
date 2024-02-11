@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9d6dd9d1846cf2",
+        "id": "529c1c4a924f22a8",
         "type": "tabs",
         "children": [
           {
-            "id": "17f4afe8408e079a",
+            "id": "4e6d169cb394ca23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univercity-ISPU/предметно ориентированные ИС.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hashtag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "2db3fdafdff73ce5",
@@ -79,35 +75,6 @@
         "id": "f15743eee1388234",
         "type": "tabs",
         "children": [
-          {
-            "id": "79f8ae100a67d5a2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Univercity-ISPU/предметно ориентированные ИС.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1fb04b4a1878de24",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Univercity-ISPU/предметно ориентированные ИС.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "5c8d0dec28304c4f",
             "type": "leaf",
@@ -124,16 +91,50 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "133e187653bfec97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "Univercity-ISPU/предметно ориентированные ИС.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e485f4aadb44fdec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb199ad5d81f215a",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 316.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,16 +144,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "17f4afe8408e079a",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
-    "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
-    "Univercity-ISPU/предметно ориентированные ИС.md",
-    "Univercity-ISPU/проектирование информационных систем",
-    "templates/zettelkasten template.md",
-    "templates",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_7_13_10_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_6_29_09_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_5_15_09_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_4_12_09_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_3_11_09_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_2_08_09_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_1_04_09_2023.md",
+    "Univercity-ISPU/5 sem/противодействие терроризму",
+    "Univercity-ISPU/5 sem/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
+    "Univercity-ISPU/5 sem/математические методы принятия решений",
+    "Univercity-ISPU/5 sem/информационные системы и технологии/информационные системы и технологии.md",
+    "Univercity-ISPU/5 sem/информационные системы и технологии",
+    "Univercity-ISPU/5 sem/вычислительные системы и сети/Вычислительные системы и сети.md",
+    "Univercity-ISPU/5 sem/вычислительные системы и сети",
     "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_8_27_10_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_7_13_10_2023.md",
@@ -163,27 +178,17 @@
     "Univercity-ISPU/противодействие терроризму/Lektsia_2_08_09_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_1_04_09_2023.md",
     "Univercity-ISPU/противодействие терроризму",
+    "Univercity-ISPU/проектирование информационных систем/Проектирование информационных систем.md",
+    "Univercity-ISPU/проектирование информационных систем",
+    "Univercity-ISPU/предметно ориентированные ИС.md",
     "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии/информационные системы и технологии.md",
     "Univercity-ISPU/информационные системы и технологии",
     "Univercity-ISPU/вычислительные системы и сети/Вычислительные системы и сети.md",
     "Univercity-ISPU/вычислительные системы и сети",
-    "Sports/basketball/fundamentals.md",
-    "Sports/basketball/tactics.md",
-    "Sports/упражнение кегеля.md",
-    "Sports/Protein.md",
-    "Sports/Plyometric Exercises For Athletes.md",
-    "Sports/how to squat.md",
-    "Sports/how to deadlift.md",
-    "Sports/how to bench press.md",
-    "Sports/habits to get lean.md",
-    "Sports/excersice for limitless stamina.md",
-    "Sports/basketball",
-    "Sports",
-    "Programming/фреймворк.md",
-    "Languages/English",
-    "Efficiency/obsidian",
+    "Univercity-ISPU/7 sem",
+    "Univercity-ISPU/6 sem/Untitled.canvas",
     "Efficiency/attachments/Pasted image 20240109015540.png",
     "Efficiency/attachments/Pasted image 20231218011254.png",
     "Efficiency/attachments/Pasted image 20231218010951.png",
