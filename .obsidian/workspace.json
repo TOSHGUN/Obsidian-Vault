@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8256f71aa5ba0ef",
+        "id": "529c1c4a924f22a8",
         "type": "tabs",
         "children": [
           {
-            "id": "d047037975deaadd",
+            "id": "4e6d169cb394ca23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Univercity-ISPU/6 sem/предметно ориентированные информационные системы/предметно ориентированные ИС.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
