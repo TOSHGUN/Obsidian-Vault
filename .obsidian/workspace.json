@@ -11,8 +11,10 @@
             "id": "d047037975deaadd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
             }
           }
         ]
@@ -154,7 +156,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "d047037975deaadd",
   "lastOpenFiles": [
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
