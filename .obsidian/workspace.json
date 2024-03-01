@@ -16,8 +16,22 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "23f0d3654432948b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "НИР.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univercity-ISPU/6 sem/предметно ориентированные информационные системы/предметно ориентированные ИС.md"
+                "file": "НИР.md"
               }
             }
           },
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univercity-ISPU/6 sem/предметно ориентированные информационные системы/предметно ориентированные ИС.md",
+                "file": "НИР.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univercity-ISPU/6 sem/предметно ориентированные информационные системы/предметно ориентированные ИС.md",
+                "file": "НИР.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +170,9 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d047037975deaadd",
+  "active": "23f0d3654432948b",
   "lastOpenFiles": [
+    "НИР.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_7_13_10_2023.md",
@@ -191,7 +206,6 @@
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии/информационные системы и технологии.md",
     "Univercity-ISPU/информационные системы и технологии",
-    "Univercity-ISPU/вычислительные системы и сети/Вычислительные системы и сети.md",
     "Univercity-ISPU/вычислительные системы и сети",
     "Univercity-ISPU/7 sem",
     "Univercity-ISPU/6 sem/Untitled.canvas",
