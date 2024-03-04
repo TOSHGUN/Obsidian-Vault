@@ -15,9 +15,9 @@
               "state": {
                 "file": "system.canvas",
                 "viewState": {
-                  "x": -312.5,
-                  "y": 40.5,
-                  "zoom": 0
+                  "x": -70,
+                  "y": -515.6286311950536,
+                  "zoom": -0.603022472266147
                 }
               }
             }
@@ -161,10 +161,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "d047037975deaadd",
   "lastOpenFiles": [
-    "Car/caddy.md",
+    "ME.md",
     "system.canvas",
+    "Car/caddy.md",
     "НИР.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
