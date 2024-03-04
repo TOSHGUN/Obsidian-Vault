@@ -11,27 +11,18 @@
             "id": "d047037975deaadd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "23f0d3654432948b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "НИР.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "system.canvas",
+                "viewState": {
+                  "x": -312.5,
+                  "y": 40.5,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "НИР.md"
+                "file": "system.canvas"
               }
             }
           },
@@ -118,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "НИР.md",
+                "file": "system.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "НИР.md",
+                "file": "system.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +161,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "23f0d3654432948b",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "Car/caddy.md",
+    "system.canvas",
     "НИР.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
@@ -202,9 +195,7 @@
     "Univercity-ISPU/6 sem/проектирование информационных систем/Проектирование информационных систем.md",
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/6 sem/предметно ориентированные информационные системы/предметно ориентированные ИС.md",
-    "Univercity-ISPU/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
     "Univercity-ISPU/математические методы принятия решений",
-    "Univercity-ISPU/информационные системы и технологии/информационные системы и технологии.md",
     "Univercity-ISPU/информационные системы и технологии",
     "Univercity-ISPU/вычислительные системы и сети",
     "Univercity-ISPU/7 sem",
@@ -218,7 +209,6 @@
     "Efficiency/attachments/Pasted image 20231214224006.png",
     "Efficiency/attachments/Pasted image 20231214223632.png",
     "Efficiency/attachments/Pasted image 20231214223600.png",
-    "Efficiency/attachments/Pasted image 20231214223525.png",
-    "Untitled.canvas"
+    "Efficiency/attachments/Pasted image 20231214223525.png"
   ]
 }
