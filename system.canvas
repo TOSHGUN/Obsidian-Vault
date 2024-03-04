@@ -7,8 +7,7 @@
 		{"id":"a41b35e012c927dd","type":"text","text":"Knowledges","x":220,"y":-760,"width":160,"height":60},
 		{"id":"10d78ee5d3ff2dc6","type":"text","text":"experience","x":466,"y":-760,"width":144,"height":60},
 		{"id":"2353a6ec2220fc2c","type":"text","text":"people","x":220,"y":-660,"width":160,"height":60},
-		{"id":"e08baf4a57021cc6","type":"text","text":"Gadget","x":220,"y":-30,"width":160,"height":60},
-		{"id":"45006b2b6e366c23","x":-750,"y":-760,"width":115,"height":60,"type":"text","text":"socials"}
+		{"id":"e08baf4a57021cc6","type":"text","text":"Gadget","x":220,"y":-30,"width":160,"height":60}
 	],
 	"edges":[]
 }
