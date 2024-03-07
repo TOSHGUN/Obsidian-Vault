@@ -8,7 +8,10 @@
 		{"id":"10d78ee5d3ff2dc6","type":"text","text":"Experience","x":466,"y":-760,"width":144,"height":60},
 		{"id":"2353a6ec2220fc2c","type":"text","text":"People","x":220,"y":-660,"width":160,"height":60},
 		{"id":"e08baf4a57021cc6","type":"text","text":"Gadget","x":220,"y":-30,"width":160,"height":60},
-		{"id":"9c0193083de40ea1","x":220,"y":-380,"width":160,"height":60,"type":"text","text":"Projects"}
+		{"id":"9c0193083de40ea1","type":"text","text":"Projects","x":220,"y":-380,"width":160,"height":60},
+		{"id":"0492f848b4b5398f","x":-750,"y":-725,"width":101,"height":50,"type":"text","text":"tasks"},
+		{"id":"e190e9ce71b92cb8","x":-750,"y":-630,"width":101,"height":60,"type":"text","text":"main"},
+		{"id":"9ec61aaeccfce7c7","x":-628,"y":-630,"width":108,"height":60,"type":"text","text":"side"}
 	],
 	"edges":[]
 }

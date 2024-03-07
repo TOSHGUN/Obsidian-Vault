@@ -16,24 +16,13 @@
                 "file": "system.canvas",
                 "viewState": {
                   "x": -70,
-                  "y": -311.9827368506597,
+                  "y": -330.8170498410547,
                   "zoom": -0.603022472266147
                 }
               }
             }
-          },
-          {
-            "id": "2ac8e32c79b13034",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,9 +161,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "2ac8e32c79b13034",
+  "active": "d047037975deaadd",
   "lastOpenFiles": [
     "ME.md",
+    "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
+    "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php",
+    "Univercity-ISPU/6 sem/проектирование интернет ресурсов",
     "Socials.md",
     "prompt engineering.md",
     "system.canvas",
@@ -204,13 +196,10 @@
     "Univercity-ISPU/противодействие терроризму/Lektsia_4_12_09_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_3_11_09_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_2_08_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_1_04_09_2023.md",
     "Univercity-ISPU/противодействие терроризму",
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии",
-    "Univercity-ISPU/вычислительные системы и сети",
-    "Univercity-ISPU/7 sem",
     "Univercity-ISPU/6 sem/Untitled.canvas",
     "Efficiency/attachments/Pasted image 20240109015540.png",
     "Efficiency/attachments/Pasted image 20231218011254.png",
