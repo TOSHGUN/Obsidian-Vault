@@ -16,7 +16,7 @@
                 "file": "system.canvas",
                 "viewState": {
                   "x": -70,
-                  "y": -330.8170498410547,
+                  "y": -445,
                   "zoom": -0.603022472266147
                 }
               }
@@ -26,9 +26,12 @@
             "id": "ce513190776fa19c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system.canvas"
+                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md"
               }
             }
           },
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system.canvas",
+                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system.canvas",
+                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,12 +175,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "ce513190776fa19c",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "Programming/PHP",
     "ME.md",
-    "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
-    "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php",
-    "Univercity-ISPU/6 sem/проектирование интернет ресурсов",
     "Socials.md",
     "prompt engineering.md",
     "system.canvas",
@@ -211,6 +212,8 @@
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии",
+    "Univercity-ISPU/вычислительные системы и сети",
+    "Univercity-ISPU/7 sem",
     "Univercity-ISPU/6 sem/Untitled.canvas",
     "Efficiency/attachments/Pasted image 20240109015540.png",
     "Efficiency/attachments/Pasted image 20231218011254.png",
