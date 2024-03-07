@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "ce513190776fa19c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +172,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d047037975deaadd",
+  "active": "ce513190776fa19c",
   "lastOpenFiles": [
     "ME.md",
     "Socials.md",
