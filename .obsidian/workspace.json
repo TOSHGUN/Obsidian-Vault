@@ -16,13 +16,24 @@
                 "file": "system.canvas",
                 "viewState": {
                   "x": -70,
-                  "y": -445,
+                  "y": -311.9827368506597,
                   "zoom": -0.603022472266147
                 }
               }
             }
+          },
+          {
+            "id": "2ac8e32c79b13034",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +172,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d047037975deaadd",
+  "active": "2ac8e32c79b13034",
   "lastOpenFiles": [
     "ME.md",
     "Socials.md",
