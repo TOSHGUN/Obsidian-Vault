@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
+                "file": "Programming/PHP/PHP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md"
+                "file": "Programming/PHP/PHP.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
+                "file": "Programming/PHP/PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
+                "file": "Programming/PHP/PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "ce513190776fa19c",
   "lastOpenFiles": [
+    "Programming/Web/Служебные теги.md",
+    "Programming/Web/DevTools.md",
+    "Programming/Web/Web.md",
+    "Programming/Web/HTML.md",
+    "Programming/PHP/PHP.md",
+    "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
     "Programming/PHP",
     "ME.md",
     "Socials.md",
@@ -203,17 +209,11 @@
     "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_8_27_10_2023.md",
     "Univercity-ISPU/противодействие терроризму/Lektsia_7_13_10_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_6_29_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_5_15_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_4_12_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_3_11_09_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_2_08_09_2023.md",
     "Univercity-ISPU/противодействие терроризму",
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии",
     "Univercity-ISPU/вычислительные системы и сети",
-    "Univercity-ISPU/7 sem",
     "Univercity-ISPU/6 sem/Untitled.canvas",
     "Efficiency/attachments/Pasted image 20240109015540.png",
     "Efficiency/attachments/Pasted image 20231218011254.png",
