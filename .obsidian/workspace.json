@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "2db3fdafdff73ce5",
@@ -175,7 +176,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "ce513190776fa19c",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
     "Programming/Web/Служебные теги.md",
     "Programming/Web/DevTools.md",
