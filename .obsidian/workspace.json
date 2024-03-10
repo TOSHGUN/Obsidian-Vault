@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8256f71aa5ba0ef",
+        "id": "bd14f36a5c5ee2e4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce513190776fa19c",
+            "id": "8c7a6e28c231b1ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "life system/System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "life system/System.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life system/System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life system/System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,14 +150,22 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "8c7a6e28c231b1ac",
   "lastOpenFiles": [
-    "life system/system.canvas",
-    "life system",
+    "life system/Устройства.md",
+    "life system/Хранилища информации.md",
+    "life system/Accounts.md",
+    "life system/interface.canvas",
+    "life system/System.md",
+    "life system/main tasks.md",
     "life system/ME.md",
+    "life system/experience.md",
+    "life system/knowledge.md",
+    "life system/univercity tasks.md",
+    "life system/work tasks.md",
+    "life system",
     "Sports/training plan.md",
     "Efficiency/obsidian/Markdown tags.md",
-    "life system/System.md",
     "Programming/PHP/PHP.md",
     "Programming/web roadmap.md",
     "Univercity-ISPU/объяснительная.md",
@@ -181,14 +180,6 @@
     "Car/caddy.md",
     "Univercity-ISPU/НИР.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_7_13_10_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_6_29_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_5_15_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_4_12_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_3_11_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_2_08_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_1_04_09_2023.md",
     "Univercity-ISPU/5 sem/противодействие терроризму",
     "Univercity-ISPU/5 sem/математические методы принятия решений",
     "Univercity-ISPU/5 sem/информационные системы и технологии",
