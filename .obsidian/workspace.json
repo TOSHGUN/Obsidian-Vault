@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/PHP/PHP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5c9353636fb0192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System.md",
+                "file": "life system/System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "life system/System.md"
               }
             }
           },
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "life system/System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "life system/System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,21 +161,25 @@
   },
   "active": "029f6cb3279d3959",
   "lastOpenFiles": [
-    "объяснительная.md",
-    "System.md",
+    "life system/system.canvas",
+    "life system",
+    "life system/ME.md",
+    "Sports/training plan.md",
+    "Efficiency/obsidian/Markdown tags.md",
+    "life system/System.md",
     "Programming/PHP/PHP.md",
-    "system.canvas",
+    "Programming/web roadmap.md",
+    "Univercity-ISPU/объяснительная.md",
     "Programming/Web/Служебные теги.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/Web.md",
     "Programming/Web/HTML.md",
     "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
     "Programming/PHP",
-    "ME.md",
     "Socials.md",
     "prompt engineering.md",
     "Car/caddy.md",
-    "НИР.md",
+    "Univercity-ISPU/НИР.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_7_13_10_2023.md",
@@ -200,18 +190,13 @@
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_2_08_09_2023.md",
     "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_1_04_09_2023.md",
     "Univercity-ISPU/5 sem/противодействие терроризму",
-    "Univercity-ISPU/5 sem/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
     "Univercity-ISPU/5 sem/математические методы принятия решений",
-    "Univercity-ISPU/5 sem/информационные системы и технологии/информационные системы и технологии.md",
     "Univercity-ISPU/5 sem/информационные системы и технологии",
-    "Univercity-ISPU/5 sem/вычислительные системы и сети/Вычислительные системы и сети.md",
     "Univercity-ISPU/5 sem/вычислительные системы и сети",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
     "Univercity-ISPU/противодействие терроризму",
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии",
-    "Univercity-ISPU/вычислительные системы и сети",
     "Univercity-ISPU/6 sem/Untitled.canvas",
     "Efficiency/attachments/Pasted image 20240109015540.png",
     "Efficiency/attachments/Pasted image 20231218011254.png",
