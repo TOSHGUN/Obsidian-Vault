@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c8256f71aa5ba0ef",
+        "id": "afb2bb3bf79aa492",
         "type": "tabs",
         "children": [
           {
-            "id": "ce513190776fa19c",
+            "id": "647fcbe7c09f7390",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/PHP/PHP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2000ff128d109dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "2db3fdafdff73ce5",
@@ -111,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,10 +150,22 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "2000ff128d109dac",
+  "active": "647fcbe7c09f7390",
   "lastOpenFiles": [
-    "system.canvas",
+    "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
+    "Programming/PHP/PHP.md",
+    "Efficiency/attachments/Pasted image 20240311121306.png",
+    "Efficiency/attachments/Pasted image 20240311121124.png",
+    "Efficiency/attachments/Pasted image 20240311121100.png",
+    "Efficiency/attachments/Pasted image 20240311121023.png",
+    "Efficiency/attachments/Pasted image 20240311120951.png",
+    "Efficiency/attachments/Pasted image 20240311120737.png",
+    "Efficiency/attachments/Pasted image 20240311120556.png",
+    "Efficiency/attachments/Pasted image 20240311120347.png",
+    "Efficiency/attachments/Pasted image 20240311120036.png",
+    "Efficiency/attachments/Pasted image 20240311115919.png",
     "conflict-files-obsidian-git.md",
+    "system.canvas",
     "life system/Хранилища информации.md",
     "life system/Устройства.md",
     "life system/work tasks.md",
@@ -197,7 +185,6 @@
     "Programming/Web/DevTools.md",
     "Programming/Web/Web.md",
     "Programming/Web/HTML.md",
-    "Programming/PHP/PHP.md",
     "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
     "Programming/PHP",
     "ME.md",
@@ -213,16 +200,6 @@
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии",
-    "Univercity-ISPU/6 sem/Untitled.canvas",
-    "Efficiency/attachments/Pasted image 20240109015540.png",
-    "Efficiency/attachments/Pasted image 20231218011254.png",
-    "Efficiency/attachments/Pasted image 20231218010951.png",
-    "Efficiency/attachments/Pasted image 20231218010826.png",
-    "Efficiency/attachments/Pasted image 20231215133156.png",
-    "Efficiency/attachments/Pasted image 20231214232010.png",
-    "Efficiency/attachments/Pasted image 20231214224006.png",
-    "Efficiency/attachments/Pasted image 20231214223632.png",
-    "Efficiency/attachments/Pasted image 20231214223600.png",
-    "Efficiency/attachments/Pasted image 20231214223525.png"
+    "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
