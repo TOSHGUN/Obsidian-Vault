@@ -11,8 +11,13 @@
             "id": "8c7a6e28c231b1ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gaming/chess/Chess.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gaming/chess/Chess.md"
+              }
             }
           },
           {
@@ -100,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gaming/chess/Chess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gaming/chess/Chess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +161,9 @@
   },
   "active": "8c7a6e28c231b1ac",
   "lastOpenFiles": [
+    "Programming/PHP/PHP.md",
+    "Gaming/chess/Chess.md",
+    "Gaming/chess",
     "Efficiency/attachments/Pasted image 20240311121306.png",
     "Efficiency/attachments/Pasted image 20240311121124.png",
     "Efficiency/attachments/Pasted image 20240311121100.png",
@@ -162,7 +174,6 @@
     "Efficiency/attachments/Pasted image 20240311120347.png",
     "Efficiency/attachments/Pasted image 20240311120036.png",
     "Efficiency/attachments/Pasted image 20240311115919.png",
-    "Efficiency/attachments/Pasted image 20240311115857.png",
     "life system/Устройства.md",
     "life system/Хранилища информации.md",
     "life system/Accounts.md",
@@ -177,7 +188,6 @@
     "life system",
     "Sports/training plan.md",
     "Efficiency/obsidian/Markdown tags.md",
-    "Programming/PHP/PHP.md",
     "Programming/web roadmap.md",
     "Univercity-ISPU/объяснительная.md",
     "Programming/Web/Служебные теги.md",
@@ -198,7 +208,6 @@
     "Univercity-ISPU/противодействие терроризму",
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/математические методы принятия решений",
-    "Univercity-ISPU/информационные системы и технологии",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
