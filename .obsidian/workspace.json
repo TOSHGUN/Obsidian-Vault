@@ -8,27 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d047037975deaadd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "system.canvas",
-                "viewState": {
-                  "x": -70,
-                  "y": -445,
-                  "zoom": -0.603022472266147
-                }
-              }
-            }
-          },
-          {
             "id": "ce513190776fa19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming/PHP/PHP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2000ff128d109dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system.canvas"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -124,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +174,25 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "2000ff128d109dac",
   "lastOpenFiles": [
+    "system.canvas",
+    "conflict-files-obsidian-git.md",
+    "life system/Хранилища информации.md",
+    "life system/Устройства.md",
+    "life system/work tasks.md",
+    "life system/univercity tasks.md",
+    "life system/ME.md",
+    "life system/knowledge.md",
+    "life system/main tasks.md",
+    "life system/interface.canvas",
+    "life system/experience.md",
+    "life system/Accounts.md",
+    "life system",
+    "Univercity-ISPU/объяснительная.md",
+    "Univercity-ISPU/Реферат.md",
+    "Univercity-ISPU/НИР.md",
+    "Sports/training plan.md",
     "Programming/Web/Служебные теги.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/Web.md",
@@ -188,33 +203,16 @@
     "ME.md",
     "Socials.md",
     "prompt engineering.md",
-    "system.canvas",
     "Car/caddy.md",
     "НИР.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_8_27_10_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_7_13_10_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_6_29_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_5_15_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_4_12_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_3_11_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_2_08_09_2023.md",
-    "Univercity-ISPU/5 sem/противодействие терроризму/Lektsia_1_04_09_2023.md",
     "Univercity-ISPU/5 sem/противодействие терроризму",
-    "Univercity-ISPU/5 sem/математические методы принятия решений/Теоретические основы разработки управленческого решения.md",
     "Univercity-ISPU/5 sem/математические методы принятия решений",
-    "Univercity-ISPU/5 sem/информационные системы и технологии/информационные системы и технологии.md",
     "Univercity-ISPU/5 sem/информационные системы и технологии",
-    "Univercity-ISPU/5 sem/вычислительные системы и сети/Вычислительные системы и сети.md",
     "Univercity-ISPU/5 sem/вычислительные системы и сети",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_9_10_11_2023_-_Poslednyaya.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_8_27_10_2023.md",
-    "Univercity-ISPU/противодействие терроризму/Lektsia_7_13_10_2023.md",
     "Univercity-ISPU/противодействие терроризму",
     "Univercity-ISPU/проектирование информационных систем",
     "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/информационные системы и технологии",
-    "Univercity-ISPU/вычислительные системы и сети",
     "Univercity-ISPU/6 sem/Untitled.canvas",
     "Efficiency/attachments/Pasted image 20240109015540.png",
     "Efficiency/attachments/Pasted image 20231218011254.png",
