@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cde961fc0ac0d517",
+        "id": "4021bc5d7e6ab9db",
         "type": "tabs",
         "children": [
           {
-            "id": "c2089de9fec8b717",
+            "id": "87cbf297085ec6b8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "life system/interface.canvas",
-                "viewState": {
-                  "x": -70,
-                  "y": -445,
-                  "zoom": -0.9358696625802847
-                }
+                "file": "Univercity-ISPU/tasks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life system/interface.canvas"
+                "file": "Univercity-ISPU/tasks.md"
               }
             }
           },
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life system/interface.canvas",
+                "file": "Univercity-ISPU/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life system/interface.canvas",
+                "file": "Univercity-ISPU/tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,16 +159,15 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c2089de9fec8b717",
+  "active": "87cbf297085ec6b8",
   "lastOpenFiles": [
-    "Science/ChatGPT prompt.md",
-    "Univercity-ISPU/НИР.md",
-    "Univercity-ISPU/объяснительная.md",
-    "Univercity-ISPU/6 sem/проектирование информационных систем/Проектирование информационных систем.md",
-    "Programming/PHP/PHP.md",
+    "Univercity-ISPU/tasks.md",
+    "Univercity-ISPU/Untitled",
     "Gaming/chess/Chess.md",
+    "Science/Prompt engineering.md",
+    "Science/ChatGPT prompt.md",
+    "Programming/PHP/PHP.md",
     "Gaming/chess",
-    "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Efficiency/attachments/Pasted image 20240311121306.png",
     "Efficiency/attachments/Pasted image 20240311121124.png",
     "Efficiency/attachments/Pasted image 20240311121100.png",
@@ -181,36 +178,36 @@
     "Efficiency/attachments/Pasted image 20240311120347.png",
     "Efficiency/attachments/Pasted image 20240311120036.png",
     "Efficiency/attachments/Pasted image 20240311115919.png",
-    "conflict-files-obsidian-git.md",
-    "system.canvas",
-    "life system/Хранилища информации.md",
     "life system/Устройства.md",
-    "life system/work tasks.md",
-    "life system/univercity tasks.md",
-    "life system/ME.md",
-    "life system/knowledge.md",
-    "life system/main tasks.md",
-    "life system/interface.canvas",
-    "life system/experience.md",
+    "life system/Хранилища информации.md",
     "life system/Accounts.md",
+    "life system/interface.canvas",
+    "life system/System.md",
+    "life system/main tasks.md",
+    "life system/ME.md",
+    "life system/experience.md",
+    "life system/knowledge.md",
+    "life system/univercity tasks.md",
+    "life system/work tasks.md",
     "life system",
-    "Univercity-ISPU/Реферат.md",
     "Sports/training plan.md",
+    "Efficiency/obsidian/Markdown tags.md",
+    "Programming/web roadmap.md",
+    "Univercity-ISPU/объяснительная.md",
     "Programming/Web/Служебные теги.md",
     "Programming/Web/DevTools.md",
     "Programming/Web/Web.md",
     "Programming/Web/HTML.md",
     "Univercity-ISPU/6 sem/проектирование интернет ресурсов/php/PHP.md",
     "Programming/PHP",
-    "ME.md",
     "Socials.md",
+    "prompt engineering.md",
     "Univercity-ISPU/5 sem/противодействие терроризму",
     "Univercity-ISPU/5 sem/математические методы принятия решений",
     "Univercity-ISPU/5 sem/информационные системы и технологии",
     "Univercity-ISPU/5 sem/вычислительные системы и сети",
     "Univercity-ISPU/противодействие терроризму",
     "Univercity-ISPU/проектирование информационных систем",
-    "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
