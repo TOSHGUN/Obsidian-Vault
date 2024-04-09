@@ -16,8 +16,19 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "bcf41a52936d428e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ChatGPT prompt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +163,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c1e76385c4b5b353",
+  "active": "bcf41a52936d428e",
   "lastOpenFiles": [
     "Univercity-ISPU/tasks.md",
     "Science/Prompt engineering.md",
