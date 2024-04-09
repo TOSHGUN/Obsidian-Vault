@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "afb2bb3bf79aa492",
+        "id": "fe319158b5a0b19c",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e76385c4b5b353",
+            "id": "f41c97fa3aee65e1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "bcf41a52936d428e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "file": "Sports/training plan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sports/training plan.md"
+              }
             }
           },
           {
@@ -113,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sports/training plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sports/training plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +159,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "bcf41a52936d428e",
+  "active": "f41c97fa3aee65e1",
   "lastOpenFiles": [
     "Univercity-ISPU/tasks.md",
     "Science/Prompt engineering.md",

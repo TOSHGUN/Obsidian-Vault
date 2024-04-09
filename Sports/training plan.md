@@ -5,17 +5,17 @@ endurance
 ---
 ## Thursday
 basket
-strength
+strength (back+shoulders+biceps)
 
 ---
 ## Wednesday
-power
+power (jumping)
 stretching
 
 ---
 ## Thursday
 basket (endurance)
-strength
+strength (chest+triceps)
 
 ---
 ## Friday
@@ -24,7 +24,7 @@ endurance
 
 ---
 ## Saturday
-power
+power (jumping)
 
 ---
 ## Sunday
