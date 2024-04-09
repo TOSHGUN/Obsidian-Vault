@@ -29,4 +29,7 @@ power (jumping)
 ---
 ## Sunday
 stretching
- 
+
+
+# all 
+![[Pasted image 20240409103701.png]]
