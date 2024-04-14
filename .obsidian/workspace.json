@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity-ISPU/tasks.md",
+                "file": "work/requirements.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a28cf2fc84bd853",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univercity-ISPU/tasks.md"
+                "file": "work/requirements.md"
               }
             }
           },
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univercity-ISPU/tasks.md",
+                "file": "work/requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univercity-ISPU/tasks.md",
+                "file": "work/requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,11 +159,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "1a28cf2fc84bd853",
+  "active": "c1e76385c4b5b353",
   "lastOpenFiles": [
+    "Univercity-ISPU/tasks.md",
+    "work/requirements.md",
+    "work",
     "Efficiency/attachments/Pasted image 20240409105233.png",
     "Efficiency/attachments/Pasted image 20240409103701.png",
-    "Univercity-ISPU/tasks.md",
     "Science/Prompt engineering.md",
     "Science/ChatGPT prompt.md",
     "prompt engineering.md",
@@ -191,7 +182,6 @@
     "Efficiency/attachments/Pasted image 20240311120737.png",
     "Efficiency/attachments/Pasted image 20240311120556.png",
     "Efficiency/attachments/Pasted image 20240311120347.png",
-    "Efficiency/attachments/Pasted image 20240311120036.png",
     "conflict-files-obsidian-git.md",
     "system.canvas",
     "life system/Хранилища информации.md",
@@ -219,7 +209,6 @@
     "Univercity-ISPU/5 sem/вычислительные системы и сети",
     "Univercity-ISPU/противодействие терроризму",
     "Univercity-ISPU/проектирование информационных систем",
-    "Univercity-ISPU/математические методы принятия решений",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
