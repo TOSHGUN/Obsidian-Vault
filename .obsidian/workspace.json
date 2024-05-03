@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2db3fdafdff73ce5",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +173,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "2b1c2777ffcfd31d",
+  "active": "cb199ad5d81f215a",
   "lastOpenFiles": [
     "Sports/Protein.md",
     "Univercity-ISPU/долги/Гадалов/Операционные системы.md",
