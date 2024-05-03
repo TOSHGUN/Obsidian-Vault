@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
+                "file": "Univercity-ISPU/tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md"
+                "file": "Univercity-ISPU/tasks.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
+                "file": "Univercity-ISPU/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
+                "file": "Univercity-ISPU/tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +173,10 @@
   },
   "active": "2b1c2777ffcfd31d",
   "lastOpenFiles": [
-    "Univercity-ISPU/tasks.md",
-    "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
+    "Sports/Protein.md",
     "Univercity-ISPU/долги/Гадалов/Операционные системы.md",
+    "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
+    "Univercity-ISPU/tasks.md",
     "Efficiency/obsidian/Markdown tags.md",
     "Univercity-ISPU/долги/Буйлов",
     "Univercity-ISPU/долги/Гвоздева",
@@ -220,7 +221,6 @@
     "life system/Accounts.md",
     "Univercity-ISPU/объяснительная.md",
     "Univercity-ISPU/Реферат.md",
-    "Univercity-ISPU/НИР.md",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
