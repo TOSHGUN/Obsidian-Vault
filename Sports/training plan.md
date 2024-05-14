@@ -6,25 +6,38 @@ endurance
 ## Thursday
 basket
 strength (back+shoulders+biceps)
+ - 
 
 ---
 ## Wednesday
 power (jumping)
+ - knee drives
+ - jumps squats
+ - deadlifts
+ - hip trusts
+ - сплит прыжки
 stretching
 
 ---
 ## Thursday
 basket (endurance)
 strength (chest+triceps)
+ - 
 
 ---
 ## Friday
 basket (free)
 endurance
+ - 
 
 ---
 ## Saturday
 power (jumping)
+ - knee drives
+ - single leg squat
+ - hip trusts with one leg up
+ - rotate plate over the head 
+ - закидывание штанги на грудь
 
 ---
 ## Sunday
@@ -51,5 +64,10 @@ stretching
 
 прыжки на одной ноге
 закидывание штанги на грудь
-
+ускорения, спринты
+прыжки сплит
+запрыгивание на тумбу
+спрыгивание
+выпрыгивание с колен + выпрыгивание с поджатием ног
+сидение с упором в стену
 тяга штанги в наклоне обратным хватом (тянем к поясу, включаем лопатки)
