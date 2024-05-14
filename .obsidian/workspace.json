@@ -36,33 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sports/exercises/hip trusts.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a339f170d7eab6a4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sports/exercises/single leg squats.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "58ef9647383f4996",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sports/exercises/rotate plate over the head.md",
+                    "file": "Sports/exercises/jump squats from bench.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -149,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/exercises/hip trusts.md"
+                "file": "Sports/exercises/all exercises.md"
               }
             }
           },
@@ -159,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/exercises/hip trusts.md",
+                "file": "Sports/exercises/all exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/exercises/hip trusts.md",
+                "file": "Sports/exercises/all exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,15 +185,16 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "383391d51675c941",
+  "active": "c1e76385c4b5b353",
   "lastOpenFiles": [
-    "Sports/exercises/rotate plate over the head.md",
-    "Sports/exercises/single leg squats.md",
+    "Sports/exercises/jump squats from bench.md",
     "Sports/exercises/hip trusts.md",
+    "Sports/exercises/rotate plate over the head.md",
     "Sports/exercises/all exercises.md",
+    "Sports/exercises/single leg squats.md",
+    "Sports/exercises/Untitled.md",
     "Sports/exercises/nordic curls.md",
     "Sports/exercises/deadlift.md",
-    "Sports/exercises/jump squats.md",
     "Sports/exercises/knee drives.md",
     "Sports/training plan.md",
     "Sports/exercises",
@@ -255,7 +230,6 @@
     "life system/Хранилища информации.md",
     "life system/Устройства.md",
     "life system/work tasks.md",
-    "life system/univercity tasks.md",
     "life system/interface.canvas",
     "life system",
     "Programming/PHP",

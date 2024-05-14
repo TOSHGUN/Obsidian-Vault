@@ -1,12 +1,10 @@
 - ~~sleg pushing~~ 
 - hip trusts with one leg up
-- single leg squat ![[Pasted image 20240514144023.png]]
-- rotate plate over the head ![[Pasted image 20240514144218.png]]
 ![[Pasted image 20240514144357.png]]
 
 ![[Pasted image 20240514144447.png]] ![[Pasted image 20240514144504.png]]
 
-![[Pasted image 20240514144647.png]] ![[Pasted image 20240514144701.png]]
+ 
 
 запрыгивание на тумбу
 
