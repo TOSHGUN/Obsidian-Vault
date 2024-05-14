@@ -2,7 +2,7 @@
 - hip trusts with one leg up
 ![[Pasted image 20240514144357.png]]
 
-![[Pasted image 20240514144447.png]] ![[Pasted image 20240514144504.png]]
+ 
 
  
 

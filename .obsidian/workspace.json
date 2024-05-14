@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7e06f9590d5695b5",
+        "id": "4f50c9717346a404",
         "type": "split",
         "children": [
           {
@@ -12,7 +12,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c1e76385c4b5b353",
+                "id": "80b42c986765e3c8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -27,16 +27,16 @@
             ]
           },
           {
-            "id": "cc10eccc707a7118",
+            "id": "c4f34b92cadc17d4",
             "type": "tabs",
             "children": [
               {
-                "id": "383391d51675c941",
+                "id": "c2fc65a43d152d69",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sports/exercises/jump squats from bench.md",
+                    "file": "Sports/exercises/jump squats.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/exercises/all exercises.md"
+                "file": "Sports/exercises/jump squats.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/exercises/all exercises.md",
+                "file": "Sports/exercises/jump squats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/exercises/all exercises.md",
+                "file": "Sports/exercises/jump squats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,14 +185,16 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c1e76385c4b5b353",
+  "active": "c2fc65a43d152d69",
   "lastOpenFiles": [
+    "Efficiency/attachments/youtube-video-gif.gif",
+    "Sports/exercises/all exercises.md",
+    "Sports/exercises/jump squats.md",
+    "Sports/exercises/Untitled.md",
     "Sports/exercises/jump squats from bench.md",
     "Sports/exercises/hip trusts.md",
     "Sports/exercises/rotate plate over the head.md",
-    "Sports/exercises/all exercises.md",
     "Sports/exercises/single leg squats.md",
-    "Sports/exercises/Untitled.md",
     "Sports/exercises/nordic curls.md",
     "Sports/exercises/deadlift.md",
     "Sports/exercises/knee drives.md",
@@ -228,8 +230,6 @@
     "conflict-files-obsidian-git.md",
     "system.canvas",
     "life system/Хранилища информации.md",
-    "life system/Устройства.md",
-    "life system/work tasks.md",
     "life system/interface.canvas",
     "life system",
     "Programming/PHP",
