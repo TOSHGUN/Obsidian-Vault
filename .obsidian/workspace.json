@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sports/exercises/jump squats.md",
+                    "file": "Sports/basketball/post moves/Untitled.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/exercises/jump squats.md"
+                "file": "Sports/basketball/post moves/Untitled.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/exercises/jump squats.md",
+                "file": "Sports/basketball/post moves/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/exercises/jump squats.md",
+                "file": "Sports/basketball/post moves/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +187,11 @@
   },
   "active": "c2fc65a43d152d69",
   "lastOpenFiles": [
-    "Efficiency/attachments/youtube-video-gif.gif",
-    "Sports/exercises/all exercises.md",
     "Sports/exercises/jump squats.md",
+    "Sports/basketball/post moves/Untitled.md",
+    "Sports/basketball/post moves",
+    "Sports/exercises/all exercises.md",
+    "Efficiency/attachments/youtube-video-gif.gif",
     "Sports/exercises/Untitled.md",
     "Sports/exercises/jump squats from bench.md",
     "Sports/exercises/hip trusts.md",
@@ -218,7 +220,6 @@
     "Univercity-ISPU/tasks.md",
     "work",
     "Efficiency/attachments/Pasted image 20240409105233.png",
-    "Efficiency/attachments/Pasted image 20240409103701.png",
     "Science/Prompt engineering.md",
     "Science/ChatGPT prompt.md",
     "prompt engineering.md",
@@ -234,7 +235,6 @@
     "life system",
     "Programming/PHP",
     "Univercity-ISPU/5 sem/противодействие терроризму",
-    "Univercity-ISPU/5 sem/математические методы принятия решений",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
