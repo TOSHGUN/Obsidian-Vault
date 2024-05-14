@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md",
+                "file": "Sports/training plan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md"
+                "file": "Sports/training plan.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md",
+                "file": "Sports/training plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md",
+                "file": "Sports/training plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +161,16 @@
   },
   "active": "c1e76385c4b5b353",
   "lastOpenFiles": [
-    "work/requirements.md",
+    "Efficiency/attachments/Pasted image 20240514144701.png",
+    "Efficiency/attachments/Pasted image 20240514144647.png",
+    "Efficiency/attachments/Pasted image 20240514144504.png",
+    "Efficiency/attachments/Pasted image 20240514144447.png",
+    "Efficiency/attachments/Pasted image 20240514144400.png",
+    "Efficiency/attachments/Pasted image 20240514144357.png",
+    "Efficiency/attachments/Pasted image 20240514144218.png",
+    "Efficiency/attachments/Pasted image 20240514144023.png",
     "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md",
+    "work/requirements.md",
     "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
     "Univercity-ISPU/долги/Гадалов/Операционные системы.md",
     "Univercity-ISPU/долги/Рудаков",
@@ -181,13 +189,6 @@
     "Gaming/chess",
     "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
     "Efficiency/attachments/Pasted image 20240311121306.png",
-    "Efficiency/attachments/Pasted image 20240311121124.png",
-    "Efficiency/attachments/Pasted image 20240311121100.png",
-    "Efficiency/attachments/Pasted image 20240311121023.png",
-    "Efficiency/attachments/Pasted image 20240311120951.png",
-    "Efficiency/attachments/Pasted image 20240311120737.png",
-    "Efficiency/attachments/Pasted image 20240311120556.png",
-    "Efficiency/attachments/Pasted image 20240311120347.png",
     "conflict-files-obsidian-git.md",
     "system.canvas",
     "life system/Хранилища информации.md",
@@ -204,7 +205,6 @@
     "Univercity-ISPU/объяснительная.md",
     "Univercity-ISPU/Реферат.md",
     "Univercity-ISPU/НИР.md",
-    "Sports/training plan.md",
     "Programming/PHP",
     "Univercity-ISPU/5 sem/противодействие терроризму",
     "Univercity-ISPU/5 sem/математические методы принятия решений",
