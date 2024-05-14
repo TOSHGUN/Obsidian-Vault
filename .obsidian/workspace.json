@@ -4,23 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "afb2bb3bf79aa492",
-        "type": "tabs",
+        "id": "7e06f9590d5695b5",
+        "type": "split",
         "children": [
           {
-            "id": "c1e76385c4b5b353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sports/training plan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "afb2bb3bf79aa492",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c1e76385c4b5b353",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sports/exercises/all exercises.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "cc10eccc707a7118",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45f5e602d051ff44",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sports/exercises/jump squats.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/training plan.md"
+                "file": "Sports/exercises/jump squats.md"
               }
             }
           },
@@ -107,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/training plan.md",
+                "file": "Sports/exercises/jump squats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/training plan.md",
+                "file": "Sports/exercises/jump squats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +185,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c1e76385c4b5b353",
+  "active": "45f5e602d051ff44",
   "lastOpenFiles": [
     "Sports/exercises/all exercises.md",
+    "Sports/exercises/jump squats.md",
+    "Sports/exercises/knee drives.md",
     "Sports/training plan.md",
     "Sports/exercises",
     "Efficiency/attachments/Pasted image 20240514144701.png",
@@ -204,8 +232,6 @@
     "life system/experience.md",
     "life system/Accounts.md",
     "life system",
-    "Univercity-ISPU/объяснительная.md",
-    "Univercity-ISPU/Реферат.md",
     "Programming/PHP",
     "Univercity-ISPU/5 sem/противодействие терроризму",
     "Univercity-ISPU/5 sem/математические методы принятия решений",
