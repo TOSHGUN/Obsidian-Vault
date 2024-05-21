@@ -4,49 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4f50c9717346a404",
-        "type": "split",
+        "id": "afb2bb3bf79aa492",
+        "type": "tabs",
         "children": [
           {
-            "id": "afb2bb3bf79aa492",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "80b42c986765e3c8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sports/exercises/all exercises.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "80b42c986765e3c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sports/exercises/all exercises.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "c4f34b92cadc17d4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c2fc65a43d152d69",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sports/basketball/post moves/Untitled.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/basketball/post moves/Untitled.md"
+                "file": "Sports/exercises/all exercises.md"
               }
             }
           },
@@ -133,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/basketball/post moves/Untitled.md",
+                "file": "Sports/exercises/all exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/basketball/post moves/Untitled.md",
+                "file": "Sports/exercises/all exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +159,22 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c2fc65a43d152d69",
+  "active": "80b42c986765e3c8",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20240521230919.png",
+    "Efficiency/attachments/загруженное.jfif",
+    "Efficiency/attachments/Pasted image 20240521230536.png",
+    "Efficiency/attachments/Pasted image 20240521230501.png",
+    "Efficiency/attachments/Pasted image 20240521230427.png",
+    "Efficiency/attachments/Pasted image 20240521230342.png",
+    "Efficiency/attachments/Pasted image 20240521230234.png",
+    "Sports/training plan.md",
+    "Sports/exercises/split jumps.md",
+    "Sports/exercises/all exercises.md",
     "Sports/exercises/jump squats.md",
+    "Sports/jumps squats.md",
     "Sports/basketball/post moves/Untitled.md",
     "Sports/basketball/post moves",
-    "Sports/exercises/all exercises.md",
     "Efficiency/attachments/youtube-video-gif.gif",
     "Sports/exercises/Untitled.md",
     "Sports/exercises/jump squats from bench.md",
@@ -200,16 +184,11 @@
     "Sports/exercises/nordic curls.md",
     "Sports/exercises/deadlift.md",
     "Sports/exercises/knee drives.md",
-    "Sports/training plan.md",
     "Sports/exercises",
     "Efficiency/attachments/Pasted image 20240514144701.png",
     "Efficiency/attachments/Pasted image 20240514144647.png",
     "Efficiency/attachments/Pasted image 20240514144504.png",
     "Efficiency/attachments/Pasted image 20240514144447.png",
-    "Efficiency/attachments/Pasted image 20240514144400.png",
-    "Efficiency/attachments/Pasted image 20240514144357.png",
-    "Efficiency/attachments/Pasted image 20240514144218.png",
-    "Efficiency/attachments/Pasted image 20240514144023.png",
     "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md",
     "work/requirements.md",
     "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
@@ -219,7 +198,6 @@
     "Univercity-ISPU/долги",
     "Univercity-ISPU/tasks.md",
     "work",
-    "Efficiency/attachments/Pasted image 20240409105233.png",
     "Science/Prompt engineering.md",
     "Science/ChatGPT prompt.md",
     "prompt engineering.md",
@@ -227,14 +205,10 @@
     "Programming/PHP/PHP.md",
     "Gaming/chess/Chess.md",
     "Gaming/chess",
-    "Car/Driving/F1 Driver's BEST ADVICE to NOT CRASH.md",
-    "conflict-files-obsidian-git.md",
     "system.canvas",
-    "life system/Хранилища информации.md",
     "life system/interface.canvas",
     "life system",
     "Programming/PHP",
-    "Univercity-ISPU/5 sem/противодействие терроризму",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }

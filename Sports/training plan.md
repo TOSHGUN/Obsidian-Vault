@@ -11,11 +11,11 @@ strength (back+shoulders+biceps)
 ---
 ## Wednesday
 power (jumping)
- - knee drives
- - jumps squats
- - deadlifts
- - hip trusts
- - сплит прыжки
+ - [[knee drives]]
+ - [[jump squats]]
+ - [[deadlift]]
+ - [[hip trusts]]
+ - [[split jumps]]
 stretching
 
 ---
