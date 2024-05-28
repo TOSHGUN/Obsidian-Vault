@@ -18,4 +18,4 @@
 ![[загруженное.jfif]]
 ![[Pasted image 20240521230919.png]]![[Pasted image 20240521231513.png]]
 ![[Pasted image 20240521231948.png]]![[Pasted image 20240521232024.png]]
-![[Pasted image 20240521232125.png]]![[Pasted image 20240521232251.png]]
+![[Pasted image 20240521232125.png]]![[Pasted image 20240521232251.png]]![[Pasted image 20240528211321.png]]
