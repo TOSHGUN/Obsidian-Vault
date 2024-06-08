@@ -3,7 +3,7 @@
 endurance
 
 ---
-## Thursday
+## Tuesday
 basket
 strength (back+shoulders+biceps)
  - 
