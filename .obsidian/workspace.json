@@ -1,40 +1,67 @@
 {
   "main": {
-    "id": "912cae0efda39e1e",
+    "id": "08907949e1ce1790",
     "type": "split",
     "children": [
       {
-        "id": "afb2bb3bf79aa492",
+        "id": "b9bc86f0fc676bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "80b42c986765e3c8",
+            "id": "005bf6d04569cc35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sports/training plan.md",
+                "file": "life system/ME.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97322d296931d46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life system/Златик.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7be1fff63aeadd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life system/Златик.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aeaddeb9241841f7",
+    "id": "19bf0d7c4c1b45be",
     "type": "split",
     "children": [
       {
-        "id": "04cdda04b7f52bed",
+        "id": "66ded2b1eb7d85a3",
         "type": "tabs",
         "children": [
           {
-            "id": "029f6cb3279d3959",
+            "id": "8feea814d7677f3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +71,7 @@
             }
           },
           {
-            "id": "b86739bffef52a7e",
+            "id": "783344e64ee59bbe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +86,7 @@
             }
           },
           {
-            "id": "c11fdbbafb00d5bb",
+            "id": "2a31b1b0c574741c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,44 +97,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 300
   },
   "right": {
-    "id": "2db3fdafdff73ce5",
+    "id": "68cff49a22a1bfd0",
     "type": "split",
     "children": [
       {
-        "id": "f15743eee1388234",
+        "id": "776e89b7e0f072f6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c8d0dec28304c4f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "13c825e76b784f84",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sports/training plan.md"
-              }
-            }
-          },
-          {
-            "id": "133e187653bfec97",
+            "id": "3234eb5b06464f6b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/training plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,95 +124,68 @@
             }
           },
           {
-            "id": "e485f4aadb44fdec",
+            "id": "7b49e8e6f6ce6f3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/training plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cb199ad5d81f215a",
+            "id": "565eb46feea49149",
             "type": "leaf",
             "state": {
-              "type": "timer-view",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16fcddbab7409270",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "pomodoro-timer:Toggle timer panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "80b42c986765e3c8",
+  "active": "8feea814d7677f3a",
   "lastOpenFiles": [
-    "Sports/exercises/split jumps.md",
-    "Sports/training plan.md",
-    "Sports/exercises/hip trusts.md",
-    "Sports/exercises/jump squats.md",
-    "Sports/basketball/post moves/Untitled.md",
-    "Sports/exercises/all exercises.md",
-    "Efficiency/attachments/Pasted image 20240528211321.png",
-    "Efficiency/attachments/Pasted image 20240521232251.png",
-    "Efficiency/attachments/Pasted image 20240521232125.png",
-    "Efficiency/attachments/Pasted image 20240521232024.png",
-    "Efficiency/attachments/Pasted image 20240521231948.png",
-    "Efficiency/attachments/Pasted image 20240521231513.png",
-    "Efficiency/attachments/Pasted image 20240521230919.png",
-    "Efficiency/attachments/загруженное.jfif",
-    "Efficiency/attachments/Pasted image 20240521230536.png",
-    "Efficiency/attachments/Pasted image 20240521230501.png",
-    "Efficiency/attachments/Pasted image 20240521230427.png",
-    "Sports/jumps squats.md",
-    "Sports/basketball/post moves",
-    "Sports/exercises/Untitled.md",
-    "Sports/exercises/jump squats from bench.md",
-    "Sports/exercises/rotate plate over the head.md",
-    "Sports/exercises/single leg squats.md",
-    "Sports/exercises/nordic curls.md",
-    "Sports/exercises/deadlift.md",
-    "Sports/exercises/knee drives.md",
-    "Sports/exercises",
-    "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md",
-    "work/requirements.md",
-    "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
-    "Univercity-ISPU/долги/Гадалов/Операционные системы.md",
-    "Univercity-ISPU/долги/Рудаков",
-    "Univercity-ISPU/долги/Гадалов",
-    "Univercity-ISPU/долги",
-    "Univercity-ISPU/tasks.md",
-    "work",
-    "Science/Prompt engineering.md",
-    "Science/ChatGPT prompt.md",
-    "prompt engineering.md",
-    "ChatGPT prompt.md",
-    "Programming/PHP/PHP.md",
-    "Gaming/chess/Chess.md",
-    "Gaming/chess",
-    "system.canvas",
-    "life system/interface.canvas",
-    "life system",
-    "Programming/PHP",
-    "Univercity-ISPU/6 sem/Untitled.canvas"
+    "life system/Златик.md",
+    "conflict-files-obsidian-git.md",
+    "life system/ME.md",
+    "work/IT/requirements.md",
+    "work/zavod/фрезерный",
+    "work/zavod/шлифовальный",
+    "work/zavod/зуборезный",
+    "work/zavod/эрозионный",
+    "work/zavod",
+    "work/IT"
   ]
 }
