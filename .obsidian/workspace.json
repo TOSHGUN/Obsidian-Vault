@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb96964a88353959",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d74f232e5c7dc5d9",
+  "active": "bb96964a88353959",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "work/IT/requirements.md",
