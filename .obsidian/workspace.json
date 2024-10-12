@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5eadbc30f990e50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "80b42c986765e3c8",
+  "active": "d5eadbc30f990e50",
   "lastOpenFiles": [
     "Sports/exercises/split jumps.md",
     "Sports/training plan.md",
