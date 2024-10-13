@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/цели.md",
+                "file": "Sports/спортивное питание/BCAA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life system/цели.md"
+                "file": "Sports/спортивное питание/BCAA.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life system/цели.md",
+                "file": "Sports/спортивное питание/BCAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life system/цели.md",
+                "file": "Sports/спортивное питание/BCAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +161,10 @@
   },
   "active": "80b42c986765e3c8",
   "lastOpenFiles": [
-    "life system/work tasks.md",
     "life system/цели.md",
+    "Sports/спортивное питание/BCAA.md",
+    "Sports/спортивное питание",
+    "life system/work tasks.md",
     "life system/main tasks.md",
     "life system/Златик.md",
     "Sports/training plan.md",
@@ -204,11 +206,9 @@
     "Univercity-ISPU/долги",
     "Univercity-ISPU/tasks.md",
     "work",
-    "Science/Prompt engineering.md",
     "Gaming/chess",
     "system.canvas",
     "life system/interface.canvas",
-    "life system",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
