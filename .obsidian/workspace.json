@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sports/спортивное питание/PROTEIN.md",
+                "file": "Sports/спортивное питание/ISOTONIC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/спортивное питание/PROTEIN.md"
+                "file": "Sports/спортивное питание/ISOTONIC.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/спортивное питание/PROTEIN.md",
+                "file": "Sports/спортивное питание/ISOTONIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/спортивное питание/PROTEIN.md",
+                "file": "Sports/спортивное питание/ISOTONIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +161,11 @@
   },
   "active": "80b42c986765e3c8",
   "lastOpenFiles": [
+    "Sports/спортивное питание/BCAA.md",
+    "Sports/спортивное питание/PROTEIN.md",
     "Sports/спортивное питание/CREATINE.md",
     "Sports/спортивное питание/PREWORKOUT.md",
     "Sports/спортивное питание/ISOTONIC.md",
-    "Sports/спортивное питание/BCAA.md",
-    "Sports/спортивное питание/PROTEIN.md",
     "life system/цели.md",
     "Sports/спортивное питание",
     "life system/work tasks.md",
