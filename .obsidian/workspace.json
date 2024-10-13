@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sports/спортивное питание/BCAA.md",
+                "file": "Sports/спортивное питание/PROTEIN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/спортивное питание/BCAA.md"
+                "file": "Sports/спортивное питание/PROTEIN.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/спортивное питание/BCAA.md",
+                "file": "Sports/спортивное питание/PROTEIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/спортивное питание/BCAA.md",
+                "file": "Sports/спортивное питание/PROTEIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +161,12 @@
   },
   "active": "80b42c986765e3c8",
   "lastOpenFiles": [
-    "life system/цели.md",
+    "Sports/спортивное питание/CREATINE.md",
+    "Sports/спортивное питание/PREWORKOUT.md",
+    "Sports/спортивное питание/ISOTONIC.md",
     "Sports/спортивное питание/BCAA.md",
+    "Sports/спортивное питание/PROTEIN.md",
+    "life system/цели.md",
     "Sports/спортивное питание",
     "life system/work tasks.md",
     "life system/main tasks.md",
@@ -198,13 +202,9 @@
     "Sports/exercises/knee drives.md",
     "Sports/exercises",
     "Univercity-ISPU/6 sem/стандартизация информационных технологий/syntext serna/Syntext Serna.md",
-    "work/requirements.md",
-    "Univercity-ISPU/долги/Рудаков/Теоретические основы информационных систем.md",
-    "Univercity-ISPU/долги/Гадалов/Операционные системы.md",
     "Univercity-ISPU/долги/Рудаков",
     "Univercity-ISPU/долги/Гадалов",
     "Univercity-ISPU/долги",
-    "Univercity-ISPU/tasks.md",
     "work",
     "Gaming/chess",
     "system.canvas",
