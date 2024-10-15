@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sports/план тренировок.md",
+                "file": "Sports/план питания.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/план тренировок.md"
+                "file": "Sports/план питания.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/план тренировок.md",
+                "file": "Sports/план питания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/план тренировок.md",
+                "file": "Sports/план питания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +161,11 @@
   },
   "active": "83a9fd1dfb3ed0c6",
   "lastOpenFiles": [
+    "Sports/план тренировок.md",
+    "Sports/план питания.md",
     "Sports/training plan.md",
     "Sports/habits to get lean.md",
     "Sports/упражнение кегеля.md",
-    "Sports/план тренировок.md",
     "Sports/спортивное питание/ISOTONIC.md",
     "Sports/спортивное питание/BCAA.md",
     "Sports/спортивное питание/PROTEIN.md",
@@ -200,7 +201,6 @@
     "Sports/exercises/jump squats from bench.md",
     "Sports/exercises/rotate plate over the head.md",
     "Sports/exercises/single leg squats.md",
-    "Sports/exercises/nordic curls.md",
     "Sports/exercises",
     "Univercity-ISPU/долги/Рудаков",
     "Univercity-ISPU/долги/Гадалов",
