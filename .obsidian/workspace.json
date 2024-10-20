@@ -17,10 +17,25 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "план питания"
+            }
+          },
+          {
+            "id": "11ca6cd0de64c212",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +109,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -98,7 +121,9 @@
               "type": "outline",
               "state": {
                 "file": "Sports/план питания.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of план питания"
             }
           },
           {
@@ -115,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for план питания"
             }
           },
           {
@@ -127,7 +154,9 @@
                 "file": "Sports/план питания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from план питания"
             }
           },
           {
@@ -135,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "timer-view",
-              "state": {}
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ],
@@ -159,7 +190,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "83a9fd1dfb3ed0c6",
+  "active": "11ca6cd0de64c212",
   "lastOpenFiles": [
     "Sports/план тренировок.md",
     "Sports/план питания.md",
