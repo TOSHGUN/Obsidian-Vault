@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sports/план питания.md",
+                "file": "life system/knowledge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "план питания"
-            }
-          },
-          {
-            "id": "11ca6cd0de64c212",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "knowledge"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,10 +107,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sports/план питания.md"
+                "file": "life system/knowledge.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of план питания"
+              "title": "Outline of knowledge"
             }
           },
           {
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sports/план питания.md",
+                "file": "life system/knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for план питания"
+              "title": "Backlinks for knowledge"
             }
           },
           {
@@ -151,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sports/план питания.md",
+                "file": "life system/knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from план питания"
+              "title": "Outgoing links from knowledge"
             }
           },
           {
@@ -190,8 +177,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "11ca6cd0de64c212",
+  "active": "83a9fd1dfb3ed0c6",
   "lastOpenFiles": [
+    "life system/Хранилища информации.md",
+    "life system/цели.md",
     "Sports/план тренировок.md",
     "Sports/план питания.md",
     "Sports/training plan.md",
@@ -202,7 +191,6 @@
     "Sports/спортивное питание/PROTEIN.md",
     "Sports/спортивное питание/CREATINE.md",
     "Sports/спортивное питание/PREWORKOUT.md",
-    "life system/цели.md",
     "Sports/спортивное питание",
     "life system/work tasks.md",
     "life system/main tasks.md",
@@ -231,7 +219,6 @@
     "Sports/exercises/Untitled.md",
     "Sports/exercises/jump squats from bench.md",
     "Sports/exercises/rotate plate over the head.md",
-    "Sports/exercises/single leg squats.md",
     "Sports/exercises",
     "Univercity-ISPU/долги/Рудаков",
     "Univercity-ISPU/долги/Гадалов",
