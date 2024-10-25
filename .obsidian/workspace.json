@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "knowledge"
             }
+          },
+          {
+            "id": "cb78d6976779c14e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "83a9fd1dfb3ed0c6",
+  "active": "cb78d6976779c14e",
   "lastOpenFiles": [
     "life system/Хранилища информации.md",
     "life system/цели.md",
