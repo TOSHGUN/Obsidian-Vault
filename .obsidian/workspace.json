@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/цели.md",
+                "file": "life system/деньги.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "цели"
+              "title": "деньги"
             }
           }
         ]
@@ -179,9 +179,13 @@
   },
   "active": "83a9fd1dfb3ed0c6",
   "lastOpenFiles": [
+    "life system/ME.md",
+    "life system/деньги.md",
+    "life system/Златик.md",
+    "life system/Устройства.md",
+    "life system/цели.md",
     "life system/knowledge.md",
     "life system/Хранилища информации.md",
-    "life system/цели.md",
     "Sports/план тренировок.md",
     "Sports/план питания.md",
     "Sports/training plan.md",
@@ -195,7 +199,6 @@
     "Sports/спортивное питание",
     "life system/work tasks.md",
     "life system/main tasks.md",
-    "life system/Златик.md",
     "conflict-files-obsidian-git.md",
     "work/IT/requirements.md",
     "work/IT",
@@ -215,10 +218,7 @@
     "Efficiency/attachments/Pasted image 20240521230536.png",
     "Efficiency/attachments/Pasted image 20240521230501.png",
     "Efficiency/attachments/Pasted image 20240521230427.png",
-    "Sports/jumps squats.md",
     "Sports/basketball/post moves",
-    "Sports/exercises/Untitled.md",
-    "Sports/exercises/jump squats from bench.md",
     "Sports/exercises",
     "Univercity-ISPU/долги/Рудаков",
     "Univercity-ISPU/долги/Гадалов",
