@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/деньги.md",
+                "file": "life system/проекты.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "деньги"
+              "title": "проекты"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "83a9fd1dfb3ed0c6",
   "lastOpenFiles": [
-    "life system/ME.md",
     "life system/деньги.md",
+    "life system/проекты.md",
+    "life system/ME.md",
     "life system/Златик.md",
     "life system/Устройства.md",
     "life system/цели.md",
@@ -206,7 +207,6 @@
     "Sports/exercises/hip trusts.md",
     "Sports/exercises/jump squats.md",
     "Sports/basketball/post moves/Untitled.md",
-    "Sports/exercises/all exercises.md",
     "Efficiency/attachments/Pasted image 20240528211321.png",
     "Efficiency/attachments/Pasted image 20240521232251.png",
     "Efficiency/attachments/Pasted image 20240521232125.png",
