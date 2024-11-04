@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/anime.md",
+                "file": "life system/watch later.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "anime"
+              "title": "watch later"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/actresses.md",
+                "file": "life system/watch later.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "actresses"
+              "title": "watch later"
             }
           }
         ],
@@ -210,9 +210,9 @@
   },
   "active": "96d3717dd0c7e719",
   "lastOpenFiles": [
-    "life system/проекты.md",
-    "life system/anime.md",
     "life system/actresses.md",
+    "life system/проекты.md",
+    "life system/watch later.md",
     "life system/деньги.md",
     "life system/ME.md",
     "life system/Златик.md",
