@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "проекты"
             }
+          },
+          {
+            "id": "a34b876d55425bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life system/anime.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anime"
+            }
+          },
+          {
+            "id": "96d3717dd0c7e719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life system/actresses.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "actresses"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,10 +208,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "83a9fd1dfb3ed0c6",
+  "active": "96d3717dd0c7e719",
   "lastOpenFiles": [
-    "life system/деньги.md",
     "life system/проекты.md",
+    "life system/anime.md",
+    "life system/actresses.md",
+    "life system/деньги.md",
     "life system/ME.md",
     "life system/Златик.md",
     "life system/Устройства.md",
@@ -205,8 +238,6 @@
     "work/IT",
     "Sports/exercises/split jumps.md",
     "Sports/exercises/hip trusts.md",
-    "Sports/exercises/jump squats.md",
-    "Sports/basketball/post moves/Untitled.md",
     "Efficiency/attachments/Pasted image 20240528211321.png",
     "Efficiency/attachments/Pasted image 20240521232251.png",
     "Efficiency/attachments/Pasted image 20240521232125.png",
