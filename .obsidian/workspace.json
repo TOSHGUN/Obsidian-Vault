@@ -51,21 +51,9 @@
               "icon": "lucide-file",
               "title": "watch later"
             }
-          },
-          {
-            "id": "f5e450e69792d9ad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,7 +208,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f5e450e69792d9ad",
+  "active": "96d3717dd0c7e719",
   "lastOpenFiles": [
     "life system/actresses.md",
     "life system/проекты.md",
