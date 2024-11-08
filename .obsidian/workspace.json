@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/проекты.md",
+                "file": "life system/цели.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "проекты"
+              "title": "цели"
             }
           }
         ]
@@ -179,9 +179,9 @@
   },
   "active": "83a9fd1dfb3ed0c6",
   "lastOpenFiles": [
+    "life system/проекты.md",
     "life system/watch later.md",
     "life system/actresses.md",
-    "life system/проекты.md",
     "life system/деньги.md",
     "life system/ME.md",
     "life system/Златик.md",
