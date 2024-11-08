@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/цели.md",
+                "file": "life system/ME.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "цели"
+              "title": "ME"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d92e3331e273a430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4d8c4393508276",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,16 +193,18 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "83a9fd1dfb3ed0c6",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
+    "University-ISPU POCS",
+    "life system/ME.md",
+    "life system/interface.canvas",
+    "life system/цели.md",
     "life system/проекты.md",
     "life system/watch later.md",
     "life system/actresses.md",
     "life system/деньги.md",
-    "life system/ME.md",
     "life system/Златик.md",
     "life system/Устройства.md",
-    "life system/цели.md",
     "life system/knowledge.md",
     "life system/Хранилища информации.md",
     "Sports/план тренировок.md",
@@ -206,7 +224,6 @@
     "work/IT/requirements.md",
     "work/IT",
     "Sports/exercises/split jumps.md",
-    "Sports/exercises/hip trusts.md",
     "Efficiency/attachments/Pasted image 20240528211321.png",
     "Efficiency/attachments/Pasted image 20240521232251.png",
     "Efficiency/attachments/Pasted image 20240521232125.png",
@@ -220,13 +237,12 @@
     "Efficiency/attachments/Pasted image 20240521230427.png",
     "Sports/basketball/post moves",
     "Sports/exercises",
-    "Univercity-ISPU/долги/Рудаков",
-    "Univercity-ISPU/долги/Гадалов",
-    "Univercity-ISPU/долги",
+    "Univercity-ISPU IVTF/долги/Рудаков",
+    "Univercity-ISPU IVTF/долги/Гадалов",
+    "Univercity-ISPU IVTF/долги",
     "work",
     "Gaming/chess",
     "system.canvas",
-    "life system/interface.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
 }
