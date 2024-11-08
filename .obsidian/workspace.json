@@ -32,10 +32,15 @@
             "id": "4a4d8c4393508276",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Инженерная графика/Правила оформления чертежей.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Правила оформления чертежей"
             }
           }
         ]
@@ -193,8 +198,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "4a4d8c4393508276",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20241108042906.png",
+    "Efficiency/attachments/Pasted image 20241108042602.png",
+    "Efficiency/attachments/Pasted image 20241108042410.png",
+    "Efficiency/attachments/Pasted image 20241108042322.png",
+    "Efficiency/attachments/Pasted image 20241108041801.png",
+    "Efficiency/attachments/Pasted image 20241108041544.png",
+    "Efficiency/attachments/Pasted image 20241108041106.png",
+    "Efficiency/attachments/Pasted image 20241108040941.png",
+    "templates/zettelkasten template.md",
+    "Инженерная графика/Правила оформления чертежей.md",
+    "life system/Обучение.md",
+    "Инженерная графика",
     "University-ISPU POCS",
     "life system/ME.md",
     "life system/interface.canvas",
@@ -220,28 +237,16 @@
     "Sports/спортивное питание",
     "life system/work tasks.md",
     "life system/main tasks.md",
-    "conflict-files-obsidian-git.md",
-    "work/IT/requirements.md",
     "work/IT",
-    "Sports/exercises/split jumps.md",
     "Efficiency/attachments/Pasted image 20240528211321.png",
     "Efficiency/attachments/Pasted image 20240521232251.png",
     "Efficiency/attachments/Pasted image 20240521232125.png",
-    "Efficiency/attachments/Pasted image 20240521232024.png",
-    "Efficiency/attachments/Pasted image 20240521231948.png",
-    "Efficiency/attachments/Pasted image 20240521231513.png",
-    "Efficiency/attachments/Pasted image 20240521230919.png",
     "Efficiency/attachments/загруженное.jfif",
-    "Efficiency/attachments/Pasted image 20240521230536.png",
-    "Efficiency/attachments/Pasted image 20240521230501.png",
-    "Efficiency/attachments/Pasted image 20240521230427.png",
     "Sports/basketball/post moves",
     "Sports/exercises",
     "Univercity-ISPU IVTF/долги/Рудаков",
     "Univercity-ISPU IVTF/долги/Гадалов",
     "Univercity-ISPU IVTF/долги",
-    "work",
-    "Gaming/chess",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
