@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/skills.md",
+                "file": "life system/цели.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "skills"
+              "title": "цели"
             }
           }
         ]
@@ -246,6 +246,7 @@
   },
   "active": "83a9fd1dfb3ed0c6",
   "lastOpenFiles": [
+    "life system/skills.md",
     "life system/ME.md",
     "life system/experience.md",
     "3D-Modeling/компас 3D/3D моделирование.md",
@@ -277,7 +278,6 @@
     "life system/деньги.md",
     "life system/Златик.md",
     "life system/Устройства.md",
-    "life system/skills.md",
     "life system/Хранилища информации.md",
     "Sports/план тренировок.md",
     "Sports/план питания.md",
