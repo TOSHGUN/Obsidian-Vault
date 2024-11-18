@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "цели"
             }
+          },
+          {
+            "id": "61bf6aaa2825d51a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d92e3331e273a430",
@@ -244,7 +257,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "83a9fd1dfb3ed0c6",
+  "active": "61bf6aaa2825d51a",
   "lastOpenFiles": [
     "life system/experience.md",
     "life system/цели.md",
