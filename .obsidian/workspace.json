@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "цели"
             }
-          },
-          {
-            "id": "61bf6aaa2825d51a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d92e3331e273a430",
@@ -257,10 +244,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "61bf6aaa2825d51a",
+  "active": "f77a0ea0663ef293",
   "lastOpenFiles": [
-    "life system/experience.md",
     "life system/цели.md",
+    "life system/experience.md",
     "life system/skills.md",
     "life system/ME.md",
     "3D-Modeling/компас 3D/3D моделирование.md",
