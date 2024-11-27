@@ -26,12 +26,15 @@
             "id": "d8d52fbb1bfcab16",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Gaming/танки/общая информация.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "общая информация"
             }
           }
         ],
