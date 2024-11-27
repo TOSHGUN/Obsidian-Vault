@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Разница программ"
             }
+          },
+          {
+            "id": "d8d52fbb1bfcab16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "83a9fd1dfb3ed0c6",
+  "active": "d8d52fbb1bfcab16",
   "lastOpenFiles": [
     "University-ISPU POCS/6 sem/Разработка и анализ требований.md",
     "University-ISPU POCS/Разница программ.md",
