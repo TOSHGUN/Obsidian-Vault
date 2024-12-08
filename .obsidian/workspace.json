@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/задачи.md",
+                "file": "work/IMZ/запуск бака.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "задачи"
+              "title": "запуск бака"
             }
           }
         ],
@@ -193,11 +193,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "029f6cb3279d3959",
+  "active": "d8d52fbb1bfcab16",
   "lastOpenFiles": [
+    "work/задачи.md",
+    "work/IMZ/запуск бака.md",
+    "work/IMZ/Untitled",
     "work/IMZ",
     "Gaming/танки/скидки на технику 2025.md",
-    "work/задачи.md",
     "Gaming/танки/общая информация.md",
     "University-ISPU POCS/6 sem/Разработка и анализ требований.md",
     "University-ISPU POCS/Разница программ.md",
@@ -240,8 +242,6 @@
     "work/IT",
     "Efficiency/attachments/Pasted image 20240528211321.png",
     "Efficiency/attachments/Pasted image 20240521232251.png",
-    "Efficiency/attachments/загруженное.jfif",
-    "Sports/basketball/post moves",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
