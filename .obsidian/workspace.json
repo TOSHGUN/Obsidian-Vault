@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming/танки/скидки на технику 2025.md",
+                "file": "work/задачи.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "скидки на технику 2025"
+              "title": "задачи"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "d8d52fbb1bfcab16",
   "lastOpenFiles": [
-    "Gaming/танки/общая информация.md",
     "Gaming/танки/скидки на технику 2025.md",
+    "work/задачи.md",
+    "Gaming/танки/общая информация.md",
     "University-ISPU POCS/6 sem/Разработка и анализ требований.md",
     "University-ISPU POCS/Разница программ.md",
     "University-ISPU POCS/6 sem/Архитектура вычислительных систем.md",
@@ -235,7 +236,6 @@
     "University-ISPU POCS",
     "life system/interface.canvas",
     "life system/проекты.md",
-    "life system/watch later.md",
     "Sports/спортивное питание",
     "work/IT",
     "Efficiency/attachments/Pasted image 20240528211321.png",
