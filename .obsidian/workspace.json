@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/IMZ/запуск бака.md",
+                "file": "work/задачи.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "запуск бака"
+              "title": "задачи"
             }
           }
         ],
@@ -195,8 +195,8 @@
   },
   "active": "d8d52fbb1bfcab16",
   "lastOpenFiles": [
-    "work/задачи.md",
     "work/IMZ/запуск бака.md",
+    "work/задачи.md",
     "work/IMZ/Untitled",
     "work/IMZ",
     "Gaming/танки/скидки на технику 2025.md",
