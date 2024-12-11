@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sports/exercises/all exercises.md",
+                "file": "Sports/план тренировок.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "all exercises"
+              "title": "план тренировок"
             }
           }
         ],
@@ -210,10 +210,13 @@
   },
   "active": "37254309b45e7814",
   "lastOpenFiles": [
+    "Sports/план питания.md",
+    "Sports/exercises/all exercises.md",
+    "Efficiency/attachments/Запись-экрана-2024-12-11-033756.gif",
+    "Sports/план тренировок.md",
     "Efficiency/attachments/Запись-экрана-2024-12-11-030444.gif",
     "life system/цели.md",
     "life system/ME.md",
-    "Sports/exercises/all exercises.md",
     "Efficiency/attachments/Запись-экрана-2024-12-11-025341.gif",
     "Efficiency/attachments/Запись экрана 2024-12-11 025155.gif",
     "Sports/exercises/Untitled.md",
@@ -242,7 +245,6 @@
     "3D-Modeling/компас 3D/чертеж.md",
     "Gaming/танки/лт.md",
     "3D-Modeling/компас 3D",
-    "Gaming/танки/тт.md",
     "Gaming/танки",
     "Efficiency/attachments/Pasted image 20241108042906.png",
     "Efficiency/attachments/Pasted image 20241108042602.png",
@@ -250,8 +252,6 @@
     "Efficiency/attachments/Pasted image 20241108042322.png",
     "Efficiency/attachments/Pasted image 20241108041801.png",
     "Efficiency/attachments/Pasted image 20241108041544.png",
-    "Efficiency/attachments/Pasted image 20241108041106.png",
-    "Efficiency/attachments/Pasted image 20241108040941.png",
     "Инженерная графика",
     "University-ISPU POCS",
     "life system/interface.canvas",
