@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "план тренировок"
             }
+          },
+          {
+            "id": "5a27ae1e8d3f7e92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "37254309b45e7814",
+  "active": "5a27ae1e8d3f7e92",
   "lastOpenFiles": [
     "Sports/план питания.md",
     "Sports/exercises/all exercises.md",
