@@ -1,4 +1,4 @@
-# Accounts
+# my accounts
 ## entertainment
 - [kinopoisk](https://hd.kinopoisk.ru/)
 - [ivi](https://www.ivi.ru/)
