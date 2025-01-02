@@ -36,10 +36,10 @@
   "Spare time/Gaming": "FasGamepad",
   "Life/Sports": "FasTrophy",
   "Life/Sports/basketball": "FasBasketball",
-  "Knowledge/Drawing": "FasPencil",
-  "Knowledge/Design/Figma": "FabFigma",
   "Knowledge/Languages": "FasLanguage",
-  "Knowledge/Programming": "FasCode",
-  "Knowledge/Science": "SiAtom",
-  "Knowledge/3D-Modeling": "RiBox3Line"
+  "Knowledge/creative/Design/Figma": "FabFigma",
+  "Knowledge/creative/3D-Modeling": "RiBox3Line",
+  "Knowledge/creative/Drawing": "FasPencil",
+  "Knowledge/Technical/Science": "SiAtom",
+  "Knowledge/Technical/Programming": "FasCode"
 }

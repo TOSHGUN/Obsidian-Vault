@@ -1,11 +1,13 @@
-# how to get ahead of 99% of programmers
+## my path
+
+## how to get ahead of 99% of programmers
 1. learn debugging
 2. quality over quantity
 3. read code
 4. open source contributions
 5. attend meetups and conferences
 
-#  beginner projects
+##  beginner projects
 - simple (can be finished in even a weekend) and useful (interesting or help in real life)
 1. python automation script 
 	1. google calendar - track programming time and add to calendar

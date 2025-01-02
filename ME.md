@@ -1,10 +1,12 @@
 # Tasks
 [[цели]]
+[карта развития персонажа](https://mm.tt/app/map/3565672794?t=JbeneMYKHg)
 # skills
 [[skills]]
+
 ## Knowledge
-[[_Languages]]
-[[_Science]]
+[[_Knowledge]]
+
 ## Experience
 [[experience]]
 

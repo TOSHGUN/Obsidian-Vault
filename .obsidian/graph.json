@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -43,30 +43,44 @@
       }
     },
     {
-      "query": "path:knowledge  ",
-      "color": {
-        "a": 1,
-        "rgb": 65297
-      }
-    },
-    {
       "query": "path:Life/Sports  ",
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Knowledge/Languages  ",
+      "color": {
+        "a": 1,
+        "rgb": 9303862
+      }
+    },
+    {
+      "query": "path:Knowledge/Technical  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431387
+      }
+    },
+    {
+      "query": "path:Knowledge/creative  ",
+      "color": {
+        "a": 1,
+        "rgb": 915625
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 1.75885416666667,
-  "lineSizeMultiplier": 1.01875,
+  "nodeSizeMultiplier": 1.4015625,
+  "lineSizeMultiplier": 1.04427083333333,
   "collapse-forces": false,
-  "centerStrength": 0.71875,
-  "repelStrength": 11.25,
+  "centerStrength": 0.796875,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2738332922311648,
-  "close": true
+  "scale": 0.13931594208990375,
+  "close": false
 }
