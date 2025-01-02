@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/Accounts.md",
+                "file": "life system/Accounts/Accounts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,13 +179,20 @@
   },
   "active": "ab716ec7b79fce5e",
   "lastOpenFiles": [
-    "аккаунты.md",
+    "life system/interface.canvas",
+    "life system/Accounts/Accounts.md",
+    "life system/Accounts/Facebook",
+    "life system/Accounts/Yandex",
+    "life system/Accounts/Google",
+    "life system/Accounts/phones.md",
+    "life system/ME.md",
     "Sports/план тренировок.md",
+    "life system/Accounts",
+    "аккаунты.md",
     "University-ISPU POCS/5 sem/Дискретная математика.md",
     "University-ISPU POCS/Разница программ.md",
     "Gaming/танки/скидки на технику 2025.md",
     "conflict-files-obsidian-git.md",
-    "life system/ME.md",
     "Sports/план питания.md",
     "Sports/exercises/all exercises.md",
     "Efficiency/attachments/Запись-экрана-2024-12-11-033756.gif",
@@ -210,9 +217,6 @@
     "University-ISPU POCS/Важная информация.md",
     "University-ISPU POCS/5 sem",
     "life system/experience.md",
-    "life system/skills.md",
-    "3D-Modeling/компас 3D/3D моделирование.md",
-    "3D-Modeling/компас 3D/общее.md",
     "3D-Modeling/компас 3D",
     "Gaming/танки",
     "Efficiency/attachments/Pasted image 20241108042906.png",
@@ -221,11 +225,6 @@
     "Efficiency/attachments/Pasted image 20241108042322.png",
     "Efficiency/attachments/Pasted image 20241108041801.png",
     "Efficiency/attachments/Pasted image 20241108041544.png",
-    "Инженерная графика",
-    "University-ISPU POCS",
-    "life system/interface.canvas",
-    "Sports/спортивное питание",
-    "work/IT",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
