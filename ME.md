@@ -1,6 +1,5 @@
 # Tasks
 [[цели]]
-
 # skills
 [[skills]]
 ## Knowledge
@@ -25,4 +24,9 @@
 
 # Spare time
 [[watch later]]
-[[gaming]]
+[[Gaming]]
+
+# life 
+[[People]]
+[[Appearence]]
+[[Efficiency]]

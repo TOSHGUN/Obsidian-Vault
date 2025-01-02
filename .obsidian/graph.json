@@ -6,7 +6,57 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Univercity  ",
+      "color": {
+        "a": 1,
+        "rgb": 16646401
+      }
+    },
+    {
+      "query": "path:System  ",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
+    },
+    {
+      "query": "path:Technic/Car  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Spare time\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5420768
+      }
+    },
+    {
+      "query": "path:Technic/Gadgets  ",
+      "color": {
+        "a": 1,
+        "rgb": 3133
+      }
+    },
+    {
+      "query": "path:knowledge  ",
+      "color": {
+        "a": 1,
+        "rgb": 65297
+      }
+    },
+    {
+      "query": "path:Life/Sports  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.6,
