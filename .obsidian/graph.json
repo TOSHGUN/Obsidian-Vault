@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Univercity  ",
@@ -74,13 +74,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 1.4015625,
+  "nodeSizeMultiplier": 1.7078125,
   "lineSizeMultiplier": 1.04427083333333,
   "collapse-forces": false,
-  "centerStrength": 0.796875,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.13931594208990375,
-  "close": false
+  "centerStrength": 0.703125,
+  "repelStrength": 15.5208333333333,
+  "linkStrength": 0.895833333333333,
+  "linkDistance": 155,
+  "scale": 0.1953185681976109,
+  "close": true
 }

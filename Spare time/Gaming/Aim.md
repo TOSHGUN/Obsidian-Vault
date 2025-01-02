@@ -1,4 +1,6 @@
 [[aim mechanics]]
+[[aim routine]]
+[[find perfect sensetivity]]
 
 # Aiming tips
 > **don't crouch to stay mobile**

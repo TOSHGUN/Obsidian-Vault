@@ -1,4 +1,9 @@
 ## my path
+[[_Web]] - фронт
+[[_Python]] - бэк
+[[_PHP]] - бэк
+[[_Git]] - универсальный инструмент
+[[_С++]] 
 
 ## how to get ahead of 99% of programmers
 1. learn debugging

@@ -16,17 +16,19 @@
 [[Обучение]]
 
 # Work
+[[_Work]]
 ## Expenses
 [[деньги]]
 ## Projects
 [[проекты]]
 
-# Gadgets
+# technic
+[[_Car]]
 [[Gadgets]]
 
 # Spare time
 [[watch later]]
-[[Gaming]]
+[[_Gaming]]
 
 # life 
 [[_People]]
