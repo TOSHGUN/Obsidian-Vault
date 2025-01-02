@@ -27,19 +27,19 @@
     "iconsInNotesEnabled": true
   },
   "Car": "FasCar",
-  "3D-Modeling": "RiBox3Line",
   "Car/Driving": "RaCogWheel",
-  "Design/Figma": "FabFigma",
-  "Drawing": "FasPencil",
   "Gaming": "FasGamepad",
-  "Programming": "FasCode",
-  "Languages": "FasLanguage",
-  "Science": "SiAtom",
   "Efficiency/obsidian": "SiObsidian",
   "Efficiency/attachments": "RiAttachment2",
   "Sports/basketball": "FasBasketball",
   "Sports": "FasTrophy",
   "life system": "FasCircleUser",
-  "life system/ME.md": "FasPerson",
-  "Univercity-ISPU IVTF": "SiUnilever"
+  "ME.md": "FasPerson",
+  "Univercity/Univercity-ISPU IVTF": "SiUnilever",
+  "knowledge/Drawing": "FasPencil",
+  "knowledge/Design/Figma": "FabFigma",
+  "knowledge/Languages": "FasLanguage",
+  "knowledge/Programming": "FasCode",
+  "knowledge/Science": "SiAtom",
+  "knowledge/3D-Modeling": "RiBox3Line"
 }

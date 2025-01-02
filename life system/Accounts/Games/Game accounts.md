@@ -9,7 +9,6 @@ antank18061
 # mihoyo
 [hoyoverse.com](https://hoyoverse.com/)
 #nickname: Toshgun
-
 # lesta
 [lesta.ru](https://lesta.ru/ru)
 #nickname: ToshGun13

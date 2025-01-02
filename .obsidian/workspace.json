@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life system/ME.md",
+                "file": "ME.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,76 +23,15 @@
               "icon": "lucide-file",
               "title": "ME"
             }
-          },
-          {
-            "id": "ca7bca5a4e92864f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "life system/Accounts/Accounts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accounts"
-            }
-          },
-          {
-            "id": "35717aa28298a0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "life system/Accounts/Yandex eco-system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yandex eco-system"
-            }
-          },
-          {
-            "id": "41e3119eeac0155a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "life system/Accounts/Google eco-system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google eco-system"
-            }
-          },
-          {
-            "id": "746b9f3004099953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "life system/Accounts/Games/Game accounts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game accounts"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "a0fd7c6297f54f41",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b3019fdc4e1ab1",
+            "id": "b0d754f25dd38c79",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -258,49 +197,49 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5b3019fdc4e1ab1",
+  "active": "029f6cb3279d3959",
   "lastOpenFiles": [
-    "life system/Accounts/Games/Game accounts.md",
-    "life system/ME.md",
-    "life system/Accounts/Games",
+    "Spare time/actresses.md",
+    "life system/цели.md",
+    "life system/проекты.md",
+    "life system/Обучение.md",
+    "People/Златик.md",
+    "Technic/Хранилища информации.md",
+    "People",
+    "Spare time",
+    "Technic/Gadgets.md",
+    "Technic",
+    "ME.md",
+    "knowledge",
+    "life system/деньги.md",
+    "life system/main tasks.md",
+    "life system/skills.md",
+    "life system/Accounts/Accounts.md",
+    "life system/Accounts/Yandex eco-system.md",
     "life system/Accounts/Google eco-system.md",
+    "Spare time/watch later.md",
+    "life system/work tasks.md",
+    "life system/univercity tasks.md",
+    "life system/experience.md",
+    "life system/interface.canvas",
+    "Univercity/All university.md",
+    "Univercity",
+    "Univercity/Univercity-ISPU IVTF/IVTF.md",
+    "Univercity/University-ISPU POCS/POCS.md",
+    "life system/Accounts/Socials/Social media.md",
+    "life system/Accounts/Games/Game accounts.md",
+    "life system/Accounts/Socials/Socials",
+    "life system/Accounts/Socials",
+    "life system/Accounts/Games",
     "life system/Accounts/Meta eco-system.md",
     "life system/Accounts/Mail.ru eco-system.md",
-    "life system/цели.md",
-    "life system/Accounts/Yandex eco-system.md",
-    "life system/Accounts/Accounts.md",
     "life system/Accounts/Meta/LinkedIn.md",
-    "life system/Accounts/Meta/Instagram.md",
-    "life system/Accounts/phone numbers.md",
     "life system/Accounts/MailRu",
-    "life system/interface.canvas",
     "life system/Accounts/Meta",
-    "life system/Accounts/Yandex",
-    "life system/Accounts/Google",
-    "Sports/план тренировок.md",
-    "life system/Accounts",
-    "аккаунты.md",
-    "University-ISPU POCS/5 sem/Дискретная математика.md",
-    "University-ISPU POCS/Разница программ.md",
-    "Gaming/танки/скидки на технику 2025.md",
-    "conflict-files-obsidian-git.md",
-    "Sports/план питания.md",
-    "Sports/exercises/all exercises.md",
     "Efficiency/attachments/Запись-экрана-2024-12-11-033756.gif",
     "Efficiency/attachments/Запись-экрана-2024-12-11-030444.gif",
     "Efficiency/attachments/Запись-экрана-2024-12-11-025341.gif",
     "Efficiency/attachments/Запись экрана 2024-12-11 025155.gif",
-    "Sports/exercises/Untitled.md",
-    "Sports/exercises/split jumps.md",
-    "work/задачи.md",
-    "work/IMZ/запуск бака.md",
-    "work/IMZ/Untitled",
-    "work/IMZ",
-    "Gaming/танки/общая информация.md",
-    "University-ISPU POCS/6 sem/Разработка и анализ требований.md",
-    "University-ISPU POCS/6 sem/Архитектура вычислительных систем.md",
-    "University-ISPU POCS/6 sem",
-    "University-ISPU POCS/5 sem",
     "Efficiency/attachments/Pasted image 20241108042906.png",
     "Efficiency/attachments/Pasted image 20241108042602.png",
     "Efficiency/attachments/Pasted image 20241108042410.png",

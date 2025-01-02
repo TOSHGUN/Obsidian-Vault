@@ -3,12 +3,12 @@
     {
       "type": "file",
       "ctime": 1701860789264,
-      "path": "Drawing/Drawing.md"
+      "path": "knowledge/Drawing/Drawing.md"
     },
     {
       "type": "file",
       "ctime": 1701860806310,
-      "path": "3D-Modeling/3d-modeling.md"
+      "path": "knowledge/3D-Modeling/3d-modeling.md"
     },
     {
       "type": "file",
@@ -18,22 +18,22 @@
     {
       "type": "file",
       "ctime": 1701860847599,
-      "path": "Programming/Programming.md"
+      "path": "knowledge/Programming/Programming.md"
     },
     {
       "type": "file",
       "ctime": 1701860855610,
-      "path": "Languages/Languages.md"
+      "path": "knowledge/Languages/Languages.md"
     },
     {
       "type": "file",
       "ctime": 1701860862762,
-      "path": "Science/Science.md"
+      "path": "knowledge/Science/Science.md"
     },
     {
       "type": "file",
       "ctime": 1701860935770,
-      "path": "life system/ME.md"
+      "path": "ME.md"
     }
   ]
 }

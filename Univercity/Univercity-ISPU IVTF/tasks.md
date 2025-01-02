@@ -4,7 +4,7 @@ https://docs.google.com/spreadsheets/d/1BQPhoXcNQ1VMbuflEof3A-iW0CqGFnMbBgo6VYYX
 ### написать о пересдаче
 Б-305
 gadalovab@gmail.ru
-- [[Univercity-ISPU IVTF/долги/Гадалов/Операционные системы]]
+- [[Univercity/Univercity-ISPU IVTF/долги/Гадалов/Операционные системы]]
 ## Рудаков 
 ### 08.05 методичка
 Б-320
