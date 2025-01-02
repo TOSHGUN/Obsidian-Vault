@@ -1,9 +1,6 @@
-![[phones]]
+![[phone numbers]]
 
-## mail
-- yandex
-- mail
-- 
+
 ## entertainment
 - [kinopoisk](https://hd.kinopoisk.ru/) - 
 - [ivi](https://www.ivi.ru/) - 
