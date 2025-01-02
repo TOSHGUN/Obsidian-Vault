@@ -28,12 +28,6 @@
   },
   "ME.md": "FasPerson",
   "Univercity/Univercity-ISPU IVTF": "SiUnilever",
-  "knowledge/Drawing": "FasPencil",
-  "knowledge/Design/Figma": "FabFigma",
-  "knowledge/Languages": "FasLanguage",
-  "knowledge/Programming": "FasCode",
-  "knowledge/Science": "SiAtom",
-  "knowledge/3D-Modeling": "RiBox3Line",
   "Technic/Car": "FasCar",
   "Technic/Car/Driving": "RaCogWheel",
   "System": "FasCircleUser",
@@ -41,5 +35,11 @@
   "Life/Efficiency/obsidian": "SiObsidian",
   "Spare time/Gaming": "FasGamepad",
   "Life/Sports": "FasTrophy",
-  "Life/Sports/basketball": "FasBasketball"
+  "Life/Sports/basketball": "FasBasketball",
+  "Knowledge/Drawing": "FasPencil",
+  "Knowledge/Design/Figma": "FabFigma",
+  "Knowledge/Languages": "FasLanguage",
+  "Knowledge/Programming": "FasCode",
+  "Knowledge/Science": "SiAtom",
+  "Knowledge/3D-Modeling": "RiBox3Line"
 }

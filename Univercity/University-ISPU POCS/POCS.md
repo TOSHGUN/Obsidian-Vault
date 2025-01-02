@@ -1,0 +1,1 @@
+![[Life/Accounts/Studying/Studying#University]]

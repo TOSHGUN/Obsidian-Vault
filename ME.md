@@ -3,13 +3,13 @@
 # skills
 [[skills]]
 ## Knowledge
-[[Languages]]
-[[Science]]
+[[_Languages]]
+[[_Science]]
 ## Experience
 [[experience]]
 
 # Contacts
-[[Accounts]]
+[[_Accounts]]
 # Studying
 [[Обучение]]
 
@@ -27,6 +27,6 @@
 [[Gaming]]
 
 # life 
-[[People]]
+[[_People]]
 [[Appearence]]
 [[Efficiency]]
