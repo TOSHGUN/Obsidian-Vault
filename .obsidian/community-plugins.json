@@ -5,5 +5,12 @@
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "url-into-selection",
-  "pomodoro-timer"
+  "pomodoro-timer",
+  "obsidian-day-planner",
+  "obsidian-mind-map",
+  "make-md",
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin"
 ]

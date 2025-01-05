@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e70be5fae1d6f73",
+        "id": "dee089c34457f9fe",
         "type": "tabs",
         "children": [
           {
-            "id": "5dfe1839e2fdd8c1",
+            "id": "2cf3a354d1875d17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -68,8 +68,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f48d80cf5e8fe686",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,9 +161,29 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "ca4fcbe00ad06a1d",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "53521a3fa7963f9a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -169,11 +200,17 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5dfe1839e2fdd8c1",
+  "active": "f48d80cf5e8fe686",
   "lastOpenFiles": [
+    "2025-01-06.md",
+    "Tags",
     "ME.md",
     "knowledge/Technical/Programming/Web/HTML/Служебные теги.md",
     "Univercity/University-ISPU POCS/Разница программ.md",
@@ -200,7 +237,6 @@
     "Life/Appearence/как разговаривать с кем угодно.md",
     "Life/Efficiency/learn with GPT.md",
     "Work/_Work.md",
-    "Work/IT/requirements.md",
     "Knowledge/creative/3D-Modeling/Blender",
     "Knowledge/Technical/Programming/С++",
     "Knowledge/Technical/Programming/Python",
@@ -209,7 +245,6 @@
     "Knowledge/Technical/Programming/Web/HTML",
     "Life/Sports/Bicycle",
     "Life/Sports/Snowboard",
-    "Knowledge/Technical",
     "System/interface.canvas",
     "Life/Efficiency/attachments/Запись-экрана-2024-12-11-033756.gif",
     "Life/Efficiency/attachments/Запись-экрана-2024-12-11-030444.gif",
