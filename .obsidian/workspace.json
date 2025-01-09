@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Univercity/University-ISPU POCS/Разница программ.md",
+                    "file": "Spare time/Gaming/танки/общая информация.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Разница программ"
+                  "title": "общая информация"
                 }
               }
             ]
@@ -220,6 +220,8 @@
   },
   "active": "d8339baec293d5e0",
   "lastOpenFiles": [
+    "Spare time/Gaming/танки/_Мир танков.md",
+    "Univercity/University-ISPU POCS/Разница программ.md",
     "Univercity/University-ISPU POCS/POCS.md",
     "Spare time/Gaming/_Gaming.md",
     "Spare time/Gaming/Valorant/_Valorant.md",
@@ -234,7 +236,6 @@
     "Spare time/Gaming/Game sense.md",
     "Spare time/Gaming/chess/_Chess.md",
     "ME.md",
-    "Spare time/Gaming/танки/_Мир танков.md",
     "Spare time/Gaming/танки/общая информация.md",
     "Spare time/Gaming/танки/скидки на технику 2025.md",
     "Spare time/Gaming/танки/лт.md",
@@ -246,7 +247,6 @@
     "Work/_Work.md",
     "Work/IT/requirements.md",
     "Work/задачи.md",
-    "Work/IMZ/запуск бака.md",
     "Knowledge/creative/3D-Modeling/Blender",
     "Knowledge/Technical/Programming/С++",
     "Knowledge/Technical/Programming/Python",
