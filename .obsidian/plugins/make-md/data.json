@@ -35,7 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Univercity",
+    "//Univercity/Univercity/University-ISPU POCS",
+    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/5 sem"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
