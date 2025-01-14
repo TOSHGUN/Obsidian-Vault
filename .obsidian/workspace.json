@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity/University-ISPU POCS/5 sem/Вычислительная математика.md",
+                "file": "knowledge/Technical/Science/Mathematics/geometry/_Geometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вычислительная математика"
+              "title": "_Geometry"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "5c0d922af27c4713",
+            "id": "8a888532ab09765a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -214,8 +214,8 @@
   },
   "active": "2cf3a354d1875d17",
   "lastOpenFiles": [
-    "Tags",
     "2025-01-06.md",
+    "Tags",
     "ME.md",
     "knowledge/Technical/Programming/Web/HTML/Служебные теги.md",
     "Univercity/University-ISPU POCS/Разница программ.md",
@@ -241,6 +241,7 @@
     "Life/Appearence/Appearence.md",
     "Life/Appearence/как разговаривать с кем угодно.md",
     "Life/Efficiency/learn with GPT.md",
+    "Work/_Work.md",
     "Knowledge/creative/3D-Modeling/Blender",
     "Knowledge/Technical/Programming/С++",
     "Knowledge/Technical/Programming/Python",

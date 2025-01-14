@@ -36,9 +36,12 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Univercity",
-    "//Univercity/Univercity/University-ISPU POCS",
-    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/5 sem"
+    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/5 sem",
+    "//knowledge",
+    "//knowledge/knowledge/Technical",
+    "//knowledge/knowledge/Technical/knowledge/Technical/Science",
+    "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Mathematics",
+    "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Mathematics/knowledge/Technical/Science/Mathematics/geometry"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -51,6 +54,7 @@
     "_blocks"
   ],
   "newFileLocation": "current",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
