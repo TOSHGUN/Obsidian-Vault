@@ -11,10 +11,15 @@
             "id": "0f6132c12851ed3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Univercity/University-ISPU POCS/5 sem/Вычислительная математика.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Вычислительная математика"
             }
           }
         ]
@@ -209,6 +214,7 @@
   },
   "active": "0f6132c12851ed3e",
   "lastOpenFiles": [
+    "Univercity/University-ISPU POCS/5 sem/Дискретная математика.md",
     "Efficiency/attachments/Pasted image 20250115014057.png",
     "Efficiency/attachments/Pasted image 20250115013733.png",
     "Efficiency/attachments/Pasted image 20250115013642.png",
@@ -219,7 +225,6 @@
     "Efficiency/attachments/Pasted image 20250115013357.png",
     "Efficiency/attachments/Pasted image 20250115013322.png",
     "Efficiency/attachments/Pasted image 20250115013238.png",
-    "Efficiency/attachments/Pasted image 20250115013215.png",
     "knowledge/Technical/Science/Mathematics/geometry/_Geometry.md",
     "knowledge/Technical/Science/Mathematics/geometry/Untitled.md",
     "Efficiency/attachments",

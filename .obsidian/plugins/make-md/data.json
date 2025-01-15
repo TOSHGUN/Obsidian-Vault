@@ -41,7 +41,9 @@
     "//knowledge/knowledge/Technical",
     "//knowledge/knowledge/Technical/knowledge/Technical/Science",
     "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Mathematics",
-    "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Mathematics/knowledge/Technical/Science/Mathematics/algebra"
+    "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Mathematics/knowledge/Technical/Science/Mathematics/algebra",
+    "//Univercity",
+    "//Univercity/Univercity/University-ISPU POCS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
