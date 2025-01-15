@@ -11,15 +11,10 @@
             "id": "0f6132c12851ed3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/Technical/Science/Mathematics/algebra/_Algebra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_Algebra"
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +70,7 @@
             }
           },
           {
-            "id": "8a888532ab09765a",
+            "id": "78a56950c45754f2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
