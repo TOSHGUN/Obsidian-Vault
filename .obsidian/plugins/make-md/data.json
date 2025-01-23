@@ -42,10 +42,10 @@
     "//knowledge/knowledge/Technical/knowledge/Technical/Science",
     "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Mathematics",
     "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Mathematics/knowledge/Technical/Science/Mathematics/algebra",
-    "//Knowledge",
     "//Knowledge/Knowledge/Technical",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science",
-    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics"
+    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics",
+    "//Life"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
