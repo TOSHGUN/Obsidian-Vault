@@ -11,12 +11,15 @@
             "id": "201dadd2c774ff38",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Life"
+                "file": "Spare time/watch later.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Life"
+              "title": "watch later"
             }
           }
         ]
@@ -72,7 +75,7 @@
             }
           },
           {
-            "id": "1ad8657b559a64e7",
+            "id": "711723184b04b00f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -209,8 +212,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "55025d41db3f2c35",
+  "active": "201dadd2c774ff38",
   "lastOpenFiles": [
+    "Life/Life.md",
     "Life/Efficiency/Efficiency.md",
     "Spare time/watch later.md",
     "Spare time/actresses.md",
@@ -219,7 +223,6 @@
     "Life/Appearence/Appearence.md",
     "Life/People/People.md",
     "Life/Sports/Sports.md",
-    "Life/Life.md",
     "Technic/Technic.md",
     "Spare time/Spare time.md",
     "Knowledge/Knowledge.md",

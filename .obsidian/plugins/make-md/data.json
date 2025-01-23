@@ -45,7 +45,8 @@
     "//Knowledge/Knowledge/Technical",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics",
-    "//Life"
+    "//Life",
+    "//Spare time"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
