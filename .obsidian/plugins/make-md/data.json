@@ -36,7 +36,6 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/5 sem",
     "//knowledge",
     "//knowledge/knowledge/Technical",
     "//knowledge/knowledge/Technical/knowledge/Technical/Science",
@@ -46,7 +45,10 @@
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics",
     "//Life",
-    "//Spare time"
+    "//Spare time",
+    "//Univercity",
+    "//Univercity/Univercity/University-ISPU POCS",
+    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/долги"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
