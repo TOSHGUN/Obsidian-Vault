@@ -45,10 +45,11 @@
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics",
     "//Life",
-    "//Spare time",
     "//Univercity",
     "//Univercity/Univercity/University-ISPU POCS",
-    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/долги"
+    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/долги",
+    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/5 sem",
+    "//Knowledge"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
