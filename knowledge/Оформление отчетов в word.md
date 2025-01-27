@@ -80,5 +80,4 @@
 
 Выбор окончательного варианта зависит от вас, преподавателя и [методических требований](https://zaochnik.ru/blog/chto-takoe-metodichka-uchebno-metodicheskoe-posobie-i-dlja-chego-ona-nuzhna/) вуза.
 
-Подробнее: https://zaochnik.ru/blog/kak-pisat-spisok-literatury-v-referate-glavnoe-pravilno/
 ## Приложения
