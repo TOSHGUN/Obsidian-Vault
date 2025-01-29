@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Technical/Programming/Operating Systems.md",
+                "file": "Knowledge/Философия.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating Systems"
+              "title": "Философия"
             }
           }
         ],
@@ -245,8 +245,9 @@
   },
   "active": "d1129e49056f1ea6",
   "lastOpenFiles": [
-    "Knowledge/Оформление отчетов в word.md",
     "Knowledge/Technical/Programming/Operating Systems.md",
+    "Knowledge/Философия.md",
+    "Knowledge/Оформление отчетов в word.md",
     "Univercity/University-ISPU POCS/5 sem/Операционные системы.md",
     "Efficiency/attachments/Pasted image 20250126221528.png",
     "Efficiency/attachments/Pasted image 20250126220659.png",
