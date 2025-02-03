@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f607
+---
 # Tasks
 [[цели]]
 [карта развития персонажа](https://mm.tt/app/map/3565672794?t=JbeneMYKHg)
@@ -33,4 +36,4 @@
 # life 
 [[_People]]
 [[Appearence]]
-[[Efficiency]]
+[[Life/Efficiency/Efficiency/Efficiency]]

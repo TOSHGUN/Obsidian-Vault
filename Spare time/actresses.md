@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f51e
+---
  - Lana Rhoades (lanarhoadesx3)
  - Melanie Marie (melaniemariebaby222)
  - JackAndJill
