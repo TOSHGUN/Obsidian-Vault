@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/задачи.md",
+                "file": "work/IMZ/рабочие задачи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "задачи"
+              "title": "рабочие задачи"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "67c3e4ac2209c564",
   "lastOpenFiles": [
+    "work/задачи.md",
     "work/_Work.md",
     "work/Work.md",
     "work/IMZ/рабочие задачи.md",
@@ -270,7 +271,6 @@
     "Life/Appearence/Appearence.md",
     "Life/People/People.md",
     "Life/Sports/Sports.md",
-    "Technic/Technic.md",
     "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
