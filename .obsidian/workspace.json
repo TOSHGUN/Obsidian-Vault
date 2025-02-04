@@ -28,29 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity/University-ISPU POCS/5 sem/Операционные системы.md",
+                "file": "work/IMZ/рабочие задачи.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Операционные системы"
-            }
-          },
-          {
-            "id": "d1129e49056f1ea6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "рабочие задачи"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,12 +237,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d1129e49056f1ea6",
+  "active": "4b151821c8e48f43",
   "lastOpenFiles": [
+    "work/IT/IT.md",
+    "work/IMZ/IMZ.md",
+    "work/IMZ/рабочие задачи.md",
+    "work/IMZ/запуск бака.md",
+    "Univercity/University-ISPU POCS/5 sem/Операционные системы.md",
     "Knowledge/Technical/Programming/Operating Systems.md",
     "Knowledge/Философия.md",
     "Knowledge/Оформление отчетов в word.md",
-    "Univercity/University-ISPU POCS/5 sem/Операционные системы.md",
     "Efficiency/attachments/Pasted image 20250126221528.png",
     "Efficiency/attachments/Pasted image 20250126220659.png",
     "Efficiency/attachments",
@@ -270,10 +271,6 @@
     "Technic/Technic.md",
     "Spare time/Spare time.md",
     "Knowledge/Knowledge.md",
-    "Work/Work.md",
-    "Univercity/Univercity.md",
-    "System/System.md",
-    "Knowledge/Technical/Science/Mathematics/вышмат/_vyshmat.md",
     "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
