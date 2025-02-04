@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/IMZ/рабочие задачи.md",
+                "file": "work/задачи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "рабочие задачи"
+              "title": "задачи"
             }
           }
         ],
@@ -237,11 +237,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4b151821c8e48f43",
+  "active": "67c3e4ac2209c564",
   "lastOpenFiles": [
+    "work/_Work.md",
+    "work/Work.md",
+    "work/IMZ/рабочие задачи.md",
     "work/IT/IT.md",
     "work/IMZ/IMZ.md",
-    "work/IMZ/рабочие задачи.md",
     "work/IMZ/запуск бака.md",
     "Univercity/University-ISPU POCS/5 sem/Операционные системы.md",
     "Knowledge/Technical/Programming/Operating Systems.md",
@@ -269,8 +271,6 @@
     "Life/People/People.md",
     "Life/Sports/Sports.md",
     "Technic/Technic.md",
-    "Spare time/Spare time.md",
-    "Knowledge/Knowledge.md",
     "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
