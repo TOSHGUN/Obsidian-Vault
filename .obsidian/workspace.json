@@ -30,17 +30,8 @@
               "state": {
                 "file": "work/IMZ/рабочие задачи.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
               "title": "рабочие задачи"
@@ -100,7 +91,7 @@
             }
           },
           {
-            "id": "d5dacd6cb971628c",
+            "id": "72ecaf6f21bdc74a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,8 +189,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -208,8 +199,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "31b0c37029d6e7dd",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -233,12 +234,12 @@
       "pomodoro-timer:Toggle timer panel": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "67c3e4ac2209c564",
   "lastOpenFiles": [
+    "Tags",
     "work/задачи.md",
     "work/_Work.md",
     "work/Work.md",
@@ -262,7 +263,6 @@
     "Univercity/University-ISPU POCS/долги/долги.md",
     "Univercity/University-ISPU POCS/долги",
     "Spare time/watch later.md",
-    "Tags",
     "Life/Life.md",
     "Life/Efficiency/Efficiency.md",
     "Spare time/actresses.md",
@@ -270,7 +270,6 @@
     "Vault.md",
     "Life/Appearence/Appearence.md",
     "Life/People/People.md",
-    "Life/Sports/Sports.md",
     "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
