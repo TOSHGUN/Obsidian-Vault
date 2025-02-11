@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
+                "file": "knowledge/Technical/Science/Компьютерное моделирование/_Компьютерное моделирование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Компьютерное моделирование"
+              "title": "_Компьютерное моделирование"
             }
           }
         ]
@@ -233,10 +233,19 @@
   },
   "active": "ecb5bdd005ae0dfa",
   "lastOpenFiles": [
+    "knowledge/Technical/Science/Компьютерное моделирование/_Компьютерное моделирование.md",
+    "knowledge/Technical/Science/Компьютерные сети/_Компьютерные сети.md",
+    "knowledge/Technical/Science/Компьютерное моделирование/Компьютерное моделирование.md",
+    "knowledge/Technical/Science/Компьютерное моделирование",
+    "knowledge/Technical/Science/Архитектура вычислительных систем/_Архитектура вычислительных систем.md",
+    "knowledge/Technical/Science/Архитектура вычислительных систем/Архитектура вычислительных систем.md",
+    "knowledge/Technical/Science/Архитектура вычислительных систем",
+    "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
+    "knowledge/Technical/Science/Компьютерные сети/Компьютерные сети.md",
+    "knowledge/Technical/Science/Компьютерные сети",
     "Univercity/University-ISPU POCS/6 sem/Компьютерные сети.md",
     "Univercity/University-ISPU POCS/6 sem/Разработка и анализ требований.md",
     "Univercity/University-ISPU POCS/POCS.md",
-    "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
     "Univercity/University-ISPU POCS/6 sem/Архитектура вычислительных систем.md",
     "Univercity/University-ISPU POCS/долги/ООП.md",
     "Univercity/University-ISPU POCS/долги/электроника и схемотехника.md",
@@ -258,13 +267,7 @@
     "Efficiency/attachments/Pasted image 20250126220659.png",
     "Efficiency/attachments",
     "Efficiency",
-    "Univercity/University-ISPU POCS/долги/разработка веб-сайтов.md",
-    "Knowledge/_Knowledge.md",
-    "Univercity/University-ISPU POCS/Важная информация.md",
-    "Univercity/University-ISPU POCS/долги/долги.md",
     "Univercity/University-ISPU POCS/долги",
-    "Spare time/watch later.md",
-    "Life/Life.md",
     "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
@@ -276,9 +279,6 @@
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013357.png",
     "Life/Efficiency/Efficiency/attachments",
     "Life/Efficiency/Efficiency",
-    "Spare time/Gaming/Valorant",
-    "Knowledge/creative/3D-Modeling/Blender",
-    "Knowledge/Technical/Programming/С++",
     "System/interface.canvas",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
