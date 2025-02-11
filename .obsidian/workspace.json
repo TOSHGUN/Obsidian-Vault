@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/IMZ/рабочие задачи.md",
+                "file": "Univercity/University-ISPU POCS/долги/ООП.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,23 +43,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "рабочие задачи"
-            }
-          },
-          {
-            "id": "e5ba89e4d67e4e4b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "ООП"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "ce9158ca7fede0f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35aee973e280ac2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univercity/University-ISPU POCS/долги/электроника и схемотехника.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "электроника и схемотехника"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,13 +277,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5ba89e4d67e4e4b",
+  "active": "35aee973e280ac2a",
   "lastOpenFiles": [
+    "Univercity/University-ISPU POCS/долги/ООП.md",
+    "Univercity/University-ISPU POCS/Разница программ.md",
+    "Univercity/University-ISPU POCS/долги/философия.md",
+    "Univercity/University-ISPU POCS/долги/электроника и схемотехника.md",
+    "work/IMZ/рабочие задачи.md",
     "Tags",
     "work/задачи.md",
     "work/_Work.md",
     "work/Work.md",
-    "work/IMZ/рабочие задачи.md",
     "work/IT/IT.md",
     "work/IMZ/IMZ.md",
     "work/IMZ/запуск бака.md",
@@ -279,8 +301,6 @@
     "Efficiency",
     "Univercity/University-ISPU POCS/долги/разработка веб-сайтов.md",
     "Knowledge/_Knowledge.md",
-    "Univercity/University-ISPU POCS/Разница программ.md",
-    "Univercity/University-ISPU POCS/долги/философия.md",
     "Univercity/University-ISPU POCS/Важная информация.md",
     "Univercity/University-ISPU POCS/долги/долги.md",
     "Univercity/University-ISPU POCS/долги",
@@ -291,7 +311,6 @@
     "Life/Efficiency/Efficiency/Efficiency.md",
     "Vault.md",
     "Life/Appearence/Appearence.md",
-    "Life/People/People.md",
     "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",

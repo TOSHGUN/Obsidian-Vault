@@ -44,13 +44,13 @@
     "//Knowledge/Knowledge/Technical",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics",
     "//Life",
-    "//Univercity",
     "//Univercity/Univercity/University-ISPU POCS",
     "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/долги",
-    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/5 sem",
     "//Knowledge",
     "//work",
-    "//work/work/IMZ"
+    "//work/work/IMZ",
+    "//Univercity",
+    "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/6 sem"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
