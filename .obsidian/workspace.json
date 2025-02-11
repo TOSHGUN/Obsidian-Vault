@@ -30,15 +30,36 @@
               "state": {
                 "file": "work/IMZ/рабочие задачи.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "рабочие задачи"
             }
+          },
+          {
+            "id": "e5ba89e4d67e4e4b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +112,7 @@
             }
           },
           {
-            "id": "72ecaf6f21bdc74a",
+            "id": "12f4e7d860692279",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -223,6 +244,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -237,7 +259,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c3e4ac2209c564",
+  "active": "e5ba89e4d67e4e4b",
   "lastOpenFiles": [
     "Tags",
     "work/задачи.md",
