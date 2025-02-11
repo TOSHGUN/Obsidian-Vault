@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity/University-ISPU POCS/6 sem/Компьютерные сети.md",
+                "file": "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Компьютерные сети"
+              "title": "Компьютерное моделирование"
             }
           }
         ]
@@ -233,9 +233,11 @@
   },
   "active": "ecb5bdd005ae0dfa",
   "lastOpenFiles": [
+    "Univercity/University-ISPU POCS/6 sem/Компьютерные сети.md",
+    "Univercity/University-ISPU POCS/6 sem/Разработка и анализ требований.md",
+    "Univercity/University-ISPU POCS/POCS.md",
     "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
     "Univercity/University-ISPU POCS/6 sem/Архитектура вычислительных систем.md",
-    "Univercity/University-ISPU POCS/6 sem/Компьютерные сети.md",
     "Univercity/University-ISPU POCS/долги/ООП.md",
     "Univercity/University-ISPU POCS/долги/электроника и схемотехника.md",
     "Univercity/University-ISPU POCS/Разница программ.md",
@@ -263,8 +265,6 @@
     "Univercity/University-ISPU POCS/долги",
     "Spare time/watch later.md",
     "Life/Life.md",
-    "Life/Efficiency/Efficiency.md",
-    "Spare time/actresses.md",
     "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
