@@ -37,7 +37,6 @@
   "expandedSpaces": [
     "/",
     "//knowledge",
-    "//knowledge/knowledge/Technical",
     "//Knowledge/Knowledge/Technical",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics",
     "//Univercity/Univercity/University-ISPU POCS",
@@ -47,7 +46,8 @@
     "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/6 sem",
     "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Компьютерное моделирование",
     "//knowledge/knowledge/Technical/knowledge/Technical/Science/knowledge/Technical/Science/Компьютерные сети",
-    "//Univercity"
+    "//Univercity",
+    "//knowledge/knowledge/Technical"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c626b933920e3f57",
+        "id": "aa06ec8d4cfb6da3",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb5bdd005ae0dfa",
+            "id": "2a558a702ed28083",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -231,15 +231,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecb5bdd005ae0dfa",
+  "active": "2a558a702ed28083",
   "lastOpenFiles": [
-    "knowledge/_Knowledge.md",
     "knowledge/Technical/Программирование станков с ЧПУ.md",
+    "work/IMZ/Завод.md",
+    "work/IMZ/компьютеры.md",
+    "work/IMZ/рабочие задачи.md",
+    "work/IMZ/запуск бака.md",
+    "knowledge/_Knowledge.md",
     "knowledge/Languages/Languages.md",
     "knowledge/knowledge.md",
     "knowledge/Knowledge.md",
-    "work/IMZ/рабочие задачи.md",
-    "work/IMZ/компьютеры.md",
     "Univercity/University-ISPU POCS/6 sem/Разработка и анализ требований.md",
     "Univercity/University-ISPU POCS/6 sem/Компьютерные сети.md",
     "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
@@ -261,8 +263,6 @@
     "Tags",
     "work/задачи.md",
     "work/_Work.md",
-    "work/Work.md",
-    "work/IT/IT.md",
     "Efficiency/attachments/Pasted image 20250126221528.png",
     "Efficiency/attachments/Pasted image 20250126220659.png",
     "Efficiency/attachments",
