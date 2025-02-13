@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univercity/University-ISPU POCS/6 sem/Разработка и анализ требований.md",
+                "file": "knowledge/Technical/Программирование станков с ЧПУ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Разработка и анализ требований"
+              "title": "Программирование станков с ЧПУ"
             }
           }
         ]
@@ -233,6 +233,14 @@
   },
   "active": "ecb5bdd005ae0dfa",
   "lastOpenFiles": [
+    "knowledge/_Knowledge.md",
+    "knowledge/Technical/Программирование станков с ЧПУ.md",
+    "knowledge/Languages/Languages.md",
+    "knowledge/knowledge.md",
+    "knowledge/Knowledge.md",
+    "work/IMZ/рабочие задачи.md",
+    "work/IMZ/компьютеры.md",
+    "Univercity/University-ISPU POCS/6 sem/Разработка и анализ требований.md",
     "Univercity/University-ISPU POCS/6 sem/Компьютерные сети.md",
     "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
     "Univercity/University-ISPU POCS/6 sem/Архитектура вычислительных систем.md",
@@ -245,24 +253,16 @@
     "knowledge/Technical/Science/Архитектура вычислительных систем",
     "knowledge/Technical/Science/Компьютерные сети/Компьютерные сети.md",
     "knowledge/Technical/Science/Компьютерные сети",
-    "Univercity/University-ISPU POCS/6 sem/Разработка и анализ требований.md",
     "Univercity/University-ISPU POCS/POCS.md",
     "Univercity/University-ISPU POCS/долги/ООП.md",
     "Univercity/University-ISPU POCS/долги/электроника и схемотехника.md",
     "Univercity/University-ISPU POCS/Разница программ.md",
     "Univercity/University-ISPU POCS/долги/философия.md",
-    "work/IMZ/рабочие задачи.md",
     "Tags",
     "work/задачи.md",
     "work/_Work.md",
     "work/Work.md",
     "work/IT/IT.md",
-    "work/IMZ/IMZ.md",
-    "work/IMZ/запуск бака.md",
-    "Univercity/University-ISPU POCS/5 sem/Операционные системы.md",
-    "Knowledge/Technical/Programming/Operating Systems.md",
-    "Knowledge/Философия.md",
-    "Knowledge/Оформление отчетов в word.md",
     "Efficiency/attachments/Pasted image 20250126221528.png",
     "Efficiency/attachments/Pasted image 20250126220659.png",
     "Efficiency/attachments",
