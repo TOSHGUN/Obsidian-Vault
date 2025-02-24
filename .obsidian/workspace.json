@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Technical/Программирование станков с ЧПУ.md",
+                "file": "work/IMZ/рабочие задачи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Программирование станков с ЧПУ"
+              "title": "рабочие задачи"
             }
           }
         ]
@@ -233,11 +233,11 @@
   },
   "active": "2a558a702ed28083",
   "lastOpenFiles": [
+    "work/IMZ/запуск бака.md",
+    "work/IMZ/рабочие задачи.md",
     "knowledge/Technical/Программирование станков с ЧПУ.md",
     "work/IMZ/Завод.md",
     "work/IMZ/компьютеры.md",
-    "work/IMZ/рабочие задачи.md",
-    "work/IMZ/запуск бака.md",
     "knowledge/_Knowledge.md",
     "knowledge/Languages/Languages.md",
     "knowledge/knowledge.md",
