@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "538c83efc43fc8f2",
+        "id": "cb9da54eabd00e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "5360e14e14e1e637",
+            "id": "7324120ef75bf883",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -231,9 +231,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5360e14e14e1e637",
+  "active": "7324120ef75bf883",
   "lastOpenFiles": [
+    "knowledge/Technical/Programming/С++/_С++.md",
     "knowledge/Technical/Programming/C sharp/Общие сведения.md",
+    "knowledge/Technical/Programming/PHP/_PHP.md",
+    "knowledge/Technical/Programming/_Programming.md",
+    "knowledge/Technical/Programming/Web/_Web.md",
+    "knowledge/Technical/Programming/Web/CSS/CSS.md",
+    "knowledge/Technical/Programming/Web/HTML/HTML.md",
     "work/IMZ/рабочие задачи.md",
     "knowledge/Technical/Programming/C sharp/C sharp.md",
     "knowledge/Technical/Programming/C sharp",
@@ -256,13 +262,7 @@
     "knowledge/Technical/Science/Архитектура вычислительных систем/_Архитектура вычислительных систем.md",
     "knowledge/Technical/Science/Архитектура вычислительных систем/Архитектура вычислительных систем.md",
     "knowledge/Technical/Science/Архитектура вычислительных систем",
-    "knowledge/Technical/Science/Компьютерные сети/Компьютерные сети.md",
     "knowledge/Technical/Science/Компьютерные сети",
-    "Univercity/University-ISPU POCS/POCS.md",
-    "Univercity/University-ISPU POCS/долги/ООП.md",
-    "Univercity/University-ISPU POCS/долги/электроника и схемотехника.md",
-    "Univercity/University-ISPU POCS/Разница программ.md",
-    "Univercity/University-ISPU POCS/долги/философия.md",
     "Tags",
     "Efficiency/attachments/Pasted image 20250126221528.png",
     "Efficiency/attachments/Pasted image 20250126220659.png",

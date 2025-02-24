@@ -48,7 +48,8 @@
     "//knowledge/knowledge/Technical",
     "//knowledge/knowledge/Technical/knowledge/Technical/Programming",
     "//knowledge/knowledge/Technical/knowledge/Technical/Programming/knowledge/Technical/Programming/C",
-    "//knowledge/knowledge/Technical/knowledge/Technical/Programming/knowledge/Technical/Programming/C sharp"
+    "//knowledge/knowledge/Technical/knowledge/Technical/Programming/knowledge/Technical/Programming/C sharp",
+    "//knowledge/knowledge/Technical/knowledge/Technical/Programming/knowledge/Technical/Programming/С++"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
