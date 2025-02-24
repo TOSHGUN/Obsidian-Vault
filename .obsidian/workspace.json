@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa06ec8d4cfb6da3",
+        "id": "538c83efc43fc8f2",
         "type": "tabs",
         "children": [
           {
-            "id": "2a558a702ed28083",
+            "id": "5360e14e14e1e637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/IMZ/рабочие задачи.md",
+                "file": "knowledge/Technical/Programming/C sharp/Общие сведения.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "рабочие задачи"
+              "title": "Общие сведения"
             }
           }
         ]
@@ -231,10 +231,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a558a702ed28083",
+  "active": "5360e14e14e1e637",
   "lastOpenFiles": [
-    "work/IMZ/запуск бака.md",
+    "knowledge/Technical/Programming/C sharp/Общие сведения.md",
     "work/IMZ/рабочие задачи.md",
+    "knowledge/Technical/Programming/C sharp/C sharp.md",
+    "knowledge/Technical/Programming/C sharp",
+    "work/IMZ/запуск бака.md",
     "knowledge/Technical/Программирование станков с ЧПУ.md",
     "work/IMZ/Завод.md",
     "work/IMZ/компьютеры.md",
@@ -261,8 +264,6 @@
     "Univercity/University-ISPU POCS/Разница программ.md",
     "Univercity/University-ISPU POCS/долги/философия.md",
     "Tags",
-    "work/задачи.md",
-    "work/_Work.md",
     "Efficiency/attachments/Pasted image 20250126221528.png",
     "Efficiency/attachments/Pasted image 20250126220659.png",
     "Efficiency/attachments",
@@ -278,7 +279,6 @@
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013411.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013357.png",
     "Life/Efficiency/Efficiency/attachments",
-    "Life/Efficiency/Efficiency",
     "System/interface.canvas",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
