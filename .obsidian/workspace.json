@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Technical/Programming/C sharp/Общие сведения.md",
+                "file": "knowledge/Languages/German/_German.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Общие сведения"
+              "title": "_German"
             }
           }
         ]
@@ -233,8 +233,26 @@
   },
   "active": "7324120ef75bf883",
   "lastOpenFiles": [
-    "knowledge/Technical/Programming/С++/_С++.md",
+    "knowledge/Languages/Japanese/_Japanese.md",
+    "knowledge/Философия.md",
+    "knowledge/Оформление отчетов в word.md",
+    "knowledge/_Knowledge.md",
+    "Spare time/Spare time.md",
+    "Technic/Technic.md",
+    "System/цели.md",
+    "System/Обучение.md",
+    "System/проекты.md",
+    "System/skills.md",
+    "System/interface.canvas",
+    "System/деньги.md",
+    "System/experience.md",
+    "System/System.md",
+    "work/streaming/настройка .md",
+    "work/streaming/streaming.md",
+    "work/streaming",
+    "Univercity/Univercity.md",
     "knowledge/Technical/Programming/C sharp/Общие сведения.md",
+    "knowledge/Technical/Programming/С++/_С++.md",
     "knowledge/Technical/Programming/PHP/_PHP.md",
     "knowledge/Technical/Programming/_Programming.md",
     "knowledge/Technical/Programming/Web/_Web.md",
@@ -244,23 +262,7 @@
     "knowledge/Technical/Programming/C sharp/C sharp.md",
     "knowledge/Technical/Programming/C sharp",
     "work/IMZ/запуск бака.md",
-    "knowledge/Technical/Программирование станков с ЧПУ.md",
-    "work/IMZ/Завод.md",
-    "work/IMZ/компьютеры.md",
-    "knowledge/_Knowledge.md",
-    "knowledge/Languages/Languages.md",
-    "knowledge/knowledge.md",
-    "knowledge/Knowledge.md",
-    "Univercity/University-ISPU POCS/6 sem/Разработка и анализ требований.md",
-    "Univercity/University-ISPU POCS/6 sem/Компьютерные сети.md",
-    "Univercity/University-ISPU POCS/6 sem/Компьютерное моделирование.md",
-    "Univercity/University-ISPU POCS/6 sem/Архитектура вычислительных систем.md",
-    "knowledge/Technical/Science/Компьютерные сети/_Компьютерные сети.md",
-    "knowledge/Technical/Science/Компьютерное моделирование/_Компьютерное моделирование.md",
-    "knowledge/Technical/Science/Компьютерное моделирование/Компьютерное моделирование.md",
     "knowledge/Technical/Science/Компьютерное моделирование",
-    "knowledge/Technical/Science/Архитектура вычислительных систем/_Архитектура вычислительных систем.md",
-    "knowledge/Technical/Science/Архитектура вычислительных систем/Архитектура вычислительных систем.md",
     "knowledge/Technical/Science/Архитектура вычислительных систем",
     "knowledge/Technical/Science/Компьютерные сети",
     "Tags",
@@ -278,8 +280,6 @@
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013452.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013411.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013357.png",
-    "Life/Efficiency/Efficiency/attachments",
-    "System/interface.canvas",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
