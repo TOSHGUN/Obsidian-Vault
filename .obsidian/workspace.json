@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Languages/German/_German.md",
+                "file": "knowledge/Languages/Spanish/Alphabet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_German"
+              "title": "Alphabet"
             }
           }
         ]
@@ -233,6 +233,11 @@
   },
   "active": "7324120ef75bf883",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20250414195435.png",
+    "Efficiency/attachments/Pasted image 20250414195204.png",
+    "knowledge/Languages/Spanish/_Spanish.md",
+    "knowledge/Languages/Spanish/Alphabet.md",
+    "knowledge/Languages/German/_German.md",
     "knowledge/Languages/Japanese/_Japanese.md",
     "knowledge/Философия.md",
     "knowledge/Оформление отчетов в word.md",
@@ -257,11 +262,7 @@
     "knowledge/Technical/Programming/_Programming.md",
     "knowledge/Technical/Programming/Web/_Web.md",
     "knowledge/Technical/Programming/Web/CSS/CSS.md",
-    "knowledge/Technical/Programming/Web/HTML/HTML.md",
-    "work/IMZ/рабочие задачи.md",
-    "knowledge/Technical/Programming/C sharp/C sharp.md",
     "knowledge/Technical/Programming/C sharp",
-    "work/IMZ/запуск бака.md",
     "knowledge/Technical/Science/Компьютерное моделирование",
     "knowledge/Technical/Science/Архитектура вычислительных систем",
     "knowledge/Technical/Science/Компьютерные сети",
@@ -279,7 +280,6 @@
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013538.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013452.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013411.png",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013357.png",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
