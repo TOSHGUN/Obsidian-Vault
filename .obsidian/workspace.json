@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Alphabet"
             }
+          },
+          {
+            "id": "bb4a191083119301",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             }
           },
           {
-            "id": "9dfa59bd8a4e8872",
+            "id": "c9d54c75f858b91f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -231,7 +244,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7324120ef75bf883",
+  "active": "bb4a191083119301",
   "lastOpenFiles": [
     "Efficiency/attachments/Pasted image 20250414195435.png",
     "Efficiency/attachments/Pasted image 20250414195204.png",
