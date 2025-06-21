@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb9da54eabd00e3c",
+        "id": "9fa8194bcac241dc",
         "type": "tabs",
         "children": [
           {
-            "id": "7324120ef75bf883",
+            "id": "c0cbf0a2baceac38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Languages/Spanish/Alphabet.md",
+                "file": "knowledge/Инвестиции.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alphabet"
-            }
-          },
-          {
-            "id": "bb4a191083119301",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Инвестиции"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,12 +231,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb4a191083119301",
+  "active": "c0cbf0a2baceac38",
   "lastOpenFiles": [
+    "work/Invest/Портфель.md",
+    "knowledge/Инвестиции.md",
+    "work/_Work.md",
+    "work/Invest/Invest.md",
+    "work/Invest",
+    "work/.md",
+    "knowledge/Languages/Spanish/Alphabet.md",
     "Efficiency/attachments/Pasted image 20250414195435.png",
     "Efficiency/attachments/Pasted image 20250414195204.png",
     "knowledge/Languages/Spanish/_Spanish.md",
-    "knowledge/Languages/Spanish/Alphabet.md",
     "knowledge/Languages/German/_German.md",
     "knowledge/Languages/Japanese/_Japanese.md",
     "knowledge/Философия.md",
@@ -271,10 +264,6 @@
     "Univercity/Univercity.md",
     "knowledge/Technical/Programming/C sharp/Общие сведения.md",
     "knowledge/Technical/Programming/С++/_С++.md",
-    "knowledge/Technical/Programming/PHP/_PHP.md",
-    "knowledge/Technical/Programming/_Programming.md",
-    "knowledge/Technical/Programming/Web/_Web.md",
-    "knowledge/Technical/Programming/Web/CSS/CSS.md",
     "knowledge/Technical/Programming/C sharp",
     "knowledge/Technical/Science/Компьютерное моделирование",
     "knowledge/Technical/Science/Архитектура вычислительных систем",
@@ -285,14 +274,12 @@
     "Efficiency/attachments",
     "Efficiency",
     "Univercity/University-ISPU POCS/долги",
-    "Knowledge/Technical/Science/Mathematics/вышмат",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013642.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013601.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013538.png",
     "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013452.png",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013411.png",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
