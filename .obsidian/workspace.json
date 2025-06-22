@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "2db3fdafdff73ce5",
@@ -233,6 +234,12 @@
   },
   "active": "c0cbf0a2baceac38",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20250622153719.png",
+    "Efficiency/attachments/Pasted image 20250622152531.png",
+    "Efficiency/attachments/Pasted image 20250622145017.png",
+    "Efficiency/attachments/Pasted image 20250622143910.png",
+    "Efficiency/attachments/Pasted image 20250622143604.png",
+    "Efficiency/attachments/Pasted image 20250622143253.png",
     "Efficiency/attachments/Pasted image 20250621151137.png",
     "work/Invest/Портфель.md",
     "knowledge/Инвестиции.md",
@@ -274,12 +281,6 @@
     "Efficiency/attachments",
     "Efficiency",
     "Univercity/University-ISPU POCS/долги",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115014057.png",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013733.png",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013642.png",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013601.png",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013538.png",
-    "Life/Efficiency/Efficiency/attachments/Pasted image 20250115013452.png",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]
