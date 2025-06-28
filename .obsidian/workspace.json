@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0cbf0a2baceac38",
+            "id": "883398513dd1c97f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Как не попасться мошенникам.md",
+                "file": "knowledge/Инвестиции.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Как не попасться мошенникам"
+              "title": "Инвестиции"
             }
           },
           {
-            "id": "3409125c145cf64c",
+            "id": "f30c57a02a60d266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Серая зона инвестиций.md",
+                "file": "knowledge/Облигации с низким рейтингом.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Серая зона инвестиций"
+              "title": "Облигации с низким рейтингом"
             }
           }
         ],
@@ -256,12 +256,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3409125c145cf64c",
+  "active": "f30c57a02a60d266",
   "lastOpenFiles": [
+    "knowledge/Инвестиции.md",
+    "knowledge/Облигации с низким рейтингом.md",
+    "knowledge/Как обманывает менеджмент компаний.md",
     "knowledge/Как не попасться мошенникам.md",
+    "knowledge/Как подделывают финансовую отчетность.md",
     "knowledge/Серая зона инвестиций.md",
     "knowledge/Звонки и рассылки.md",
-    "knowledge/Инвестиции.md",
     "knowledge/Порядок в личных финансах.md",
     "Efficiency/attachments/Pasted image 20250622153719.png",
     "Efficiency/attachments/Pasted image 20250622152531.png",
@@ -292,9 +295,6 @@
     "System/skills.md",
     "System/interface.canvas",
     "System/деньги.md",
-    "System/experience.md",
-    "System/System.md",
-    "work/streaming/настройка .md",
     "work/streaming",
     "knowledge/Technical/Programming/C sharp",
     "knowledge/Technical/Science/Компьютерное моделирование",
