@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Облигации с низким рейтингом.md",
+                "file": "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Облигации с низким рейтингом"
+              "title": "Высокодоходные облигации с низким рейтингом (ВДО)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "6a4c089cc3240289",
+            "id": "4a0accf6be33e7fc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -259,7 +259,7 @@
   "active": "f30c57a02a60d266",
   "lastOpenFiles": [
     "knowledge/Инвестиции.md",
-    "knowledge/Облигации с низким рейтингом.md",
+    "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
     "knowledge/Как обманывает менеджмент компаний.md",
     "knowledge/Как не попасться мошенникам.md",
     "knowledge/Как подделывают финансовую отчетность.md",
