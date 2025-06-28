@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Инвестиции.md",
+                "file": "knowledge/Как не попасться мошенникам.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Инвестиции"
+              "title": "Как не попасться мошенникам"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "2db3fdafdff73ce5",
@@ -234,6 +233,9 @@
   },
   "active": "c0cbf0a2baceac38",
   "lastOpenFiles": [
+    "knowledge/Инвестиции.md",
+    "knowledge/Как не попасться мошенникам.md",
+    "knowledge/Порядок в личных финансах.md",
     "Efficiency/attachments/Pasted image 20250622153719.png",
     "Efficiency/attachments/Pasted image 20250622152531.png",
     "Efficiency/attachments/Pasted image 20250622145017.png",
@@ -242,7 +244,6 @@
     "Efficiency/attachments/Pasted image 20250622143253.png",
     "Efficiency/attachments/Pasted image 20250621151137.png",
     "work/Invest/Портфель.md",
-    "knowledge/Инвестиции.md",
     "work/_Work.md",
     "work/Invest/Invest.md",
     "work/Invest",
@@ -270,14 +271,12 @@
     "work/streaming/streaming.md",
     "work/streaming",
     "Univercity/Univercity.md",
-    "knowledge/Technical/Programming/C sharp/Общие сведения.md",
     "knowledge/Technical/Programming/C sharp",
     "knowledge/Technical/Science/Компьютерное моделирование",
     "knowledge/Technical/Science/Архитектура вычислительных систем",
     "knowledge/Technical/Science/Компьютерные сети",
     "Tags",
     "Efficiency/attachments/Pasted image 20250126221528.png",
-    "Efficiency/attachments/Pasted image 20250126220659.png",
     "Efficiency/attachments",
     "Efficiency",
     "Univercity/University-ISPU POCS/долги",
