@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Инвестиции.md",
+                "file": "knowledge/Как обманывает менеджмент компаний.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Инвестиции"
-            }
-          },
-          {
-            "id": "881a59d0821518a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/Облигации со структурным доходом.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Облигации со структурным доходом"
-            }
-          },
-          {
-            "id": "f30c57a02a60d266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Высокодоходные облигации с низким рейтингом (ВДО)"
+              "title": "Как обманывает менеджмент компаний"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,13 +231,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "881a59d0821518a5",
+  "active": "883398513dd1c97f",
   "lastOpenFiles": [
+    "knowledge/Как не попасться мошенникам.md",
     "knowledge/Инвестиции.md",
     "knowledge/Облигации со структурным доходом.md",
     "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
     "knowledge/Как обманывает менеджмент компаний.md",
-    "knowledge/Как не попасться мошенникам.md",
     "knowledge/Как подделывают финансовую отчетность.md",
     "knowledge/Серая зона инвестиций.md",
     "knowledge/Звонки и рассылки.md",
