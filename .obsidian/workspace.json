@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "dc67b4bf528ee349",
+            "id": "ce779ce4012b8a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Как инвестировать, если нет денег.md",
+                "file": "knowledge/маржинальная торговля.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Как инвестировать, если нет денег"
+              "title": "маржинальная торговля"
             }
           }
         ],
@@ -256,11 +256,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc67b4bf528ee349",
+  "active": "ce779ce4012b8a2d",
   "lastOpenFiles": [
-    "Efficiency/attachments/Pasted image 20250629141933.png",
     "knowledge/Инвестиции.md",
+    "knowledge/маржинальная торговля.md",
     "knowledge/Как инвестировать, если нет денег.md",
+    "Efficiency/attachments/Pasted image 20250629141933.png",
     "knowledge/.md",
     "knowledge/Как не попасться мошенникам.md",
     "knowledge/Как самому не стать мошенником.md",
@@ -301,7 +302,6 @@
     "knowledge/Technical/Science/Архитектура вычислительных систем",
     "knowledge/Technical/Science/Компьютерные сети",
     "Tags",
-    "Efficiency/attachments/Pasted image 20250126221528.png",
     "Efficiency/attachments",
     "Efficiency",
     "Univercity/University-ISPU POCS/долги",
