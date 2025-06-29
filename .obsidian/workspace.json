@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "881a59d0821518a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/Облигации со структурным доходом.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Облигации со структурным доходом"
+            }
+          },
+          {
             "id": "f30c57a02a60d266",
             "type": "leaf",
             "state": {
@@ -256,9 +280,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f30c57a02a60d266",
+  "active": "881a59d0821518a5",
   "lastOpenFiles": [
     "knowledge/Инвестиции.md",
+    "knowledge/Облигации со структурным доходом.md",
     "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
     "knowledge/Как обманывает менеджмент компаний.md",
     "knowledge/Как не попасться мошенникам.md",
@@ -294,7 +319,6 @@
     "System/проекты.md",
     "System/skills.md",
     "System/interface.canvas",
-    "System/деньги.md",
     "work/streaming",
     "knowledge/Technical/Programming/C sharp",
     "knowledge/Technical/Science/Компьютерное моделирование",
