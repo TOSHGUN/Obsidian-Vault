@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa8194bcac241dc",
+        "id": "e7383b9b2832e046",
         "type": "tabs",
         "children": [
           {
-            "id": "883398513dd1c97f",
+            "id": "c0eaf670d845e9b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Как не попасться мошенникам.md",
+                "file": "knowledge/Инвестиции.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Как не попасться мошенникам"
+              "title": "Инвестиции"
             }
           },
           {
-            "id": "23562aac8ff9e4f3",
+            "id": "dc67b4bf528ee349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Как самому не стать мошенником.md",
+                "file": "knowledge/Как инвестировать, если нет денег.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Как самому не стать мошенником"
+              "title": "Как инвестировать, если нет денег"
             }
           }
         ],
@@ -256,12 +256,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23562aac8ff9e4f3",
+  "active": "dc67b4bf528ee349",
   "lastOpenFiles": [
+    "Efficiency/attachments/Pasted image 20250629141933.png",
+    "knowledge/Инвестиции.md",
+    "knowledge/Как инвестировать, если нет денег.md",
+    "knowledge/.md",
     "knowledge/Как не попасться мошенникам.md",
     "knowledge/Как самому не стать мошенником.md",
     "knowledge/Что делать, если стали жертвой мошенничества.md",
-    "knowledge/Инвестиции.md",
     "knowledge/Как обманывает менеджмент компаний.md",
     "knowledge/Облигации со структурным доходом.md",
     "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
@@ -291,9 +294,6 @@
     "knowledge/Оформление отчетов в word.md",
     "knowledge/_Knowledge.md",
     "Spare time/Spare time.md",
-    "Technic/Technic.md",
-    "System/цели.md",
-    "System/Обучение.md",
     "System/interface.canvas",
     "work/streaming",
     "knowledge/Technical/Programming/C sharp",
