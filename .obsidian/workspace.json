@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f06be7be0d970fa6",
+            "id": "23562aac8ff9e4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Что делать, если стали жертвой мошенничества.md",
+                "file": "knowledge/Как самому не стать мошенником.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Что делать, если стали жертвой мошенничества"
+              "title": "Как самому не стать мошенником"
             }
           }
         ],
@@ -256,9 +256,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f06be7be0d970fa6",
+  "active": "23562aac8ff9e4f3",
   "lastOpenFiles": [
     "knowledge/Как не попасться мошенникам.md",
+    "knowledge/Как самому не стать мошенником.md",
     "knowledge/Что делать, если стали жертвой мошенничества.md",
     "knowledge/Инвестиции.md",
     "knowledge/Как обманывает менеджмент компаний.md",
@@ -293,7 +294,6 @@
     "Technic/Technic.md",
     "System/цели.md",
     "System/Обучение.md",
-    "System/проекты.md",
     "System/interface.canvas",
     "work/streaming",
     "knowledge/Technical/Programming/C sharp",
