@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/маржинальная торговля.md",
+                "file": "knowledge/Порядок в личных финансах.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "маржинальная торговля"
+              "title": "Порядок в личных финансах"
             }
           }
         ],
@@ -258,8 +258,9 @@
   },
   "active": "ce779ce4012b8a2d",
   "lastOpenFiles": [
-    "knowledge/Инвестиции.md",
+    "knowledge/Философия.md",
     "knowledge/маржинальная торговля.md",
+    "knowledge/Инвестиции.md",
     "knowledge/Как инвестировать, если нет денег.md",
     "Efficiency/attachments/Pasted image 20250629141933.png",
     "knowledge/.md",
@@ -291,7 +292,6 @@
     "knowledge/Languages/Spanish/_Spanish.md",
     "knowledge/Languages/German/_German.md",
     "knowledge/Languages/Japanese/_Japanese.md",
-    "knowledge/Философия.md",
     "knowledge/Оформление отчетов в word.md",
     "knowledge/_Knowledge.md",
     "Spare time/Spare time.md",
