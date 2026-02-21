@@ -11,36 +11,24 @@
             "id": "c0eaf670d845e9b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "knowledge/Инвестиции.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "Knowledge/Technical/Programming/Web/HTML"
               },
               "icon": "lucide-file",
-              "title": "Инвестиции"
+              "title": "HTML"
             }
           },
           {
-            "id": "ce779ce4012b8a2d",
+            "id": "1bf9aae22563dbfd",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.11.5"
+                "currentVersion": "1.11.7"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
@@ -97,7 +85,7 @@
             }
           },
           {
-            "id": "6c3a93bb550f7889",
+            "id": "f26cdc9e110cb410",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -245,8 +233,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce779ce4012b8a2d",
+  "active": "224d0b7e39c8923c",
   "lastOpenFiles": [
+    "Knowledge/Technical/Programming/Web/HTML/Базовые теги.md",
+    "Knowledge/Technical/Programming/Web/HTML/HTML.md",
+    "Efficiency/attachments/Pasted image 20260221145320.png",
+    "Knowledge/Technical/Programming/Web/code-style.md",
+    "Knowledge/Technical/Untitled.md",
+    "Knowledge/_Knowledge.md",
     "knowledge/Философия.md",
     "knowledge/маржинальная торговля.md",
     "knowledge/Инвестиции.md",
@@ -277,13 +271,6 @@
     "work/.md",
     "knowledge/Languages/Spanish/Alphabet.md",
     "Efficiency/attachments/Pasted image 20250414195435.png",
-    "Efficiency/attachments/Pasted image 20250414195204.png",
-    "knowledge/Languages/Spanish/_Spanish.md",
-    "knowledge/Languages/German/_German.md",
-    "knowledge/Languages/Japanese/_Japanese.md",
-    "knowledge/Оформление отчетов в word.md",
-    "knowledge/_Knowledge.md",
-    "Spare time/Spare time.md",
     "System/interface.canvas",
     "work/streaming",
     "knowledge/Technical/Programming/C sharp",

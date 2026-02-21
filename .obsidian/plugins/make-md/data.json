@@ -36,7 +36,6 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Knowledge/Knowledge/Technical",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Science/Knowledge/Technical/Science/Mathematics",
     "//Univercity/Univercity/University-ISPU POCS",
     "//Univercity/Univercity/University-ISPU POCS/Univercity/University-ISPU POCS/6 sem",
@@ -48,7 +47,12 @@
     "//work/work/streaming",
     "//knowledge/knowledge/Languages/knowledge/Languages/Spanish",
     "//work",
-    "//knowledge"
+    "//knowledge",
+    "//Knowledge",
+    "//Knowledge/Knowledge/Technical",
+    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming",
+    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming/Knowledge/Technical/Programming/Web",
+    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming/Knowledge/Technical/Programming/Web/Knowledge/Technical/Programming/Web/HTML"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
