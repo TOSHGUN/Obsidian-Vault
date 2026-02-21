@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e7383b9b2832e046",
+        "id": "4d2f616e1f93c4e7",
         "type": "tabs",
         "children": [
           {
-            "id": "c0eaf670d845e9b3",
+            "id": "db1d183007389da8",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Knowledge/Technical/Programming/Web/HTML"
+                "file": "Knowledge/Technical/Programming/Web/HTML/Гипертекстовая разметка.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "HTML"
-            }
-          },
-          {
-            "id": "1bf9aae22563dbfd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Гипертекстовая разметка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,10 +232,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "224d0b7e39c8923c",
+  "active": "f26cdc9e110cb410",
   "lastOpenFiles": [
-    "Knowledge/Technical/Programming/Web/HTML/Базовые теги.md",
     "Knowledge/Technical/Programming/Web/HTML/HTML.md",
+    "Knowledge/Technical/Programming/Web/HTML/Гипертекстовая разметка.md",
+    "Knowledge/Technical/Programming/Web/HTML/Служебные теги.md",
+    "Knowledge/Technical/Programming/Web/HTML/html5book.ru.md",
+    "Knowledge/Technical/Programming/Web/сайт.md",
     "Efficiency/attachments/Pasted image 20260221145320.png",
     "Knowledge/Technical/Programming/Web/code-style.md",
     "Knowledge/Technical/Untitled.md",
@@ -268,8 +270,6 @@
     "work/_Work.md",
     "work/Invest/Invest.md",
     "work/Invest",
-    "work/.md",
-    "knowledge/Languages/Spanish/Alphabet.md",
     "Efficiency/attachments/Pasted image 20250414195435.png",
     "System/interface.canvas",
     "work/streaming",
