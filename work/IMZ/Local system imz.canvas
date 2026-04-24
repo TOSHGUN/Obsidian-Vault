@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"ce298e8f35089c58","x":-80,"y":-660,"width":200,"height":310,"type":"text","text":"ноут ани\nip: 192.168.1.21\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"ea658a0f47697a13","x":129,"y":-660,"width":199,"height":310,"type":"text","text":"комп жанны\nip: 192.168.1.22\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"69b09f80399cbc09","x":-1020,"y":-70,"width":185,"height":60,"type":"text","text":"роутер провайдера"},
+		{"id":"6ee826d372d6a47f","x":20,"y":-200,"width":224,"height":320,"type":"text","text":"роутер 2\nip: 192.168.1.2\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1: ~~192.168.1.1~~\ndns-2: \n\nDCHP: relay\n~~DCHP-ip: 192.168.1.2\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns:~~ \n"},
+		{"id":"ffefe62da1dd70bf","x":99,"y":200,"width":67,"height":60,"type":"text","text":"хаб"},
+		{"id":"47b5e2efdf7cb235","x":-185,"y":400,"width":189,"height":280,"type":"text","text":"комп виктора\nip: 192.168.1.31\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"3b9f6806937b9bfc","x":264,"y":400,"width":184,"height":280,"type":"text","text":"комп насти\nip: 192.168.1.32\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"4a3c26cc680589a0","x":41,"y":400,"width":183,"height":280,"type":"text","text":"ноут виктора\nip: 192.168.1.33\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"bcaae4fb38315764","x":294,"y":740,"width":125,"height":60,"type":"text","text":"принтер"},
+		{"id":"43c90442eee358ab","x":457,"y":-660,"width":220,"height":310,"type":"text","text":"лазер\nip: 192.168.1.41\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"e5bea72031d1162e","x":580,"y":-200,"width":220,"height":320,"type":"text","text":"роутер 3\nip: 192.168.1.3\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1: ~~192.168.1.1~~\ndns-2: \n\nDCHP: relay\n~~DCHP-ip: 192.168.1.2\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns:~~ "},
+		{"id":"e489bd4b10c3a355","x":690,"y":-660,"width":240,"height":310,"type":"text","text":"комп эрозии\nip: 192.168.1.42\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"2e69662c19b45bd2","x":-565,"y":-815,"width":226,"height":310,"type":"text","text":"комп наташи\nip: 192.168.1.12\nмаска 255.255.255.0\nшлюз 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"8b3c9a41f863b041","x":-316,"y":-815,"width":219,"height":310,"type":"text","text":"комп оксаны\nip: 192.168.1.13\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"3c98073684f89250","x":-820,"y":-815,"width":241,"height":310,"type":"text","text":"хранилище записей камер\nip: 192.168.1.11\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"5d872b5f5a545bb6","x":-565,"y":-200,"width":227,"height":320,"type":"text","text":"роутер 1\nip: 87.255.228.49\nмаска: 255.255.255.240\nшлюз: 87.255.228.62\ndns-1: 87.255.238.65\ndns-2: 87.255.238.75\n\nDCHP: yes\nDCHP-ip: 192.168.1.1\nмаска: 255.255.255.0\nшлюз: 87.255.228.49\ndns: ~~192.168.1.1~~"},
+		{"id":"09564ce1f259fa7d","x":-489,"y":-350,"width":75,"height":60,"type":"text","text":"хаб"},
+		{"id":"da5b40796f38c5e1","x":-576,"y":200,"width":250,"height":320,"type":"text","text":"сервер\nip: 192.168.1.100\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"},
+		{"id":"2bc0522e5ec0b624","x":-1020,"y":-450,"width":220,"height":260,"type":"text","text":"принтер\nip: 192.168.1.101\nмаска: 255.255.255.0\nшлюз: 192.168.1.1\ndns-1:\ndns-2:"}
+	],
+	"edges":[
+		{"id":"2ba0d0af7241b315","fromNode":"69b09f80399cbc09","fromSide":"right","toNode":"5d872b5f5a545bb6","toSide":"left"},
+		{"id":"144862c002e51bb1","fromNode":"5d872b5f5a545bb6","fromSide":"right","toNode":"6ee826d372d6a47f","toSide":"left"},
+		{"id":"5246e815838487d4","fromNode":"6ee826d372d6a47f","fromSide":"right","toNode":"e5bea72031d1162e","toSide":"left"},
+		{"id":"f81d9195ad08754b","fromNode":"6ee826d372d6a47f","fromSide":"top","toNode":"ce298e8f35089c58","toSide":"bottom"},
+		{"id":"7be60f44ebde729f","fromNode":"6ee826d372d6a47f","fromSide":"top","toNode":"ea658a0f47697a13","toSide":"bottom"},
+		{"id":"cf0251a501619124","fromNode":"e5bea72031d1162e","fromSide":"top","toNode":"43c90442eee358ab","toSide":"bottom"},
+		{"id":"297f028eb06c671f","fromNode":"3b9f6806937b9bfc","fromSide":"bottom","toNode":"bcaae4fb38315764","toSide":"top"},
+		{"id":"1e3a7475a5b80044","fromNode":"6ee826d372d6a47f","fromSide":"bottom","toNode":"ffefe62da1dd70bf","toSide":"top"},
+		{"id":"9c5e303644c552a2","fromNode":"ffefe62da1dd70bf","fromSide":"bottom","toNode":"47b5e2efdf7cb235","toSide":"top"},
+		{"id":"1e707421aa4b5de9","fromNode":"ffefe62da1dd70bf","fromSide":"bottom","toNode":"4a3c26cc680589a0","toSide":"top"},
+		{"id":"ca8682b0b5ac1054","fromNode":"ffefe62da1dd70bf","fromSide":"bottom","toNode":"3b9f6806937b9bfc","toSide":"top"},
+		{"id":"5fdd376a624bbb41","fromNode":"e5bea72031d1162e","fromSide":"top","toNode":"e489bd4b10c3a355","toSide":"bottom"},
+		{"id":"7a75118939541463","fromNode":"5d872b5f5a545bb6","fromSide":"top","toNode":"09564ce1f259fa7d","toSide":"bottom"},
+		{"id":"cddd0b48ff4615a2","fromNode":"09564ce1f259fa7d","fromSide":"top","toNode":"2e69662c19b45bd2","toSide":"bottom"},
+		{"id":"5bcfd4c6b3012f86","fromNode":"09564ce1f259fa7d","fromSide":"top","toNode":"3c98073684f89250","toSide":"bottom"},
+		{"id":"de16f68cd992a559","fromNode":"09564ce1f259fa7d","fromSide":"top","toNode":"8b3c9a41f863b041","toSide":"bottom"},
+		{"id":"8a01b4160dedcf3a","fromNode":"09564ce1f259fa7d","fromSide":"left","toNode":"2bc0522e5ec0b624","toSide":"right"},
+		{"id":"f3b5680b71fdec66","fromNode":"5d872b5f5a545bb6","fromSide":"bottom","toNode":"da5b40796f38c5e1","toSide":"top"}
+	]
+}

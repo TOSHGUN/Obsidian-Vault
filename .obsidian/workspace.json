@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Technical/Programming/Web/HTML/Гипертекстовая разметка.md",
+                "file": "Knowledge/Technical/Programming/Компьютерные сети.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Гипертекстовая разметка"
+              "title": "Компьютерные сети"
             }
           }
         ]
@@ -80,11 +80,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           },
           {
-            "id": "88588370eb1cfd94",
+            "id": "14b61b82f06a06a5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -172,8 +172,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "timer-view"
             }
           },
           {
@@ -182,8 +182,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -192,12 +192,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
             "id": "31b0c37029d6e7dd",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "4c5db69924605518",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -216,26 +226,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c11fdbbafb00d5bb",
+  "active": "14b61b82f06a06a5",
   "lastOpenFiles": [
-    "Knowledge/Technical/Programming/Web/HTML/HTML.md",
+    "Knowledge/Technical/Programming/Без названия.md",
+    "Knowledge/Technical/Programming/Компьютерные сети/Компьютерные сети.md",
+    "Knowledge/Technical/Programming/Компьютерные сети",
+    "Knowledge/Technical/Programming/Компьютерные сети.md",
+    "Work/IMZ/Local system imz.canvas",
+    "Work/IMZ/Untitled.md",
+    "Work/IMZ/IMZ.md",
+    "Work/IMZ/компьютеры.md",
+    "Work/IMZ/Завод.md",
+    "Knowledge/Knowledge.md",
     "Knowledge/Technical/Programming/Web/HTML/Гипертекстовая разметка.md",
+    "Knowledge/Technical/Programming/Web/HTML/HTML.md",
     "Knowledge/Technical/Programming/Web/HTML/Служебные теги.md",
     "Knowledge/Technical/Programming/Web/HTML/html5book.ru.md",
     "Knowledge/Technical/Programming/Web/сайт.md",
@@ -254,11 +274,6 @@
     "knowledge/Что делать, если стали жертвой мошенничества.md",
     "knowledge/Как обманывает менеджмент компаний.md",
     "knowledge/Облигации со структурным доходом.md",
-    "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
-    "knowledge/Как подделывают финансовую отчетность.md",
-    "knowledge/Серая зона инвестиций.md",
-    "knowledge/Звонки и рассылки.md",
-    "knowledge/Порядок в личных финансах.md",
     "Efficiency/attachments/Pasted image 20250622153719.png",
     "Efficiency/attachments/Pasted image 20250622152531.png",
     "Efficiency/attachments/Pasted image 20250622145017.png",
@@ -266,9 +281,6 @@
     "Efficiency/attachments/Pasted image 20250622143604.png",
     "Efficiency/attachments/Pasted image 20250622143253.png",
     "Efficiency/attachments/Pasted image 20250621151137.png",
-    "work/Invest/Портфель.md",
-    "work/_Work.md",
-    "work/Invest/Invest.md",
     "work/Invest",
     "Efficiency/attachments/Pasted image 20250414195435.png",
     "System/interface.canvas",
@@ -280,7 +292,6 @@
     "Tags",
     "Efficiency/attachments",
     "Efficiency",
-    "Univercity/University-ISPU POCS/долги",
     "system.canvas",
     "Univercity-ISPU/6 sem/Untitled.canvas"
   ]

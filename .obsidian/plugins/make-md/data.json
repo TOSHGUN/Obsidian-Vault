@@ -48,11 +48,12 @@
     "//knowledge/knowledge/Languages/knowledge/Languages/Spanish",
     "//work",
     "//knowledge",
-    "//Knowledge",
-    "//Knowledge/Knowledge/Technical",
     "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming",
-    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming/Knowledge/Technical/Programming/Web",
-    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming/Knowledge/Technical/Programming/Web/Knowledge/Technical/Programming/Web/HTML"
+    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming/Knowledge/Technical/Programming/Web/Knowledge/Technical/Programming/Web/HTML",
+    "//Work",
+    "//Work/Work/IMZ",
+    "//Knowledge",
+    "//Knowledge/Knowledge/Technical"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
