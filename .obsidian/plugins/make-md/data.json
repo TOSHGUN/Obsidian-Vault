@@ -53,7 +53,9 @@
     "//Work",
     "//Work/Work/IMZ",
     "//Knowledge",
-    "//Knowledge/Knowledge/Technical"
+    "//Knowledge/Knowledge/Technical",
+    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming/Knowledge/Technical/Programming/Компьютерные сети",
+    "//Knowledge/Knowledge/Technical/Knowledge/Technical/Programming/Knowledge/Technical/Programming/C sharp"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
