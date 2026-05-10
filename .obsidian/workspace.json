@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e7383b9b2832e046",
+        "id": "4d2f616e1f93c4e7",
         "type": "tabs",
         "children": [
           {
-            "id": "c0eaf670d845e9b3",
+            "id": "db1d183007389da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Инвестиции.md",
+                "file": "Knowledge/Technical/Programming/Компьютерные сети/_Компьютерные сети.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Инвестиции"
-            }
-          },
-          {
-            "id": "ce779ce4012b8a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/кофейня.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "кофейня"
+              "title": "_Компьютерные сети"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,11 +80,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           },
           {
-            "id": "bdec70cfe7dd5ee1",
+            "id": "e83b284e4b8ec790",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,8 +172,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "timer-view"
             }
           },
           {
@@ -207,8 +182,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -217,12 +192,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
             "id": "31b0c37029d6e7dd",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "4c5db69924605518",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -241,61 +226,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ce779ce4012b8a2d",
+  "active": "db1d183007389da8",
   "lastOpenFiles": [
-    "Efficiency/attachments/Pasted image 20250915210001.png",
-    "Efficiency/attachments/Pasted image 20250915205638.png",
-    "work/бизнес планы.md",
-    "work/кофейня.md",
-    "home/задачи.md",
-    "home/home.md",
-    "home",
-    "Untitled.md",
-    "work/_Work.md",
-    "knowledge/Порядок в личных финансах.md",
+    "Efficiency/attachments/Pasted image 20260428162507.png",
+    "Efficiency/attachments/Pasted image 20260428162346.png",
+    "Efficiency/attachments/Pasted image 20260428154143.png",
+    "Efficiency/attachments/Pasted image 20260428152652.png",
+    "Efficiency/attachments/Pasted image 20260428152541.png",
+    "Efficiency/attachments/Pasted image 20260428152109.png",
+    "Efficiency/attachments/Pasted image 20260428150809.png",
+    "Efficiency/attachments/Pasted image 20260428150125.png",
+    "Efficiency/attachments/Pasted image 20260428145903.png",
+    "Knowledge/Что делать, если стали жертвой мошенничества.md",
+    "Knowledge/Technical/Programming/Компьютерные сети/_Компьютерные сети.md",
+    "Efficiency/attachments/Pasted image 20260424103546.png",
+    "Efficiency/attachments/Pasted image 20260424103449.png",
+    "Knowledge/Technical/Programming/Компьютерные сети/Компьютерные сети.md",
+    "Knowledge/Technical/Programming/Programming.md",
+    "Knowledge/Technical/Programming/Компьютерные сети.md",
+    "Knowledge/Technical/Programming/Без названия.md",
+    "Knowledge/Technical/Programming/Компьютерные сети",
+    "Work/IMZ/Local system imz.canvas",
+    "Work/IMZ/Untitled.md",
+    "Work/IMZ/IMZ.md",
+    "Work/IMZ/компьютеры.md",
+    "Work/IMZ/Завод.md",
+    "Knowledge/Knowledge.md",
+    "Knowledge/Technical/Programming/Web/HTML/Гипертекстовая разметка.md",
+    "Knowledge/Technical/Programming/Web/HTML/HTML.md",
+    "Knowledge/Technical/Programming/Web/HTML/Служебные теги.md",
+    "Knowledge/Technical/Programming/Web/HTML/html5book.ru.md",
+    "Knowledge/Technical/Programming/Web/сайт.md",
+    "Knowledge/Technical/Programming/Web/code-style.md",
+    "Knowledge/Technical/Untitled.md",
+    "Knowledge/_Knowledge.md",
     "knowledge/Философия.md",
     "knowledge/маржинальная торговля.md",
     "knowledge/Инвестиции.md",
     "knowledge/Как инвестировать, если нет денег.md",
-    "Efficiency/attachments/Pasted image 20250629141933.png",
     "knowledge/.md",
     "knowledge/Как не попасться мошенникам.md",
-    "knowledge/Как самому не стать мошенником.md",
-    "knowledge/Что делать, если стали жертвой мошенничества.md",
-    "knowledge/Как обманывает менеджмент компаний.md",
-    "knowledge/Облигации со структурным доходом.md",
-    "knowledge/Высокодоходные облигации с низким рейтингом (ВДО).md",
-    "knowledge/Как подделывают финансовую отчетность.md",
-    "knowledge/Серая зона инвестиций.md",
-    "knowledge/Звонки и рассылки.md",
-    "Efficiency/attachments/Pasted image 20250622153719.png",
-    "Efficiency/attachments/Pasted image 20250622152531.png",
-    "Efficiency/attachments/Pasted image 20250622145017.png",
-    "Efficiency/attachments/Pasted image 20250622143910.png",
-    "Efficiency/attachments/Pasted image 20250622143604.png",
-    "Efficiency/attachments/Pasted image 20250622143253.png",
-    "Efficiency/attachments/Pasted image 20250621151137.png",
-    "work/Invest/Портфель.md",
-    "work/Invest/Invest.md",
     "work/Invest",
-    "work/.md",
-    "knowledge/Languages/Spanish/Alphabet.md",
-    "Efficiency/attachments/Pasted image 20250414195435.png",
     "System/interface.canvas",
     "work/streaming",
     "knowledge/Technical/Programming/C sharp",
